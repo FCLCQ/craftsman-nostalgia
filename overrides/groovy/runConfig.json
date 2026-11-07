@@ -1,0 +1,25 @@
+{
+  "packName": "工匠怀古",
+  "packId": "placeholdername",
+  "author": "工匠怀古整合包",
+  "version": "0.6",
+  "debug": false,
+  "loaders": {
+    "preInit": [
+      "classes/",
+      "preInit/"
+    ],
+    "postInit": [
+      "postInit/"
+    ],
+    "init": [
+      "init/"
+    ]
+  },
+  "packmode": {
+    "values": [],
+    "default": "",
+    "_comment": "By default the packmode is not synced with the packmode mod. You can enable integration, but you can no longer change packmode on the fly.",
+    "integratePackmodeMod": false
+  }
+}

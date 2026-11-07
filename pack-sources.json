@@ -1,0 +1,1070 @@
+{
+ "minecraft": "1.12.2",
+ "name": "[CRL]工匠怀古",
+ "summary": "",
+ "note": "mods/ 与 shaderpacks/ 的下载地址与哈希，来源为启动器导出的 0.6.135 mrpack。",
+ "files": [
+  {
+   "path": "mods/+Fugue-0.24.4.jar",
+   "fileSize": 309884,
+   "hashes": {
+    "sha1": "2292c5074314b85904909a45bb3b93a88ed7378c",
+    "sha512": "1f5ca4bb8e8d03da5c843e70ecf3d29ed25abd2fbb68a0fcb72deb11ff05ad1dd185c4109c3193d7c204e7195c3958140b6fc69bb6aa018dea4e8d50331fbdf5"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/vylTACsh/versions/Wy9kZZUW/%2BFugue-0.24.4.jar",
+    "https://edge.forgecdn.net/files/8878/28/%2bFugue-0.24.4.jar"
+   ]
+  },
+  {
+   "path": "mods/Actinium-alpha-0.0.13.jar",
+   "fileSize": 7486421,
+   "hashes": {
+    "sha1": "8219a15d4a7f27a668c1640bcd1d1b1f8253971e",
+    "sha512": "f1f96b08b9e2e1463a86dec4679c3a1b4933c7c011e190a04ce4c0ced1b62234fe314d70bdb0cd649e182b1963f95e813d6a1be6641a39fd9e0f5a1b4f1b7e14"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9242/705/Actinium-alpha-0.0.13.jar"
+   ]
+  },
+  {
+   "path": "mods/Advancement Locator-1.3.0.jar",
+   "fileSize": 19887,
+   "hashes": {
+    "sha1": "66a6d4d315c4789332056bf18b16bcdc00a6a594",
+    "sha512": "caea091be676229575f3099769d8a839bfb93cabdde9cae2e1580c5eeae86d63191cdfd32fdc66e77304cbfd29e9d146d0c4a676e0102c094c81198b4c4c78e4"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8981/625/Advancement%20Locator-1.3.0.jar"
+   ]
+  },
+  {
+   "path": "mods/AntiqueArmory-1.12.2-1.3.0.jar",
+   "fileSize": 840493,
+   "hashes": {
+    "sha1": "96e8b8adb8a29cc35632050e6ed6321bf676092b",
+    "sha512": "f39799017fd47a45319d1f0e6f7f1f0fbfe737589b9fc3a658056b0a337e07eafc7eb456a25db968d9d76426389f932445c7fa44439a3abaf3046e0675521441"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8363/247/AntiqueArmory-1.12.2-1.3.0.jar"
+   ]
+  },
+  {
+   "path": "mods/AppleCore-mc1.12.2-3.4.0.jar",
+   "fileSize": 89615,
+   "hashes": {
+    "sha1": "a6a57a76936a559088e9282aacde6f761d7e0b39",
+    "sha512": "ae77cecf733637fc67ebf4acccb59180495c087eeebaf04ff8355e9d570d13d04e1543b3f22ca53e0996337af5dc18f70d81405844837ec3a6e7cda06446cd17"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/2969/118/AppleCore-mc1.12.2-3.4.0.jar"
+   ]
+  },
+  {
+   "path": "mods/Atlas-Lib-1.12.2-1.1.11.jar",
+   "fileSize": 1365308,
+   "hashes": {
+    "sha1": "6d707db466168435050414a2ea65ccd700ec9c3e",
+    "sha512": "9368277aa9c96a24045bf76a83cc1d17a5b6cce0ec7be2bb499d8e2757ea256803de08016008de23c51b155a3c18ea574cc355ceb1ad43ad841a37d2417d73e5"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/G6VHtQr4/versions/UekJfJ7l/Atlas-Lib-1.12.2-1.1.11.jar",
+    "https://edge.forgecdn.net/files/8206/890/Atlas-Lib-1.12.2-1.1.11.jar"
+   ]
+  },
+  {
+   "path": "mods/Baubley-Elytra-v1.3.6-mc1.12.2.jar",
+   "fileSize": 37104,
+   "hashes": {
+    "sha1": "bc5ef8f694d588a650709b9e226782601cc5eaa9",
+    "sha512": "047a7fb9ce8923668311432092a1a7fa1eb24f93b7601dccaf424ea479d99470c53f7bccc1b12129547afc2dd1fecc4757706261855c99503739f96aac726103"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/6NbRjpb0/versions/JwyK9kDk/Baubley-Elytra-v1.3.6-mc1.12.2.jar",
+    "https://edge.forgecdn.net/files/8211/161/Baubley-Elytra-v1.3.6-mc1.12.2.jar"
+   ]
+  },
+  {
+   "path": "mods/Bubbles-2.4.10.jar",
+   "fileSize": 342223,
+   "hashes": {
+    "sha1": "3e91a89f9196469c5c195ad8377696a3d6511f8b",
+    "sha512": "4fa2d2240a16bf862d1ae9b91f8fb996f0f926059d608579dc14e4d60e167f97a6a8efcc30e992b95714d45b19fe10ba32eecca49d5836f91dc4b948df99549e"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/7736/64/Bubbles-2.4.10.jar"
+   ]
+  },
+  {
+   "path": "mods/Bundles-1.2.3.jar",
+   "fileSize": 208171,
+   "hashes": {
+    "sha1": "984677647178be0f8fe7f826736098599350b90c",
+    "sha512": "7befd2b82ae61c82daf88e738ba65a441fdccf26eabc1a9de19c81b323574b009cd0b8737659a214532e623ddeeefe0e1a6aa5548ce54030dbf0da012bf3e737"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/6339/953/Bundles-1.2.3.jar"
+   ]
+  },
+  {
+   "path": "mods/Cherry_on-1.12.2-1.3.35.jar",
+   "fileSize": 6340868,
+   "hashes": {
+    "sha1": "bd609d50a42d58bb07fe76284d2ac59290ae26d1",
+    "sha512": "44fec7c5f176b16fe309bf0a4dc8d4cf4e2bb0cac02779b85a846601cea5533de043a7a1947641d94a5ce5851e0c676cc512c2e4945f60eb63c30f2f539a71e0"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/UmCzjjmW/versions/Do8vDpiC/Cherry_on-1.12.2-1.3.35.jar",
+    "https://edge.forgecdn.net/files/7760/834/Cherry_on-1.12.2-1.3.35.jar"
+   ]
+  },
+  {
+   "path": "mods/Deeper-Depths-1.12.2-1.1.2a.jar",
+   "fileSize": 18629582,
+   "hashes": {
+    "sha1": "593aaea64fa32403972b848878e8cbe32fd0b822",
+    "sha512": "d7b6cf7e1e060d5b514ba0d1b3c62f706323bb0b2c3539fea23a46f3d29be6e70eadb4136458bbaa774ae4e806290e123b0c4f45e9a489f7ce1e7a3359c0755f"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8962/580/Deeper-Depths-1.12.2-1.1.2a.jar"
+   ]
+  },
+  {
+   "path": "mods/DynamicSurroundings-1.12.2-3.6.3.jar",
+   "fileSize": 15778870,
+   "hashes": {
+    "sha1": "62fc23aa49ba392f4bbeb14ff0aae276ff3a27f4",
+    "sha512": "234aed95ecd7086d817979ac98332476a7e81bacf915f6a5b397e971275c66369408b1f483725bb8cbd24fe4177bb8840bbe71b9cc864991a2eb62e0bbc2d7bb"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/3497/269/DynamicSurroundings-1.12.2-3.6.3.jar"
+   ]
+  },
+  {
+   "path": "mods/FarmersDelightLegacy-1.1.8.jar",
+   "fileSize": 3241549,
+   "hashes": {
+    "sha1": "81c5a8f4ade2ca9b01d4564a981a8a2762f8c531",
+    "sha512": "4b211893a8c725aeb22ccc1c5bc1ec760f2288a9d1ad4558e4021040cf4772d57f885e65b440dda14d27f196d29874f368a1ef08a98cb0d0e38ee92ee713e37d"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9278/76/FarmersDelightLegacy-1.1.8.jar"
+   ]
+  },
+  {
+   "path": "mods/Fixeroo-2.3.7.jar",
+   "fileSize": 219869,
+   "hashes": {
+    "sha1": "21ccf9a7c549f3992bb72ae35587834496b9144d",
+    "sha512": "93a6dbd0a3b1206114ade50d2ec88de66f052175c46fa5767a92273d8d635282b54c64d60abc98be9a8c068100797b0b9a26bf2403fba47caff271e80af1e0a5"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8144/778/Fixeroo-2.3.7.jar"
+   ]
+  },
+  {
+   "path": "mods/Forgelin-Continuous-2.4.20.0.jar",
+   "fileSize": 8020330,
+   "hashes": {
+    "sha1": "0a5deb046838d8af2f37cde0251c77f861801d65",
+    "sha512": "7017c3d51eb28cb694da76e44e43c1f9192177baec29c4934b6a071942806696dc26e4d8c87c9de0ba891034ba56e3adade3a36bb296648ec4bcf9dbac4aa3e6"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/1mPcAmuy/versions/8faHEzO3/Forgelin-Continuous-2.4.20.0.jar",
+    "https://edge.forgecdn.net/files/8877/225/Forgelin-Continuous-2.4.20.0.jar"
+   ]
+  },
+  {
+   "path": "mods/Gasts_drop_records-1.12.2-forge-1.0.jar",
+   "fileSize": 3211694,
+   "hashes": {
+    "sha1": "60cb6e143123af79a3504450e1741980e79a96f7",
+    "sha512": "79dc2a84c62f8c8bcfc83c9c64e6653b4596f9679b42d30b81dae6e42ee7b43ad908c57bbede6de7f0bd78646bf49e3fc0cf7b0c1357e68ec7a0354fdc7cfaed"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/6538/971/Gasts_drop_records-1.12.2-forge-1.0.jar"
+   ]
+  },
+  {
+   "path": "mods/HadEnoughItems_1.12.2-4.37.3.jar",
+   "fileSize": 1052543,
+   "hashes": {
+    "sha1": "7a3eb065e8b03e1c48de290087039448a6c5f9d0",
+    "sha512": "5e574041118b7b74cde024cfebbb72b25cf1475556e9f4a23b1cec1701a7346afd38e41bd88871d476d2ec11ac877f3e98a6091f964206c6b4b5a4d8c29c325b"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/2iXFLwYO/versions/T4sU7pzK/HadEnoughItems_1.12.2-4.37.3.jar",
+    "https://edge.forgecdn.net/files/9407/198/HadEnoughItems_1.12.2-4.37.3.jar"
+   ]
+  },
+  {
+   "path": "mods/HappyGhast-1.12.2-1.0.14.jar",
+   "fileSize": 1097498,
+   "hashes": {
+    "sha1": "6947cf09e93876c7e4d0ba028084ae0813d90b5c",
+    "sha512": "bb4660998e6bff3ee53c2034bff92b8cca8823bf2ed63b20081f5132565b5f93b82bbfaa1e9b3ea006b3f9922f43d1cf084a288d164f3b4a490c5ac505f6c71e"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/Rc1X7Ede/versions/QaXrzniI/HappyGhast-1.12.2-1.0.14.jar",
+    "https://edge.forgecdn.net/files/6891/624/HappyGhast-1.12.2-1.0.14.jar"
+   ]
+  },
+  {
+   "path": "mods/Hwyala-1.8.26-B42_1.12.2.jar",
+   "fileSize": 453218,
+   "hashes": {
+    "sha1": "c1e5baf116be10539bb5f4d5b67be6b2d2a2150c",
+    "sha512": "f0684a29b9f77232b71b99b91ab36a6c58de4992ae8ba9b74fd00d3096cd88d5bb0706d7b28d745262e663484d9268e3ab66bbadcb61927a3fc21877532cc3a0"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/hPtqjFyB/versions/Qnj0hx42/Hwyala-1.8.26-B42_1.12.2.jar",
+    "https://edge.forgecdn.net/files/8153/162/Hwyala-1.8.26-B42_1.12.2.jar"
+   ]
+  },
+  {
+   "path": "mods/HydroAgility-1.15.4.jar",
+   "fileSize": 189201,
+   "hashes": {
+    "sha1": "1b5bd3cfa8745acad91e7b1e068ed5067d8dfba8",
+    "sha512": "8442e89f0d29ee3ff054311bbdefaf34707289a96f366a5276ab5bcae48c6d6a9a3ccc76d196b540f62f1ce7b6ab3173046f4b8e2c9b828b4408dbfc5e5e5d8f"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/mFN3HGaY/versions/q1KSo2bj/HydroAgility-1.15.4.jar"
+   ]
+  },
+  {
+   "path": "mods/InventoryHUD-1.12.2.forge-3.4.4.jar",
+   "fileSize": 217960,
+   "hashes": {
+    "sha1": "b2ce2d6fdb0842139b892b27af08b3aaec7f2d19",
+    "sha512": "ea6841f5ab86d611b0351c7eb6f1b5e54d4efd58f71e1300d9c837e02ff6d17ca7f18ed0a3e5165c73cb6f8d67ca37d060c071ed0ebd8a4ff505bb1ad81565b9"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/Kp2uclYl/versions/7jtQLO3B/InventoryHUD-1.12.2.forge-3.4.4.jar",
+    "https://edge.forgecdn.net/files/3565/980/InventoryHUD-1.12.2.forge-3.4.4.jar"
+   ]
+  },
+  {
+   "path": "mods/ItemPhysic Lite 1.3.7 mc1.12.2.jar",
+   "fileSize": 471292,
+   "hashes": {
+    "sha1": "63fd419d636d509023fdc435aab2ba379970a334",
+    "sha512": "a9ff43e04c35e003c57ed9f66acc4b5736f95e2e5d441951b8b2f18d67871cc576c17fd610039df55c080518e536338a9159821d7c343fa4731146f2e0c12b02"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/2491/98/ItemPhysic%20Lite%201.3.7%20mc1.12.2.jar"
+   ]
+  },
+  {
+   "path": "mods/Jade-0.1.0.jar",
+   "fileSize": 28775,
+   "hashes": {
+    "sha1": "6876a7399c604169d7acb06d441743eaac5dd615",
+    "sha512": "467f4b72c49909d0491f41e88d975ed3a575e14920746205836e930a3aa57ee19202922f724edb166b04370ecb1b1fe7465579ad729838a645c5927e698f3a82"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/2735/905/Jade-0.1.0.jar"
+   ]
+  },
+  {
+   "path": "mods/JustEnoughDrops-1.1.1.jar",
+   "fileSize": 40726,
+   "hashes": {
+    "sha1": "f186dc55a4d28793d53440e99931706d7193b7c2",
+    "sha512": "2269f909be57440ac119d55f15c9c6c63bddfaeda104788e30d1f1ac6b9f379d928f8e9b37f285c047b0bdc899c7d7d2da898696721e975a567a55557159c44e"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8752/897/JustEnoughDrops-1.1.1.jar"
+   ]
+  },
+  {
+   "path": "mods/JustEnoughResources-1.12.2-0.9.3.203.jar",
+   "fileSize": 222318,
+   "hashes": {
+    "sha1": "cabcc7f31532215a6dd7c884ae281b59e0a53e2c",
+    "sha512": "880e1b7127deccc657dede82e3a28b308b553611a8925eb5902be7c71761e2cfb99247dc5f204644dd03506e47cbaa36f00c4a7f8769bb4767ec13cdc0850174"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/4440/935/JustEnoughResources-1.12.2-0.9.3.203.jar"
+   ]
+  },
+  {
+   "path": "mods/Mantle-1.12-1.3.3.55.jar",
+   "fileSize": 843486,
+   "hashes": {
+    "sha1": "a1e5d5c197dae3e92637cafb8cd996185191165b",
+    "sha512": "3ff6e2ef2eaa0ea5c1cf0d30dc35cec65b92f1eb2bb9f1261a6c97755e7cc24b80a6902f354d9b88ae58f0a03077b74a35ecce494705a551c769d102b1c397c3"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/Cg6Uc79H/versions/XPQUzjYi/Mantle-1.12-1.3.3.55.jar",
+    "https://edge.forgecdn.net/files/2713/386/Mantle-1.12-1.3.3.55.jar"
+   ]
+  },
+  {
+   "path": "mods/OceanicExpanse-1.2.2.jar",
+   "fileSize": 6364001,
+   "hashes": {
+    "sha1": "86b6cd29e92179711dbe7931c0c3503f3dd949d3",
+    "sha512": "33b6749bca94fdf299591f25af4cc7fd158a3fd9c6b7a35002f21d4f53ea59685bb5b75cd0415fb202ebc450bcfd595e65dbb1a2a405050d67c8e92ac7b47ad5"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/W81ZzfUo/versions/JnAUI2fI/OceanicExpanse-1.2.2.jar",
+    "https://edge.forgecdn.net/files/7009/970/OceanicExpanse-1.2.2.jar"
+   ]
+  },
+  {
+   "path": "mods/OreLib-1.12.2-3.6.0.1.jar",
+   "fileSize": 341728,
+   "hashes": {
+    "sha1": "5debb0481552c54bb6ad72d56b05b31d92e2f5d8",
+    "sha512": "3ad0585f5ec0e21c09fc89bfac1b0e3a15382ef9254cfa8886c4a14b31e976f7f9840284b24145f7fd3e60288a58ccaec78e4e2a02dacf670d8aaacfe3b6f7aa"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/2820/815/OreLib-1.12.2-3.6.0.1.jar"
+   ]
+  },
+  {
+   "path": "mods/ReachFix-1.12.2-1.1.3.jar",
+   "fileSize": 98093,
+   "hashes": {
+    "sha1": "d9994c089b4f30de9f7be0690624a535716456d1",
+    "sha512": "715d301eb023b80f28a14f079f12a38763315c843ca885c1695fb5cfe4466931fdc64f18e81c9e52a2ee5bcdaa211866eb9149e5d254a4081de8a38905c52f6d"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/lX0pPsIX/versions/yREinuec/ReachFix-1.12.2-1.1.3.jar",
+    "https://edge.forgecdn.net/files/6327/271/ReachFix-1.12.2-1.1.3.jar"
+   ]
+  },
+  {
+   "path": "mods/SauriaLib 3-3.2.1-beta.jar",
+   "fileSize": 3636663,
+   "hashes": {
+    "sha1": "4adff0e679c451af8fb7e2d812e2dded3f6b4ff0",
+    "sha512": "21c5312d328cdd7381ef382120c195cfafb0064c944a6e14b03fa0e89bc14b4b807fd03a462fcf51cb30e3013244852c2fe0f1aecf3befa57bcf900213be5781"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/ceqjuh2v/versions/PmBiT5TV/SauriaLib%203-3.2.1-beta.jar",
+    "https://edge.forgecdn.net/files/8046/370/SauriaLib%203-3.2.1-beta.jar"
+   ]
+  },
+  {
+   "path": "mods/ShulkerTooltip-1.9.2.2.jar",
+   "fileSize": 10384,
+   "hashes": {
+    "sha1": "3c955281898810775ab0e7863b34e5071ed3d291",
+    "sha512": "2b3e37402f3f6290dc9fa128d786329dc46f0f724241f7804f7158dc688923ac45745ca6fc350ccbe39ab23cbb32f518573288e7761a12f177eda4b759185c3e"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/3321/356/ShulkerTooltip-1.9.2.2.jar"
+   ]
+  },
+  {
+   "path": "mods/SimpleSmelteryAccelerator-1.0.1.jar",
+   "fileSize": 20379,
+   "hashes": {
+    "sha1": "e406174a3546d361d405390efe5959b49d1853d1",
+    "sha512": "c0ec73bc7173e5a879d44a74be56de36318c7b6191ce259dee1a45ee1bd0d849703cc18bc91a498bdcba1ac63e3a61ada7ae56aba9c620ca834967a89df5705d"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/2746/674/SimpleSmelteryAccelerator-1.0.1.jar"
+   ]
+  },
+  {
+   "path": "mods/StellarCore-1.6.8.jar",
+   "fileSize": 1576708,
+   "hashes": {
+    "sha1": "2bee0c05f44a9553c53d69aee37a8605466e0bf4",
+    "sha512": "efbfbcdf015a4112cd60426ac05cabefb269478d1c473153913519cc1709181b33449cf77aee8b1fd2e989520ca7bfabf1397246878daa92fde6e64b7da4cbc5"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9430/934/StellarCore-1.6.8.jar"
+   ]
+  },
+  {
+   "path": "mods/Textiles-1.5.jar",
+   "fileSize": 587552,
+   "hashes": {
+    "sha1": "839292dfba3bc0aa40d8fa9e62489d698b9dac1d",
+    "sha512": "c9876dd3690d1b32ce1270eae26fd18f773a341252498fca22cba5f11e04afc5dd89b9e338c4ed04af2b2f8ac686a3c57fb6a18f16ad36837218bcd2a3ca9dde"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/KYCZowhx/versions/YXJwmApJ/Textiles-1.5.jar",
+    "https://edge.forgecdn.net/files/9076/252/Textiles-1.5.jar"
+   ]
+  },
+  {
+   "path": "mods/TinkerToolLeveling-1.12.2-1.1.0.jar",
+   "fileSize": 95850,
+   "hashes": {
+    "sha1": "69705dd5de7c9cd54f6fdb8198b959f93b7d1400",
+    "sha512": "87198287721bd80ee0c35984eaabf1d0af65a2fa2499871bd8b171cbac196749c25bdf4a1a988918ae1fb11ddff9fdd3e883c0803af57f60b1f158935e1f2ada"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/2630/860/TinkerToolLeveling-1.12.2-1.1.0.jar"
+   ]
+  },
+  {
+   "path": "mods/TinkersAntique-1.12.2-2.13.0.209.jar",
+   "fileSize": 4588755,
+   "hashes": {
+    "sha1": "b6bfc64f316ee2be37be9b78390463263f9c7536",
+    "sha512": "e3b0f9bf1eb8f968c2f3769aef18baa3a13e9d4cd2d9aa6dc696cab3917ea9594b9d9c64f463382f2e3b98a5598a517c311cdbb1676ac1e3092d616089498bd3"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8666/425/TinkersAntique-1.12.2-2.13.0.209.jar"
+   ]
+  },
+  {
+   "path": "mods/TinkersPlannerAntique-1.12.2-1.2.0.jar",
+   "fileSize": 273713,
+   "hashes": {
+    "sha1": "25a77594033dadbe1b0a29d3dbcca243713b263e",
+    "sha512": "92b3129c5128b265ffa54a5e469ca57f075a4789bdf7d154b43578b58f1576531741eb92b2a4f7df0adea0f6af30f3e97966d694e3f6771aa388b7538b6c3c4d"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8592/326/TinkersPlannerAntique-1.12.2-1.2.0.jar"
+   ]
+  },
+  {
+   "path": "mods/TinkersTacticalToughness-1.9.8.jar",
+   "fileSize": 833497,
+   "hashes": {
+    "sha1": "2ec2e620e939e8365cbac3918c5bb917722d29d5",
+    "sha512": "c6d8188fcd494da3ca86d9875b0fe89518c7adc947008c5f71974894aa8317a031ddca10dc068ca832e3786790c5b8e6db87aad0b6ad7d4e8748f3b25aafe017"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9096/560/TinkersTacticalToughness-1.9.8.jar"
+   ]
+  },
+  {
+   "path": "mods/TravelersBackpack-1.12.2-1.0.35.jar",
+   "fileSize": 397467,
+   "hashes": {
+    "sha1": "5c9157582cc081f0d3b4090f3a2dbc5cfbe70cc6",
+    "sha512": "2d86d52a770589af4bc642fc6864b6b3d37d27a8d6670899a0ce1f43c8af80cf9c3e06ab62a81af5e37229115fdb1b87df898ee13ea6666f64ec9043eecd88c1"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/rlloIFEV/versions/1.12.2-1.0.35/TravelersBackpack-1.12.2-1.0.35.jar",
+    "https://edge.forgecdn.net/files/3150/850/TravelersBackpack-1.12.2-1.0.35.jar"
+   ]
+  },
+  {
+   "path": "mods/TwilightDelightLegacy-1.4.1.jar",
+   "fileSize": 710436,
+   "hashes": {
+    "sha1": "564ed6cb973018c1b9a44a8d5b5ce5485cbe206a",
+    "sha512": "74223ea36d113e6562cb63e1d025b1e85c5b89ed7563b243191596c872808051eb117b708a0bf9097bb94f151ca4069867690d5150dca463a957272f9b1efa60"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9321/516/TwilightDelightLegacy-1.4.1.jar"
+   ]
+  },
+  {
+   "path": "mods/UniDict-1.12.2-3.0.10.jar",
+   "fileSize": 225385,
+   "hashes": {
+    "sha1": "2b72e49682aca50fa55522c5080f2ba20173c565",
+    "sha512": "68673583b44dc7287ea35c83202908b87d346fa31ca18c9e351f0b928e8fc7a55b664c0c18f7c6847a7d27040207993ba9d7a44ec274aaf4bfe73ac2c679c502"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/deXLECwV/versions/ZSlQ1mMH/UniDict-1.12.2-3.0.10.jar",
+    "https://edge.forgecdn.net/files/3553/627/UniDict-1.12.2-3.0.10.jar"
+   ]
+  },
+  {
+   "path": "mods/UniversalTweaks-1.12.2-1.21.0.jar",
+   "fileSize": 2021938,
+   "hashes": {
+    "sha1": "2bd0bbf962dcd796917ea9e1c7ac6344b9fe363c",
+    "sha512": "2583babeeccbf3235fe0aa68d996d3480fab0cc79dd58555bebd08e7f51b73fff1548ed83118b6ff26cc5b562ebcf751e86becb4a75a2136e386c9b6b9b3296a"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/s32LssQX/versions/eGtvVjBI/UniversalTweaks-1.12.2-1.21.0.jar",
+    "https://edge.forgecdn.net/files/8941/250/UniversalTweaks-1.12.2-1.21.0.jar"
+   ]
+  },
+  {
+   "path": "mods/WailaHarvestability-mc1.12-1.1.12.jar",
+   "fileSize": 31462,
+   "hashes": {
+    "sha1": "7e1abc8dd61390285167284a5eb3bf0e57a52760",
+    "sha512": "41114b77809760eff8ab9b01b3ea484c87b631c8cced1c61b4aaa6a706a0d0113cc8ea4a1f9208a879d91fb0c90bba44b5c8371cfe702c80438bcc473b38c646"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/2481/605/WailaHarvestability-mc1.12-1.1.12.jar"
+   ]
+  },
+  {
+   "path": "mods/WanionLib-1.12.2-2.91.jar",
+   "fileSize": 223035,
+   "hashes": {
+    "sha1": "68196be7d926aee4fe8b5c0d535909c5b2ce3f2c",
+    "sha512": "887255944be7b87939c7e77efbe445caf9a36ddf74c5cde0bb8837956d442e7e315b79c2d7537c4c247b4390e42ec19405f6e81cfabbeadcb507077f47a91ef5"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/U90pf4L4/versions/3a3PhVbx/WanionLib-1.12.2-2.91.jar",
+    "https://edge.forgecdn.net/files/4623/135/WanionLib-1.12.2-2.91.jar"
+   ]
+  },
+  {
+   "path": "mods/[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar",
+   "fileSize": 51610,
+   "hashes": {
+    "sha1": "9c4f758e158ae780dbf091d7c05e30eb13d8175f",
+    "sha512": "b8ed0c55cfd95181d3632990be21bc2bf85ecb325c1687e5404ec85674d96779173cc829b1cb9f52fafd8fe62d95fab9e1a873fd81f25299e2c89808a9e69c5b"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/iWiOURsj/versions/bJC5mnH8/%5BMC-1.12.2%5D%20Key%20Binding%20Patch%20v1.3.3.3%20-%202024-12-1.jar",
+    "https://edge.forgecdn.net/files/5951/859/%5bMC-1.12.2%5d%20Key%20Binding%20Patch%20v1.3.3.3%20-%202024-12-1.jar"
+   ]
+  },
+  {
+   "path": "mods/armoryexpansion-2.0.0-alpha.jar",
+   "fileSize": 82545,
+   "hashes": {
+    "sha1": "42fffb0f228fa75588bd4fb91f28b98378b473ce",
+    "sha512": "b84f8186ab66753115b7e5a119e00a3835ebbfbe7389fe72f7722239981c50be50a7a9cfd26e78156c432dfe09f9342fb0c3306464baa6041a0fe07b374af482"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/2925/155/armoryexpansion-2.0.0-alpha.jar"
+   ]
+  },
+  {
+   "path": "mods/assetmover-2.5.jar",
+   "fileSize": 42829,
+   "hashes": {
+    "sha1": "b147ada093f5552fdedee9b7ee0de1d99b6f3c06",
+    "sha512": "ba0d79120819afe32aef78dea006042a1021da4f7a1225f46988540ee22d9048527b14f39a5f119042d935db3bddace7865fc93ceaf1f16b90a40d16a7922978"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/4430/763/assetmover-2.5.jar"
+   ]
+  },
+  {
+   "path": "mods/bogosorter-1.6.4.jar",
+   "fileSize": 290821,
+   "hashes": {
+    "sha1": "f8f1c7da398a48f7d9169381f1d984844056dc64",
+    "sha512": "6c18d250bf5c89cf77c16c804a17ea1510193b5edfe6168519ed030e45937efed620e82218793439f846e6b95113277dab07476fac105ab510af4872cc163e75"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/CuLATCrJ/versions/nD915vxB/bogosorter-1.6.4.jar",
+    "https://edge.forgecdn.net/files/8231/600/bogosorter-1.6.4.jar"
+   ]
+  },
+  {
+   "path": "mods/botania-r1.10-377.jar",
+   "fileSize": 13886986,
+   "hashes": {
+    "sha1": "f014b42dab1c2d5e6fd8371df7d503a0876b86f9",
+    "sha512": "05630c1822a64e8cade081330f5a227dbbfc1e9f85e4ffef78ab4f91157d9316ce86245363803db57652e0908e83ec4e29ee7713f5bf4c53cdd373864b761514"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9249/272/botania-r1.10-377.jar"
+   ]
+  },
+  {
+   "path": "mods/celeritasdynamiclights-1.2.11.jar",
+   "fileSize": 1068978,
+   "hashes": {
+    "sha1": "778f8297cd933d73904cf39206fa88402d9194ee",
+    "sha512": "6a07890fcabca3b74435642ec655342065ad7dd003f96acea5c010b43b0428d5039302fd73f0b5433d8541e7b5cf2d25ab2d40913595004a6d42eeae7b021ca0"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/McEPxZ3z/versions/1YOX6lRI/celeritasdynamiclights-1.2.11.jar",
+    "https://edge.forgecdn.net/files/9147/480/celeritasdynamiclights-1.2.11.jar"
+   ]
+  },
+  {
+   "path": "mods/celeritasextra-0.9.3.jar",
+   "fileSize": 287708,
+   "hashes": {
+    "sha1": "48050a58fd42ac637101a667769c8564290565d5",
+    "sha512": "089751ce47d0031749d7a5bf7564138645d762d0861b6dd9fa6239b30dbc7f99e39a1a4f87dd9805d0ca035208093fdf93f446d99799c4f7e282f16e3956f9d3"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/LXQekDcE/versions/6E4PKNVD/celeritasextra-0.9.3.jar",
+    "https://edge.forgecdn.net/files/9182/637/celeritasextra-0.9.3.jar"
+   ]
+  },
+  {
+   "path": "mods/celeritasleafculling-1.0.1.jar",
+   "fileSize": 1251956,
+   "hashes": {
+    "sha1": "5b301078556db12a3b00db04a8fe6ca7df23494d",
+    "sha512": "90e2f399ad25e4086256b11455f742fb45057d44b1b5fea4ef67da9b2bdf5a6694200d382ce59d18ec04d3879e2779c78dc7290e159005350bca8ca51fb53ac5"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/Ulyqqa6E/versions/U4edX37U/celeritasleafculling-1.0.1.jar",
+    "https://edge.forgecdn.net/files/9099/82/celeritasleafculling-1.0.1.jar"
+   ]
+  },
+  {
+   "path": "mods/chat_heads-0.1.3.jar",
+   "fileSize": 83247,
+   "hashes": {
+    "sha1": "cde206816e5bb677085b712d2a5554c0057ed0aa",
+    "sha512": "11732b887fc2bc3e1e390fd997639e6d6a015b1a2b5be05f074c421a60030abaaa8591b3b47af2f3072e8dec3b0b72b50a2ea7765b04702b95b304e06bba3e02"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/khN4yZlX/versions/Z4UTwIQc/chat_heads-0.1.3.jar",
+    "https://edge.forgecdn.net/files/9163/56/chat_heads-0.1.3.jar"
+   ]
+  },
+  {
+   "path": "mods/cherishedworlds-1.12.2-1.0.1.jar",
+   "fileSize": 37519,
+   "hashes": {
+    "sha1": "ea5fd7e61fb7c8ab6a546e2a17a6f4929e904ec0",
+    "sha512": "01341422c98731787adedf8a4f38f73ffdcb9d15d6d0077e72c5c7423a7826b8561446a14b93f5da53bdd59f4e150f0c645e80eff1ee6f954d49351abf49193d"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/3azQ6p0W/versions/NKPlBLC1/cherishedworlds-1.12.2-1.0.1.jar",
+    "https://edge.forgecdn.net/files/2837/800/cherishedworlds-1.12.2-1.0.1.jar"
+   ]
+  },
+  {
+   "path": "mods/chibi-5.34.jar",
+   "fileSize": 1750499,
+   "hashes": {
+    "sha1": "2c02004c36cc1be3647ed22af23a84cfa9bf67bc",
+    "sha512": "607653b114007f3d6b5001f99743ab3933189835984cad10c20a7310bec08d8ebba41274a3b84cda16f85133a221ddb554fafba3353eab306bb4f127a2a8522f"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8957/115/chibi-5.34.jar"
+   ]
+  },
+  {
+   "path": "mods/classicbar-0.6.1.jar",
+   "fileSize": 107129,
+   "hashes": {
+    "sha1": "185516b3d52309bb3ca75971f7ee6e37af7479ed",
+    "sha512": "4aa28c7f6284a58d806198a089b0bd509390ee00b216f3a2c7f2b2c21bf1901ab8d533393609d958c6773a51f935a67ac191c7940515077a25d71202d84b13a0"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8638/232/classicbar-0.6.1.jar"
+   ]
+  },
+  {
+   "path": "mods/crafter-1.0.0.1-1.12.2-forge.jar",
+   "fileSize": 87494,
+   "hashes": {
+    "sha1": "99d8aabda404089499be27c7d91212a0036cb61d",
+    "sha512": "ed8ef4a69a0d364293f2623412d4e84401255851a3d1d180eeb09536aaf03647d4ab3e08bc6954068769b8ce943df3fbed42a128bb99f4f108098becc2d97a3e"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8977/830/crafter-1.0.0.1-1.12.2-forge.jar"
+   ]
+  },
+  {
+   "path": "mods/datarium-0.6.1.jar",
+   "fileSize": 1137614,
+   "hashes": {
+    "sha1": "6a4d39f2b641713ccaa91e7f55a05f6872302130",
+    "sha512": "e68f08a7d2f631c0de4d74e310bc22d3842e13e21a51943a127be5fec0c1f369a49222a672a1a3bbfeb866d07e4aea7bdfc8329353d478eaa808cbf7cfd21a5e"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9110/847/datarium-0.6.1.jar"
+   ]
+  },
+  {
+   "path": "mods/discsbackport-1.0.1.jar",
+   "fileSize": 11262511,
+   "hashes": {
+    "sha1": "e7514302dbedfdbf2a703db7883b04b3159cf897",
+    "sha512": "9ed03d03588a660f5a055a8c28fe21076fe22b2d8a341ce1a9357fbfc369ef542f352dc91793b9a848e1ec34f632c6093d41decce375de1502e6ae5f7c023756"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8568/316/discsbackport-1.0.1.jar"
+   ]
+  },
+  {
+   "path": "mods/ends-delight-legacy-1.0.3.jar",
+   "fileSize": 224328,
+   "hashes": {
+    "sha1": "9b03b5fce7cfc70d6afe225654e596e6e36efca7",
+    "sha512": "68b6709f0bb8bb0a43867144a520c4e7960ced5edad931616c734ad32ec6db2c4d363ff3be8a8a64cc30fe6872900370dfd20ab36dbf2a43f4095a2f14a3ef8e"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8483/661/ends-delight-legacy-1.0.3.jar"
+   ]
+  },
+  {
+   "path": "mods/fallingleaves-2.1.2.3.jar",
+   "fileSize": 104319,
+   "hashes": {
+    "sha1": "24fdc367eb75eff300e73ebbbb123fc643bd20d8",
+    "sha512": "d70646bc11606573820f0252c27f4d0564d2036194cc3ff6fb47d2b8b19ac5787ac3686b076078e18588dbdfb7b21c89c9ea97da0ae3bcfd04f613b1c4b0ff1b"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/uHHKqwr9/versions/IYPcpIY7/fallingleaves-2.1.2.3.jar",
+    "https://edge.forgecdn.net/files/9328/340/fallingleaves-2.1.2.3.jar"
+   ]
+  },
+  {
+   "path": "mods/farmers-future-delight-1.5.2hotfix1.jar",
+   "fileSize": 33522970,
+   "hashes": {
+    "sha1": "ca11f4705dcf1ea3cc6c99c3ae19f18a2a70fb46",
+    "sha512": "062193726e0978455a45f07c60252793e2fd645bc65beeb9953e2e216145a938612baa6908c63eef3d6f9539fd8e64fe0fdc71fdd527d77b32a58e9f218c23ee"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9487/212/farmers-future-delight-1.5.2hotfix1.jar"
+   ]
+  },
+  {
+   "path": "mods/fishtickfix-1.2.0+mc1-12-2-forge-14-23-5-2860.jar",
+   "fileSize": 6613,
+   "hashes": {
+    "sha1": "6349700d04bf24633bd3d1f9b4c4592a8da2526e",
+    "sha512": "d81803b602de48fbaaca788d011e46bdd6ee27c5123b6a359ab19838f6dcac443b9439db5497be7e7e08fe3fe86623e250df40597ca1d20cea4ed64e6a4ade80"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/DHRQXUUz/versions/QghlquM3/fishtickfix-1.2.0%2Bmc1-12-2-forge-14-23-5-2860.jar",
+    "https://edge.forgecdn.net/files/6819/246/fishtickfix-1.2.0%2bmc1-12-2-forge-14-23-5-2860.jar"
+   ]
+  },
+  {
+   "path": "mods/gnetum-1.4.3.jar",
+   "fileSize": 122373,
+   "hashes": {
+    "sha1": "f726eaa6b6a536802ce65cd6b015652456b36c0d",
+    "sha512": "feb8cbffaa4523520e46e79676be96e1e978f06f9399c99110e0ac11ae81c839cbdfb7f3891f4d67883cc9a0d01ee54eb27622df56fa9090f0ad076d3022743a"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/7MoE34WK/versions/a3gijsQd/gnetum-1.4.3.jar",
+    "https://edge.forgecdn.net/files/8095/729/gnetum-1.4.3.jar"
+   ]
+  },
+  {
+   "path": "mods/groovyscript-1.5.0.jar",
+   "fileSize": 16944480,
+   "hashes": {
+    "sha1": "8df80398fe5d1ef6dea499a6a9901dcd90592dd7",
+    "sha512": "bb42e718ce1dda6d537aaa39d8f1554c3166feaa4ccfc0153a6d9c6657d988affae9f65bda54b482df4b6d3c6c2d3f0ba37184fbbc166c9d7ea6432b99daf9c5"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9367/380/groovyscript-1.5.0.jar"
+   ]
+  },
+  {
+   "path": "mods/ironchest-netherite-1.12.2-1.0.2.jar",
+   "fileSize": 1326586,
+   "hashes": {
+    "sha1": "5a0a523ce7357d8a320f6edeb89228218cf06bb8",
+    "sha512": "944700859fb4f3f23fd7d51275b4ff99a11280cc4d40311b486434f09c0337626d9d16b921ebdbed4d327966bde728164cc0db0896a96920dfb6e6510ede84c4"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/7tPBdiPp/versions/SFHvrX8w/ironchest-netherite-1.12.2-1.0.2.jar",
+    "https://edge.forgecdn.net/files/7883/613/ironchest-netherite-1.12.2-1.0.2.jar"
+   ]
+  },
+  {
+   "path": "mods/ironchestfix-1.0.0.jar",
+   "fileSize": 103174,
+   "hashes": {
+    "sha1": "eed8ab76f40e1ca17436ac9beb0b4e5a0437a96d",
+    "sha512": "52aed885624529094890cf750c9c96a1b2759a142db64b969ba5545a8a06ddcb5e7cc4c8eed73b607dd3392121c55c2c4d2733bf03f40052b1e657c0b59d820b"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/cuKnbya3/versions/K6gEFIvo/ironchestfix-1.0.0.jar",
+    "https://edge.forgecdn.net/files/8536/848/ironchestfix-1.0.0.jar"
+   ]
+  },
+  {
+   "path": "mods/jei_area_fixer-2.4.0.jar",
+   "fileSize": 116549,
+   "hashes": {
+    "sha1": "f2f8048c5601113ce6c03685c252698139ad8f40",
+    "sha512": "2815b4ceb0880be1049e93c3377f8d3446480c38eaabeb800df38c9578cb1213a3968d23da6ecbb6ae329ab2b2fd286773e399184d3660c43168522167f9fd8f"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8149/59/jei_area_fixer-2.4.0.jar"
+   ]
+  },
+  {
+   "path": "mods/justenoughmagiculture-1.12.2-1.2.2.jar",
+   "fileSize": 537618,
+   "hashes": {
+    "sha1": "f723a3e0a26881fadfab81aab6a71746f2cbea53",
+    "sha512": "20d23f198231b6189f9dca1b351fb261e62a194b427e72d9d46cd3dd7c41f8e82296abb1d842b6f8abf9dd47700012814a68c68d66244870daa9b702db27ccd5"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8018/292/justenoughmagiculture-1.12.2-1.2.2.jar"
+   ]
+  },
+  {
+   "path": "mods/libnine-1.12.2-1.2.2.jar",
+   "fileSize": 412371,
+   "hashes": {
+    "sha1": "c99daa72265e227875eea94897a9041faceec79a",
+    "sha512": "f6eef70a4414ec55ee16ac98cb7df4afdf69a98f5a75a7cd358efa404dd657dc2aefe5868a02d1dc17401ffefcebd5a682fd79a577b8efab8e931b91217004e3"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/8i88guf3/versions/su0Bynd8/libnine-1.12.2-1.2.2.jar",
+    "https://edge.forgecdn.net/files/6790/812/libnine-1.12.2-1.2.2.jar"
+   ]
+  },
+  {
+   "path": "mods/minieffects-2.3.2.jar",
+   "fileSize": 27102,
+   "hashes": {
+    "sha1": "79753fa4c57cc96466fa56d47c00de8a3de2c146",
+    "sha512": "4b91d0e166d637b3490a2bde8e082c8f1f8accf19ef476ab064cf230018548ab7379f0ff02ce635fe3b382adae1ce571d8e07fd04a17a0d3c7a6ff4b54c288c8"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/6143/104/minieffects-2.3.2.jar"
+   ]
+  },
+  {
+   "path": "mods/modularui-3.1.6.jar",
+   "fileSize": 2338491,
+   "hashes": {
+    "sha1": "be2d067fe4e8815c5c025416019f9a8037d26be0",
+    "sha512": "3c5a9c6b9930e18513be800507573aa4a219bb8a9ee6dbb5b541a945a96931ae6e71c63693947e8db8d8bd58484b8a9189b6affc85900dc2d7238fc8a27c4862"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/Ecvd12QC/versions/1twp2z8Y/modularui-3.1.6.jar",
+    "https://edge.forgecdn.net/files/7929/464/modularui-3.1.6.jar"
+   ]
+  },
+  {
+   "path": "mods/mousetweaks-1.12.2-3.2.1.jar",
+   "fileSize": 203822,
+   "hashes": {
+    "sha1": "d7e7548cebe5016c81b18110eff7c22e1289fefa",
+    "sha512": "920652f7450d37470700aae43f59701d0c90905e0255fe06887b0a95b88280632ee153c680d0f66881d5f28292bbb3956a772b54bfda964f28a8320c19c50bd4"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9330/373/mousetweaks-1.12.2-3.2.1.jar"
+   ]
+  },
+  {
+   "path": "mods/neverenoughanimations-1.0.7.jar",
+   "fileSize": 99609,
+   "hashes": {
+    "sha1": "a26586467433467ba4b1f1bb0acdeabb7ed2fa67",
+    "sha512": "33ef3d884e4e26dd5e0d3656f85f18392f73c7265ddc5be24903e89cca90e80d5768dd6021f55335b39041654098a82a7f0a199b464f872104a5d3351c4c2eb3"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/pLx2zoH8/versions/9PLyU0Vk/neverenoughanimations-1.0.7.jar",
+    "https://edge.forgecdn.net/files/7289/408/neverenoughanimations-1.0.7.jar"
+   ]
+  },
+  {
+   "path": "mods/nojbput-1.2.0.jar",
+   "fileSize": 8800,
+   "hashes": {
+    "sha1": "a0545b3723ec7e68d25c43891fa54a7ed3e39c32",
+    "sha512": "c8b51a25448245c270b570fddfd13017425d4adc0d7072bcb513b365102e7f73e72181cd0a98b5ba110907a4b5cde3c5d388fb36848b00c5efb659b361155db1"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/nuHHOXC5/versions/dVz90chR/nojbput-1.2.0.jar"
+   ]
+  },
+  {
+   "path": "mods/ourotweaker-1.0.0.jar",
+   "fileSize": 137432,
+   "hashes": {
+    "sha1": "1627f419ae7d67d7bc0e33f6f24ac869e25d5399",
+    "sha512": "36d01db9053bed308be18bad4de71f2c074513d8e548d3e7e1ba3805b39d01f27318b5fe6a415db4206bd912dee5f8378c00fda324ad377921d4e620ba67ad60"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/SbF4LPIs/versions/FXxWLAno/ourotweaker-1.0.0.jar",
+    "https://edge.forgecdn.net/files/7919/550/ourotweaker-1.0.0.jar"
+   ]
+  },
+  {
+   "path": "mods/palebloom-1.1.0.jar",
+   "fileSize": 4152128,
+   "hashes": {
+    "sha1": "8921172849b824f5a0e2c7352176ae19ed325d3b",
+    "sha512": "e1ce7180d8660284caf09669f5558be90f71d47d42b06395e00de06a8ed6bc6242e46742782fd087d1ef7ad36daac8d30ddd9d7c5b1314ea3bf2937ecb7aabb2"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8916/213/palebloom-1.1.0.jar"
+   ]
+  },
+  {
+   "path": "mods/polymorph_legacy-1.0.1.jar",
+   "fileSize": 63844,
+   "hashes": {
+    "sha1": "beac269eb631188aed6a7620d191210626c72864",
+    "sha512": "0037b57b2f9589afc4085e0f9a96707780124310aff2949ca9c5d792809c12c534feffb650a5708caeb483394115dd13de8ce37e73fb6c9fc990da76078ba5d5"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8987/225/polymorph_legacy-1.0.1.jar"
+   ]
+  },
+  {
+   "path": "mods/pulsar-0.6.2.jar",
+   "fileSize": 598892,
+   "hashes": {
+    "sha1": "c1ebccff229fefcdc11d71838aca5a6048081d07",
+    "sha512": "0ffbc5f8d60dd3ba3d075c1ea38e6b0df98b5e18796322dfeb3f5f2cd5846e265dd57030b3a31f5e62ca8449595f63f00ef28fba6b5ff507eb38faf3abe2660d"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/gs7RbryI/versions/lq6jTrMD/pulsar-0.6.2.jar",
+    "https://edge.forgecdn.net/files/9384/905/pulsar-0.6.2.jar"
+   ]
+  },
+  {
+   "path": "mods/quickcraft-2.4-1.12.2.jar",
+   "fileSize": 404058,
+   "hashes": {
+    "sha1": "e927b3cde9115cfdd72949e6aa625a4142741b5e",
+    "sha512": "b1b6c8c22987f5f0b593872d119f276f3a2b605a3241e554d7248572ad55f4d97363ea10be70d540bd59669b557bcff1c7aa6d1cf17020a6506ec1d9019f61d1"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9487/510/quickcraft-2.4-1.12.2.jar"
+   ]
+  },
+  {
+   "path": "mods/rgbchat-2.1.jar",
+   "fileSize": 31371,
+   "hashes": {
+    "sha1": "23539f2c5f2868696bccb723990767a5018426db",
+    "sha512": "b9dae0a282a5f6377334848d41f7e7705ba0f6a49ce70bbb153ffd84941b8affb552c5de5182467d0b993fbc1ab8bcf51f57493ac178c3bd975d59c55d5b0aaf"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/8024/238/rgbchat-2.1.jar"
+   ]
+  },
+  {
+   "path": "mods/scalar-3.10.0.jar",
+   "fileSize": 9418461,
+   "hashes": {
+    "sha1": "a5b3fcb7a6f0d1f6da67caec3739a1964a6ded5e",
+    "sha512": "b7c0adb59dddcf576857f1e79e19a42e6b19635873a8a6dc80de90d92140c8c207e093778415206d3ab2707d80c9097f4f9f2b8f38d5f43ee6b6bce4ad55c1d1"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9145/663/scalar-3.10.0.jar"
+   ]
+  },
+  {
+   "path": "mods/solwarly-1.12.2-1.0.1.jar",
+   "fileSize": 533959,
+   "hashes": {
+    "sha1": "674cb9f2edf4184c496d74b6ef2aa98a1eecfe32",
+    "sha512": "cbad6008df77fdf3f276cf5e6a011ed61c625aa4fa05be1a7720a6856278b7c97f94089f2d0067724b557deb0217185d1f0111f110c92e16e9bbfe9ccdb9c5df"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9349/798/solwarly-1.12.2-1.0.1.jar"
+   ]
+  },
+  {
+   "path": "mods/soundphysics-1.3.2-beta.jar",
+   "fileSize": 139566,
+   "hashes": {
+    "sha1": "7e1cbb21e511bf6f5bdf5acecdb8380ca658e53f",
+    "sha512": "626776f8427b7a168a5b199f9fb8ab6618a19af049235c184c8df6d992fcc7d73b04cde0498080d430fbacfa26b02e0e2c7633e873057b9eaf5c6836dd1fcfe2"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9117/712/soundphysics-1.3.2-beta.jar"
+   ]
+  },
+  {
+   "path": "mods/tconevo-1.12.2-1.1.9.jar",
+   "fileSize": 1385981,
+   "hashes": {
+    "sha1": "fa3ffb39ed3dbc68c12a258f8b5bd912e76cb307",
+    "sha512": "0c338c6f03f7d185e6cc20cfb30642a0ee54c36a0437fd9e2faf5fba4760f38fac9d2bcc1afaa5992f3c7d2b6a5d1079612413fca75220cb6ad30c67b7f26766"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/IGALuv74/versions/sHMgTKfV/tconevo-1.12.2-1.1.9.jar",
+    "https://edge.forgecdn.net/files/9361/61/tconevo-1.12.2-1.1.9.jar"
+   ]
+  },
+  {
+   "path": "mods/tickmod-1.1.jar",
+   "fileSize": 19110,
+   "hashes": {
+    "sha1": "79074487157c77c4b6dc01f62abfa58b1f636fb0",
+    "sha512": "4fafed79f5fe515a377da2dbe68a3fad00c27b725ce0bd44221df127b64b9edc9ebf61ffd9ac342585f016981bc58af7644657dc02b19187936ee27cc1f242d1"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/ha2M9BxM/versions/QWL8BJKX/tickmod-1.1.jar"
+   ]
+  },
+  {
+   "path": "mods/tinkers_sort-1.0.2.jar",
+   "fileSize": 67552,
+   "hashes": {
+    "sha1": "040cdbac3b5a9e84c4f5f1e81a88916c2ecd19ce",
+    "sha512": "3ad61a61d4dff5c5eb201e6c9d1e27cb7efad6620143a14908d0144f63cd8bbb54a06f40b80d56ed119dc691aa7e119e36d7cd8ce8ab707fa5befbffbe982b68"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9316/755/tinkers_sort-1.0.2.jar"
+   ]
+  },
+  {
+   "path": "mods/twilight-sparks-delight-1.0.5.jar",
+   "fileSize": 809986,
+   "hashes": {
+    "sha1": "11d0f63eb65ad258dfc9d38e8ee847aed0a51a75",
+    "sha512": "b186df71537cad1f640358373741d2ce12beda55ca7b07ad7d0bc098fa1ca9b60f4223f520c85ee8c5d8c04c665489aa4e223b025183681a1e5a8ad91eeaec9b"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9293/949/twilight-sparks-delight-1.0.5.jar"
+   ]
+  },
+  {
+   "path": "mods/twilightforest-1.12.2-3.15.1.jar",
+   "fileSize": 28781821,
+   "hashes": {
+    "sha1": "1dd68576a3a90ddf776f4463211620475534b038",
+    "sha512": "d8b1be7cf2db2eb952b7c921f7665beb28bb00d2e03a78153c16bd769cf8037d1b8e8a8c50ea8ab457cd8fe210d540d2873939869a88496be8dbac282d31fb7e"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/7846/443/twilightforest-1.12.2-3.15.1.jar"
+   ]
+  },
+  {
+   "path": "mods/vintagefix-0.7.2.jar",
+   "fileSize": 1045123,
+   "hashes": {
+    "sha1": "16cab7d8e035a69733fe6c620bdd228cfe570fae",
+    "sha512": "2e9e4734e38169c5f2ae815be47d4de5710c019ec70923b2c8f3fcaf7f55672630e4895391fac05c29313b2b592749dfd4b9dee35f353e8e9030ea869a42aac9"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/e6vNsbAm/versions/CutuuVKA/vintagefix-0.7.2.jar",
+    "https://edge.forgecdn.net/files/9072/529/vintagefix-0.7.2.jar"
+   ]
+  },
+  {
+   "path": "mods/visuality-1.1.0.jar",
+   "fileSize": 58529,
+   "hashes": {
+    "sha1": "5569afda658cc4b8ad368ea7f17c1c01877bc3cb",
+    "sha512": "6de8c90ea58a19b4b2aa97417e9e8ce6cad61d57950d4459ccb4d3d735e454805d15a927968f19ed289bb6bf339d54954b61c9e18afd4b2376cc78778da3cd55"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/RWq91qzQ/versions/4HjozL3C/visuality-1.1.0.jar",
+    "https://edge.forgecdn.net/files/8315/312/visuality-1.1.0.jar"
+   ]
+  },
+  {
+   "path": "mods/wrapfix-2.0.0.jar",
+   "fileSize": 15942,
+   "hashes": {
+    "sha1": "aa30f186018e5b86e7ba24995ef6e205dd7574a9",
+    "sha512": "25e54c413236cc03a33e0e1f479b8c63f9b338bd22f2be3654b3d15dc3e92cc53061951614fbbe3aac90c46cf9108ef59ccc7292e5aa2dc6542ef6da55643e63"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/7815/57/wrapfix-2.0.0.jar"
+   ]
+  },
+  {
+   "path": "shaderpacks/Mellow v3.5.zip",
+   "fileSize": 1955122,
+   "hashes": {
+    "sha1": "9c309a5170ae555990cf2adfde71c7ac755f560c",
+    "sha512": "5828a84bec5c307a574e08e72e4aace4c59d2b0ad34a55e95c0922de3b67a29a27b834407e3aa5fb8c501a72e57ab37067e481f7c5da9ae25652624d4e776d3d"
+   },
+   "downloads": [
+    "https://cdn.modrinth.com/data/BUxf36AP/versions/DmXr7SxM/Mellow%20v3.5.zip",
+    "https://edge.forgecdn.net/files/9381/483/Mellow-v3.5.zip"
+   ]
+  }
+ ]
+}
