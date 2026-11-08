@@ -25,12 +25,17 @@ TinkerRegistry.addMaterialStats(manaDiamond,
         new PlatesMaterialStats(1.05f, 9, 2.5f),
         new TrimMaterialStats(25))
 
-// 词条:晶态与蕴魔，挂到全部工具部件
-TinkerRegistry.addMaterialTrait(manaDiamond, TconEvoTraits.TRAIT_CRYSTALLINE, MaterialTypes.HEAD)
-TinkerRegistry.addMaterialTrait(manaDiamond, TconEvoTraits.TRAIT_CRYSTALLINE, MaterialTypes.HANDLE)
-TinkerRegistry.addMaterialTrait(manaDiamond, TconEvoTraits.TRAIT_CRYSTALLINE, MaterialTypes.EXTRA)
-TinkerRegistry.addMaterialTrait(manaDiamond, TconEvoTraits.TRAIT_MANA_INFUSED, MaterialTypes.HEAD)
-TinkerRegistry.addMaterialTrait(manaDiamond, TconEvoTraits.TRAIT_MANA_INFUSED, MaterialTypes.HANDLE)
-TinkerRegistry.addMaterialTrait(manaDiamond, TconEvoTraits.TRAIT_MANA_INFUSED, MaterialTypes.EXTRA)
+// 词条:晶态与蕴魔，挂到全部工具部件；匠魂进化注册材料时可能已挂同名词条，先判断再补
+def attachTrait = { trait, String type ->
+    if (trait != null && !manaDiamond.getAllTraitsForStats(type).contains(trait)) {
+        TinkerRegistry.addMaterialTrait(manaDiamond, trait, type)
+    }
+}
+[[TconEvoTraits.TRAIT_CRYSTALLINE, MaterialTypes.HEAD],
+ [TconEvoTraits.TRAIT_CRYSTALLINE, MaterialTypes.HANDLE],
+ [TconEvoTraits.TRAIT_CRYSTALLINE, MaterialTypes.EXTRA],
+ [TconEvoTraits.TRAIT_MANA_INFUSED, MaterialTypes.HEAD],
+ [TconEvoTraits.TRAIT_MANA_INFUSED, MaterialTypes.HANDLE],
+ [TconEvoTraits.TRAIT_MANA_INFUSED, MaterialTypes.EXTRA]].each { attachTrait(it[0], it[1]) }
 
 log.info('魔力钻石：已补齐工具与护甲统计，并挂载晶态与蕴魔')

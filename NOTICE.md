@@ -11,6 +11,8 @@
 
 MIT 素材保留原始许可；CC BY-SA 4.0 素材再分发时需要署名并以相同方式共享。许可证原文存放在 `docs/licenses/`：`ModernityExtra-MIT.txt`、`Backport-Everything-CC-BY-SA-4.0.txt`。Backport Everything 的部分素材来自 Qwuiblington 的 actually correct 1.14 texture backport。Minecraft 原版素材版权归 Mojang Studios，随包用于游戏内显示。
 
+`assets/futuremc/textures/block/netherite_block.png` 是给 `ironchest-netherite` 的兼容贴图，取自 Farmer's Future Delight 的同名素材，只在该模组引用 `futuremc:block/netherite_block` 时生效。
+
 ## 计划引入的素材…
 
 以下素材在取得作者授权或改用许可兼容的替代素材后计划引入，用于补齐材质、音效与语言。

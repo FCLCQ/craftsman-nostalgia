@@ -2,6 +2,8 @@
 
 `overrides/resourcepacks/CraftsmanNostalgia.zip` is the resource pack, licensed as a whole under CC BY-SA 4.0. The `LICENSE.md` and `THIRD-PARTY-NOTICES.md` files inside the pack carry the corresponding notices. Assets from the sources below are included only when byte-identical to the source.
 
+`assets/futuremc/textures/block/netherite_block.png` is a compatibility texture for `ironchest-netherite`, taken from the same asset in Farmer's Future Delight; it is used only where that mod references `futuremc:block/netherite_block`.
+
 ## Included sources
 
 | Resource pack | Author | License | Entries |

@@ -16,7 +16,7 @@ def attachTo = { Material material, List<ITrait> traits, List<String> types ->
     }
     traits.findAll { it != null }.each { ITrait trait ->
         types.each { String type ->
-            boolean present = material.getTraits().contains(trait) || material.getAllTraitsForStats(type).contains(trait)
+            boolean present = material.getAllTraits().contains(trait) || material.getAllTraitsForStats(type).contains(trait)
             if (!present) {
                 material.addTrait(trait, type)
             }
