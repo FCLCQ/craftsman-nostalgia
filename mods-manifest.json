@@ -261,15 +261,13 @@
    "modrinth_version_id": "XPQUzjYi"
   },
   {
-   "file": "OceanicExpanse-1.2.2.jar",
-   "size": 6364001,
+   "file": "OceanicExpanse-1.2.3.jar",
+   "size": 6656940,
    "modid": "oe",
-   "version": "1.2.2",
+   "version": "1.2.3",
    "title": "Oceanic Expanse",
-   "sha1": "86b6cd29e92179711dbe7931c0c3503f3dd949d3",
-   "sha256": "b486bcd10945f50733e3a790c0ffd8a010b12d9cc1dd457a5d2859e7e57e5808",
-   "modrinth_project_id": "W81ZzfUo",
-   "modrinth_version_id": "JnAUI2fI"
+   "sha1": "f0155cf5a476c0d0713dc613e07411d1a29612ec",
+   "sha256": "2e04d7e076f658362f0b8c2c7097542240cfbc7fa82d9423c249b6ceb8ddcf5a"
   },
   {
    "file": "OreLib-1.12.2-3.6.0.1.jar",
@@ -622,13 +620,13 @@
    "modrinth_version_id": "IYPcpIY7"
   },
   {
-   "file": "farmers-future-delight-1.5.2hotfix1.jar",
-   "size": 33522970,
+   "file": "farmers-future-delight-1.5.3.jar",
+   "size": 33531408,
    "modid": "farmers_future_delight",
-   "version": "1.5.2hotfix1",
+   "version": "1.5.3",
    "title": "Farmer's Future Delight",
-   "sha1": "ca11f4705dcf1ea3cc6c99c3ae19f18a2a70fb46",
-   "sha256": "0ba14e578b881e0bbfc1546c4aac5bec187616cc70f678346a33af6e682948b5"
+   "sha1": "9849d5935625b9fe0720116ed00ec97aa3b55157",
+   "sha256": "f0be1ee771bc68e0d070aa57c0f2951e164d5bd73a08cae4fb11061caa45d749"
   },
   {
    "file": "fishtickfix-1.2.0+mc1-12-2-forge-14-23-5-2860.jar",

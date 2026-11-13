@@ -301,15 +301,14 @@
    ]
   },
   {
-   "path": "mods/OceanicExpanse-1.2.2.jar",
-   "fileSize": 6364001,
+   "path": "mods/OceanicExpanse-1.2.3.jar",
+   "fileSize": 6656940,
    "hashes": {
-    "sha1": "86b6cd29e92179711dbe7931c0c3503f3dd949d3",
-    "sha512": "33b6749bca94fdf299591f25af4cc7fd158a3fd9c6b7a35002f21d4f53ea59685bb5b75cd0415fb202ebc450bcfd595e65dbb1a2a405050d67c8e92ac7b47ad5"
+    "sha1": "f0155cf5a476c0d0713dc613e07411d1a29612ec",
+    "sha512": "ec2292852c9388a7481eb83013293c7d688bc095a5db8cecc535ea4eb90a97ba59731cdf7c7e89bd850df6adf9103f1d3c99d05b936464ba091cd779bdefb08c"
    },
    "downloads": [
-    "https://cdn.modrinth.com/data/W81ZzfUo/versions/JnAUI2fI/OceanicExpanse-1.2.2.jar",
-    "https://edge.forgecdn.net/files/7009/970/OceanicExpanse-1.2.2.jar"
+    "https://edge.forgecdn.net/files/9534/566/OceanicExpanse-1.2.3.jar"
    ]
   },
   {
@@ -702,14 +701,14 @@
    ]
   },
   {
-   "path": "mods/farmers-future-delight-1.5.2hotfix1.jar",
-   "fileSize": 33522970,
+   "path": "mods/farmers-future-delight-1.5.3.jar",
+   "fileSize": 33531408,
    "hashes": {
-    "sha1": "ca11f4705dcf1ea3cc6c99c3ae19f18a2a70fb46",
-    "sha512": "062193726e0978455a45f07c60252793e2fd645bc65beeb9953e2e216145a938612baa6908c63eef3d6f9539fd8e64fe0fdc71fdd527d77b32a58e9f218c23ee"
+    "sha1": "9849d5935625b9fe0720116ed00ec97aa3b55157",
+    "sha512": "383416ef5832b3b71a1bf675062226fce2d08272ae759adcc169e486ce5bf5fb2852d0657cb0824083f7f2ee26ecbd0213be1ff687d68c9c12511d2fa1da48db"
    },
    "downloads": [
-    "https://edge.forgecdn.net/files/9487/212/farmers-future-delight-1.5.2hotfix1.jar"
+    "https://edge.forgecdn.net/files/9521/358/farmers-future-delight-1.5.3.jar"
    ]
   },
   {

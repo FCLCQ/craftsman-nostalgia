@@ -41,9 +41,9 @@
 
 | Mod | Version | Ported content |
 |---|---|---|
-| Farmer's Future Delight | 1.5.2 | crops, food, mobs, villages and Nether biomes |
+| Farmer's Future Delight | 1.5.3 | crops, food, mobs, villages and Nether biomes |
 | Deeper Depths | 1.1.2a | trial chambers, geodes and the mace |
-| Oceanic Expanse | 1.2.2 | ocean mobs and ocean content |
+| Oceanic Expanse | 1.2.3 | ocean mobs and ocean content |
 | Cherry_on | 1.3.35 | cherry groves and cherry wood |
 | Pale Bloom | 1.1.0 | pale garden |
 | Crafter | 1.0.0.1 | Crafter |

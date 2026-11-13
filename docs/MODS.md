@@ -41,9 +41,9 @@
 
 | 模组 | 版本 | 移植内容 |
 |---|---|---|
-| Farmer's Future Delight | 1.5.2 | 作物、食物、生物、村庄与下界群系 |
+| Farmer's Future Delight | 1.5.3 | 作物、食物、生物、村庄与下界群系 |
 | Deeper Depths | 1.1.2a | 试炼密室、晶洞与重锤 |
-| Oceanic Expanse | 1.2.2 | 海洋生物与海洋内容扩展 |
+| Oceanic Expanse | 1.2.3 | 海洋生物与海洋内容扩展 |
 | Cherry_on | 1.3.35 | 樱花树林与樱花木 |
 | Pale Bloom | 1.1.0 | 苍白花园 |
 | Crafter | 1.0.0.1 | 合成器 |
