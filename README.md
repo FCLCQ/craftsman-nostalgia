@@ -14,6 +14,7 @@
 - `overrides/config/` 模组配置，只保留改动过的 52 个文件；首次启动由模组生成的默认配置不入库
 - `overrides/groovy/` GroovyScript 脚本
 - `overrides/resourcepacks/CraftsmanNostalgia.zip` 旧合并资源包；实例当前使用 `CNFullTextures.zip`，不入库
+- `overrides/resourcepacks/CNFullTextures-CC.zip` 可分发资源包，来源与许可见包内 `CREDITS.txt` 与 `LICENSES/`
 - `mods-list.txt`、`mods-manifest.json` 模组清单与哈希
 - `pack-sources.json` 模组与光影的下载地址和哈希
 - `tools/build_pack.py` 打包脚本
@@ -55,6 +56,10 @@ Fugue 0.24.4、Pulsar 0.6.2、Celeritas Extra 0.9.3
 ## 脚本
 
 `overrides/groovy/` 按 `preInit/`、`init/`、`postInit/` 分阶段。改完先 `/gs check`，再用 `Ctrl + R` 或 `/gs reload` 热重载；`init/` 里的材料注册无法热重载，需要重启客户端。
+
+## 参与
+
+问题反馈使用仓库的 issue 模板，附版本、日志与复现步骤；安全相关问题按 [SECURITY.md](.github/SECURITY.md) 私下报告；提交改动的流程与要求见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## 许可
 

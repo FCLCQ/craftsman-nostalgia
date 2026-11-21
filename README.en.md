@@ -14,6 +14,7 @@ The full categorized list is in [MODS.md](docs/MODS.en.md), covering loader and 
 - `overrides/config/` mod configuration, limited to the 52 files the pack changes; defaults generated at first launch are not stored
 - `overrides/groovy/` GroovyScript scripts
 - `overrides/resourcepacks/CraftsmanNostalgia.zip` legacy merged pack; the instance currently uses `CNFullTextures.zip`, which is not tracked
+- `overrides/resourcepacks/CNFullTextures-CC.zip` distributable merged pack; sources and licenses are in `CREDITS.txt` and `LICENSES/` inside the pack
 - `mods-list.txt`, `mods-manifest.json` mod list and hashes
 - `pack-sources.json` download URLs and hashes for mods and the shader pack
 - `tools/build_pack.py` packaging script
@@ -56,6 +57,10 @@ cause a startup crash when updated; keep the current versions.
 ## Scripts
 
 `overrides/groovy/` is split into `preInit/`, `init/` and `postInit/`. Run `/gs check`, then `Ctrl + R` or `/gs reload` for a hot reload; material registration in `init/` cannot be reloaded and requires a client restart.
+
+## Contributing
+
+Report problems through the repository issue templates with versions, logs and reproduction steps; report security issues privately as described in [SECURITY.md](.github/SECURITY.md); see [CONTRIBUTING.md](CONTRIBUTING.md) for the change workflow and requirements.
 
 ## License
 
