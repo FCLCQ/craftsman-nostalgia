@@ -37,7 +37,7 @@ class TraitDiamondBuiltin extends AbstractTrait {
 class TraitDiamondArmorBuiltin extends AbstractArmorTrait {
 
     TraitDiamondArmorBuiltin() {
-        super('diamond_builtin', TextFormatting.AQUA)
+        super('diamond_builtin_armor', TextFormatting.AQUA)
     }
 
     @Override
