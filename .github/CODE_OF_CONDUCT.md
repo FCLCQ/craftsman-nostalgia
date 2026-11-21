@@ -1,6 +1,6 @@
 # 行为准则
 
-**简体中文** | [English](CODE_OF_CONDUCT.en.md)
+[English](CODE_OF_CONDUCT.en.md)
 
 本仓库只处理整合包本身的问题：模组清单、配置、脚本、资源包、文档与打包脚本。
 

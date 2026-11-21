@@ -1,6 +1,6 @@
 # 安全政策
 
-**简体中文** | [English](SECURITY.en.md)
+[English](SECURITY.en.md)
 
 ## 报告范围
 

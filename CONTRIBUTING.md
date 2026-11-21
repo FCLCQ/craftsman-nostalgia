@@ -1,6 +1,6 @@
 # 贡献指南
 
-**简体中文** | [English](CONTRIBUTING.en.md)
+[English](CONTRIBUTING.en.md)
 
 ## 可以提交的内容
 

@@ -1,6 +1,6 @@
 # Accessibility
 
-[简体中文](ACCESSIBILITY.md) | **English**
+[中文](ACCESSIBILITY.md)
 
 This is a pack repository, so accessibility applies to documentation and release notes.
 

@@ -1,6 +1,6 @@
 # Craftsman Nostalgia
 
-[简体中文](README.md) | **English**
+[中文](README.md)
 
 A Minecraft 1.12.2 Cleanroom modpack for experiencing high-version content, with Tinkers' Antique (Tinkers' Construct 2) as the core gameplay. Aimed at players who want to stay on Tinkers' Construct 2 while experiencing modern blocks, mobs, villages and Nether content.  
 The pack replaces unmaintained or outdated mods with maintained branches and modern optimizations.

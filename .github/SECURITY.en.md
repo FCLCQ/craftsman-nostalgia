@@ -1,6 +1,6 @@
 # Security Policy
 
-[简体中文](SECURITY.md) | **English**
+[中文](SECURITY.md)
 
 ## Scope
 

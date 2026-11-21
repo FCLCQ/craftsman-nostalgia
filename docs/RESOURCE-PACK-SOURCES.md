@@ -1,6 +1,6 @@
 # 资源包来源审计
 
-**简体中文** | [English](RESOURCE-PACK-SOURCES.en.md)
+[English](RESOURCE-PACK-SOURCES.en.md)
 
 本文件审计的是旧合并包 `CraftsmanNostalgia.zip`。实例当前使用 `CNFullTextures.zip`，它在该包基础上合并了 Modernity、Backport Everything、ModernityExtra 与 FFD 附加包，并注入了汉化与 TAIGA 名称覆盖，统计数字与下文不同。
 

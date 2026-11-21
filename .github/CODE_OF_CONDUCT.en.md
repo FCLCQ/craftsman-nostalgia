@@ -1,6 +1,6 @@
 # Code of Conduct
 
-[简体中文](CODE_OF_CONDUCT.md) | **English**
+[中文](CODE_OF_CONDUCT.md)
 
 This repository only covers the pack itself: mod list, configuration, scripts, resource packs, documentation and the build script.
 

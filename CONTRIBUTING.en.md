@@ -1,6 +1,6 @@
 # Contributing
 
-[简体中文](CONTRIBUTING.md) | **English**
+[中文](CONTRIBUTING.md)
 
 ## What to submit
 
