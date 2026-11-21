@@ -2,7 +2,7 @@
  "minecraft": "1.12.2",
  "loader": "forge",
  "loaderVersion": "14.23.5.2860",
- "count": 83,
+ "count": 79,
  "mods": [
   {
    "file": "+Fugue-0.24.4.jar",
@@ -117,17 +117,6 @@
    "sha256": "f61d5387728adfb36b07fd8426ce43d9e0f0926c9412f5740b2b0f3dbb587998",
    "modrinth_project_id": "2iXFLwYO",
    "modrinth_version_id": "8ds96Dv8"
-  },
-  {
-   "file": "HappyGhast-1.12.2-1.0.14.jar",
-   "size": 1097498,
-   "modid": "suikehappyghast",
-   "version": "1.0.14",
-   "title": "HappyGhast",
-   "sha1": "6947cf09e93876c7e4d0ba028084ae0813d90b5c",
-   "sha256": "4b34592c0221dca434aa46f3baed475c77f62054c6ef41eeb58c28c02050f356",
-   "modrinth_project_id": "Rc1X7Ede",
-   "modrinth_version_id": "QaXrzniI"
   },
   {
    "file": "Hwyala-1.8.26-B42_1.12.2.jar",
@@ -500,17 +489,6 @@
    "sha256": "e9ecb921d402b1d494682ef962b2f0d8fb9afb98dfa8d49dccb3458ebe0dfd1d"
   },
   {
-   "file": "fallingleaves-2.1.2.3.jar",
-   "size": 104319,
-   "modid": "fallingleaves",
-   "version": "2.1.2.3",
-   "title": "Falling Leaves",
-   "sha1": "24fdc367eb75eff300e73ebbbb123fc643bd20d8",
-   "sha256": "efd5487bb27d3ab3a1ecf3ea836fc16440c0d83b339ff85bd3544180f5987d28",
-   "modrinth_project_id": "uHHKqwr9",
-   "modrinth_version_id": "IYPcpIY7"
-  },
-  {
    "file": "farmers-future-delight-1.6.1.jar",
    "size": 48680268,
    "modid": "farmers_future_delight",
@@ -653,17 +631,6 @@
    "modrinth_version_id": "dVz90chR"
   },
   {
-   "file": "ourotweaker-1.0.0.jar",
-   "size": 137432,
-   "modid": "ourotweaker",
-   "version": "1.0.0",
-   "title": "OURO Tweaker",
-   "sha1": "1627f419ae7d67d7bc0e33f6f24ac869e25d5399",
-   "sha256": "0e5d53da1e551480acef46c3132a7013c1ed84ad6497b57609286e9b964a1890",
-   "modrinth_project_id": "SbF4LPIs",
-   "modrinth_version_id": "FXxWLAno"
-  },
-  {
    "file": "polymorph_legacy-1.0.1.jar",
    "size": 63844,
    "modid": "polymorph_legacy",
@@ -738,15 +705,6 @@
    "sha256": "22803e2a83e92adb4bd937917ba43f2d3f6fc006d02cdacb2b5bc03ba8b9b431",
    "modrinth_project_id": "IGALuv74",
    "modrinth_version_id": "sHMgTKfV"
-  },
-  {
-   "file": "teamglowing-1.1.jar",
-   "size": 48973,
-   "modid": "teamglowing",
-   "version": "${version}",
-   "title": "TeamGlowing",
-   "sha1": "ee40f38d5d046dddf377d224a36ca51e579b583e",
-   "sha256": "fcd2c4c38551c5e71d8c29f4aefb01e127da837528ebeaddfaba118a0951456c"
   },
   {
    "file": "tickmod-1.1.jar",

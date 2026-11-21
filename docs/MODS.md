@@ -2,7 +2,7 @@
 
 [English](https://github.com/FCLCQ/craftsman-nostalgia/blob/main/docs/MODS.en.md)
 
-共 83 个模组，加载器为 Cleanroom 0.6.13-alpha，版本取自 `mods-manifest.json` 与各 jar 元数据。
+共 79 个模组，加载器为 Cleanroom 0.6.13-alpha，版本取自 `mods-manifest.json` 与各 jar 元数据。
 
 ## 加载器与前置库
 
@@ -58,7 +58,6 @@
 | The Twilight Forest | 3.15.1 | 暮色森林 |
 | Botania CEu | r1.10-377 | 植物魔法 |
 | Twilight Spark's Delight | 1.1.0 | 暮色乐事扩展 |
-| HappyGhast | 1.0.14 | 快乐恶魂生物 |
 | Advancement Locator | 1.3.0 | 进度定位工具 |
 
 ## 界面与信息
@@ -81,7 +80,6 @@
 | Cherished Worlds | 1.0.1 | 存档收藏 |
 | Polymorph Legacy | 1.0.1 | 配方冲突选择 |
 | Quick Craft | 2.4 | 快速合成 |
-| TeamGlowing | 1.1 | 队伍发光显示 |
 | Chat Heads Vintage | 0.1.3 | 聊天头像 |
 | RGB Chat | 2.1 | 聊天颜色 |
 | No JB Put | 1.2.0 | 关闭 JEI 书页合成 |
@@ -99,8 +97,7 @@
 | Visuality: Reforged | 1.1.0 | 粒子与视觉特效 |
 | NeverEnoughAnimations | 1.0.7 | 第一人称动画 |
 | ItemPhysic Lite | 1.3.7 | 物品掉落物理 |
-| Falling Leaves | 2.1.2.3 | 落叶效果 |
-| Gnetum | 1.4.3 | 植物模型与摆动 |
+| Gnetum | 1.4.3 | HUD 更新分帧，减少界面卡顿 |
 | Gast's Drop Records | 1.0 | 生物掉落唱片 |
 
 ## 优化与修复
@@ -130,4 +127,3 @@
 | 模组 | 版本 | 作用 |
 |---|---|---|
 | Iron Chests: Netherite | 1.0.2 | 铁箱的下界合金扩展 |
-| Ouro Tweaker | 1.0.0 | 配方与数据调整 |

@@ -10,7 +10,6 @@ farmersdelight                   1.2.0-beta3      FarmersDelightLegacy-1.2.0-bet
 xporbclump                       2.3.7            Fixeroo-2.3.7.jar
 gastsdroprecords                 1.0.0            Gasts_drop_records-1.12.2-forge-1.0.jar
 jei                              4.38.1           HadEnoughItems_1.12.2-4.38.1.jar
-suikehappyghast                  1.0.14           HappyGhast-1.12.2-1.0.14.jar
 waila                            1.8.26           Hwyala-1.8.26-B42_1.12.2.jar
 inventoryhud                     3.4.4            InventoryHUD-1.12.2.forge-3.4.4.jar
 jade                             0.1.0            Jade-0.1.0.jar
@@ -48,7 +47,6 @@ classicbar                       0.6.1            classicbar-0.6.1.jar
 clearmybackground                1.0.4-1.12.2     clearmybackground-1.0.4-1.12.2.jar
 datarium                         0.6.1            datarium-0.6.1.jar
 ends_delight                     1.1.0            ends-delight-legacy-1.1.0.jar
-fallingleaves                    2.1.2.3          fallingleaves-2.1.2.3.jar
 farmers_future_delight           1.6.1            farmers-future-delight-1.6.1.jar
 fishtickfix                      1.2.0+mc1-12-2-forge-14-23-5-2860 fishtickfix-1.2.0+mc1-12-2-forge-14-23-5-2860.jar
 gnetum                           1.4.3            gnetum-1.4.3.jar
@@ -64,7 +62,6 @@ modularui                        3.1.6            modularui-3.1.6.jar
 mousetweaks                      3.2.1            mousetweaks-1.12.2-3.2.1.jar
 neverenoughanimations            1.0.7            neverenoughanimations-1.0.7.jar
 nojbput                          1.2.0            nojbput-1.2.0.jar
-ourotweaker                      1.0.0            ourotweaker-1.0.0.jar
 polymorph_legacy                 1.0.1            polymorph_legacy-1.0.1.jar
 pulsar                           0.6.2            pulsar-0.6.2.jar
 quickcraft                       2.4              quickcraft-2.4-1.12.2.jar
@@ -73,7 +70,6 @@ scalar                           3.10.0           scalar-3.10.0.jar
 solwarly                         1.0.1            solwarly-1.12.2-1.0.1.jar
 soundphysics                     1.3.2-beta       soundphysics-1.3.2-beta.jar
 tconevo                          1.1.9            tconevo-1.12.2-1.1.9.jar
-teamglowing                      ${version}       teamglowing-1.1.jar
 tickmod                          1.1              tickmod-1.1.jar
 tinkers_sort                     1.0.2            tinkers_sort-1.0.2.jar
 twilight_spark_delight           1.1.0            twilight-sparks-delight-1.1.0.jar

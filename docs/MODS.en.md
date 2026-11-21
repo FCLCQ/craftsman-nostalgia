@@ -2,7 +2,7 @@
 
 [中文](https://github.com/FCLCQ/craftsman-nostalgia/blob/main/docs/MODS.md)
 
-83 mods, loader is Cleanroom 0.6.13-alpha, versions taken from `mods-manifest.json` and each jar.
+79 mods, loader is Cleanroom 0.6.13-alpha, versions taken from `mods-manifest.json` and each jar.
 
 ## Loader and libraries
 
@@ -58,7 +58,6 @@
 | The Twilight Forest | 3.15.1 | Twilight Forest |
 | Botania CEu | r1.10-377 | Botania |
 | Twilight Spark's Delight | 1.1.0 | Twilight food expansion |
-| HappyGhast | 1.0.14 | Happy Ghast mob |
 | Advancement Locator | 1.3.0 | advancement locator |
 
 ## Interface and information
@@ -81,7 +80,6 @@
 | Cherished Worlds | 1.0.1 | world bookmarking |
 | Polymorph Legacy | 1.0.1 | recipe conflict selection |
 | Quick Craft | 2.4 | quick crafting |
-| TeamGlowing | 1.1 | team glowing |
 | Chat Heads Vintage | 0.1.3 | chat heads |
 | RGB Chat | 2.1 | chat colors |
 | No JB Put | 1.2.0 | disable JEI book crafting |
@@ -99,8 +97,7 @@
 | Visuality: Reforged | 1.1.0 | particles and visual effects |
 | NeverEnoughAnimations | 1.0.7 | first person animations |
 | ItemPhysic Lite | 1.3.7 | item drop physics |
-| Falling Leaves | 2.1.2.3 | falling leaves |
-| Gnetum | 1.4.3 | plant models and sway |
+| Gnetum | 1.4.3 | splits HUD updates across frames to reduce stutter |
 | Gast's Drop Records | 1.0 | mob music disc drops |
 
 ## Optimization and fixes
@@ -130,4 +127,3 @@
 | Mod | Version | Role |
 |---|---|---|
 | Iron Chests: Netherite | 1.0.2 | netherite expansion for Iron Chests |
-| Ouro Tweaker | 1.0.0 | recipe and data tweaks |

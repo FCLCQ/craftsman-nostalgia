@@ -140,18 +140,6 @@
    ]
   },
   {
-   "path": "mods/HappyGhast-1.12.2-1.0.14.jar",
-   "fileSize": 1097498,
-   "hashes": {
-    "sha1": "6947cf09e93876c7e4d0ba028084ae0813d90b5c",
-    "sha512": "bb4660998e6bff3ee53c2034bff92b8cca8823bf2ed63b20081f5132565b5f93b82bbfaa1e9b3ea006b3f9922f43d1cf084a288d164f3b4a490c5ac505f6c71e"
-   },
-   "downloads": [
-    "https://cdn.modrinth.com/data/Rc1X7Ede/versions/QaXrzniI/HappyGhast-1.12.2-1.0.14.jar",
-    "https://edge.forgecdn.net/files/6891/624/HappyGhast-1.12.2-1.0.14.jar"
-   ]
-  },
-  {
    "path": "mods/Hwyala-1.8.26-B42_1.12.2.jar",
    "fileSize": 453218,
    "hashes": {
@@ -562,18 +550,6 @@
    ]
   },
   {
-   "path": "mods/fallingleaves-2.1.2.3.jar",
-   "fileSize": 104319,
-   "hashes": {
-    "sha1": "24fdc367eb75eff300e73ebbbb123fc643bd20d8",
-    "sha512": "d70646bc11606573820f0252c27f4d0564d2036194cc3ff6fb47d2b8b19ac5787ac3686b076078e18588dbdfb7b21c89c9ea97da0ae3bcfd04f613b1c4b0ff1b"
-   },
-   "downloads": [
-    "https://cdn.modrinth.com/data/uHHKqwr9/versions/IYPcpIY7/fallingleaves-2.1.2.3.jar",
-    "https://edge.forgecdn.net/files/9328/340/fallingleaves-2.1.2.3.jar"
-   ]
-  },
-  {
    "path": "mods/farmers-future-delight-1.6.1.jar",
    "fileSize": 48680268,
    "hashes": {
@@ -732,18 +708,6 @@
    },
    "downloads": [
     "https://cdn.modrinth.com/data/nuHHOXC5/versions/dVz90chR/nojbput-1.2.0.jar"
-   ]
-  },
-  {
-   "path": "mods/ourotweaker-1.0.0.jar",
-   "fileSize": 137432,
-   "hashes": {
-    "sha1": "1627f419ae7d67d7bc0e33f6f24ac869e25d5399",
-    "sha512": "36d01db9053bed308be18bad4de71f2c074513d8e548d3e7e1ba3805b39d01f27318b5fe6a415db4206bd912dee5f8378c00fda324ad377921d4e620ba67ad60"
-   },
-   "downloads": [
-    "https://cdn.modrinth.com/data/SbF4LPIs/versions/FXxWLAno/ourotweaker-1.0.0.jar",
-    "https://edge.forgecdn.net/files/7919/550/ourotweaker-1.0.0.jar"
    ]
   },
   {
