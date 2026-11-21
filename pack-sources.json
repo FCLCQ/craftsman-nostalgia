@@ -540,6 +540,17 @@
    ]
   },
   {
+   "path": "mods/datarium-0.6.1.jar",
+   "fileSize": 1137614,
+   "hashes": {
+    "sha1": "6a4d39f2b641713ccaa91e7f55a05f6872302130",
+    "sha512": "e68f08a7d2f631c0de4d74e310bc22d3842e13e21a51943a127be5fec0c1f369a49222a672a1a3bbfeb866d07e4aea7bdfc8329353d478eaa808cbf7cfd21a5e"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9110/847/datarium-0.6.1.jar"
+   ]
+  },
+  {
    "path": "mods/ends-delight-legacy-1.1.0.jar",
    "fileSize": 228905,
    "hashes": {
@@ -778,6 +789,17 @@
    },
    "downloads": [
     "https://edge.forgecdn.net/files/8024/238/rgbchat-2.1.jar"
+   ]
+  },
+  {
+   "path": "mods/scalar-3.10.0.jar",
+   "fileSize": 9418461,
+   "hashes": {
+    "sha1": "a5b3fcb7a6f0d1f6da67caec3739a1964a6ded5e",
+    "sha512": "b7c0adb59dddcf576857f1e79e19a42e6b19635873a8a6dc80de90d92140c8c207e093778415206d3ab2707d80c9097f4f9f2b8f38d5f43ee6b6bce4ad55c1d1"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9145/663/scalar-3.10.0.jar"
    ]
   },
   {

@@ -1,6 +1,6 @@
 # Mod list
 
-81 mods, loader is Cleanroom 0.6.13-alpha, versions taken from `mods-manifest.json` and each jar.
+83 mods, loader is Cleanroom 0.6.13-alpha, versions taken from `mods-manifest.json` and each jar.
 
 ## Loader and libraries
 
@@ -10,8 +10,10 @@
 | libnine | 1.2.2 | Tinkers' Evolution library |
 | ModularUI | 3.1.6 | GUI framework |
 | WanionLib | 1.12.2-2.91 | library |
+| Scalar | 3.10.0 | config and library |
 | UniDict | 3.0.10 | ore dictionary and recipe unification |
 | AssetMover | 2.5 | resource download and loading library |
+| Datarium | 0.6.1 | data and resource loading library |
 | AppleCore | 3.4.0 | hunger and food API |
 | OreLib | 3.6.0.1 | library |
 | Bubbles | 2.4.10 | accessory slots library |

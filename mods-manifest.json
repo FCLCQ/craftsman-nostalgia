@@ -2,7 +2,7 @@
  "minecraft": "1.12.2",
  "loader": "forge",
  "loaderVersion": "14.23.5.2860",
- "count": 81,
+ "count": 83,
  "mods": [
   {
    "file": "+Fugue-0.24.4.jar",
@@ -482,6 +482,15 @@
    "sha256": "488132c436d14d83a9849f4586fcaa6508042d1ee979f6fd75d1f3cdeb76cf1b"
   },
   {
+   "file": "datarium-0.6.1.jar",
+   "size": 1137614,
+   "modid": "datarium",
+   "version": "0.6.1",
+   "title": "Datarium",
+   "sha1": "6a4d39f2b641713ccaa91e7f55a05f6872302130",
+   "sha256": "09a5699c49d731a278564c808ac4c839593341554e3e1f88b0894641fdd8f6d6"
+  },
+  {
    "file": "ends-delight-legacy-1.1.0.jar",
    "size": 228905,
    "modid": "ends_delight",
@@ -691,6 +700,15 @@
    "title": "RGB Chat",
    "sha1": "23539f2c5f2868696bccb723990767a5018426db",
    "sha256": "8362c800132d31bf6ab526e91f89ef2828be70a9c09559dc37141cecc0b7eaf5"
+  },
+  {
+   "file": "scalar-3.10.0.jar",
+   "size": 9418461,
+   "modid": "scalar",
+   "version": "3.10.0",
+   "title": "Scalar",
+   "sha1": "a5b3fcb7a6f0d1f6da67caec3739a1964a6ded5e",
+   "sha256": "42d2410a268e8d5b520f9fb73ae233b8a4aa61146545f897ac20ca4c5e86305e"
   },
   {
    "file": "solwarly-1.12.2-1.0.1.jar",
