@@ -1,6 +1,6 @@
 # Code of Conduct
 
-[中文](CODE_OF_CONDUCT.md)
+[中文](/FCLCQ/craftsman-nostalgia/blob/main/.github/CODE_OF_CONDUCT.md)
 
 This repository only covers the pack itself: mod list, configuration, scripts, resource packs, documentation and the build script.
 

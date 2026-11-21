@@ -1,6 +1,6 @@
 # Third-party asset notice
 
-[中文](NOTICE.md)
+[中文](/FCLCQ/craftsman-nostalgia/blob/main/NOTICE.md)
 
 `overrides/resourcepacks/CNFullTextures-CC.zip` is the distributable merged pack currently used by the instance, released under CC BY-SA 4.0. Its `CREDITS.txt` lists attribution, and `LICENSES/MIT.txt` plus `LICENSES/CC-BY-SA-4.0.txt` carry the license texts and redistribution terms. Sources are Backport Everything 1.12-1.12.2 v1.8 (CC BY-SA 4.0) and the main, addition and fix subpacks of ModernityExtra (MIT); Modernity, the ModernityExtra adjunct subpack and the FFD add-on pack are not included.
 

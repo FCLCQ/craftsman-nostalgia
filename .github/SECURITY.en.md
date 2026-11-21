@@ -1,6 +1,6 @@
 # Security Policy
 
-[中文](SECURITY.md)
+[中文](/FCLCQ/craftsman-nostalgia/blob/main/.github/SECURITY.md)
 
 ## Scope
 

@@ -1,6 +1,6 @@
 # Accessibility
 
-[中文](ACCESSIBILITY.md)
+[中文](/FCLCQ/craftsman-nostalgia/blob/main/ACCESSIBILITY.md)
 
 This is a pack repository, so accessibility applies to documentation and release notes.
 

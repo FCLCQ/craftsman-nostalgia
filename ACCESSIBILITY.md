@@ -1,6 +1,6 @@
 # 可访问性说明
 
-[English](ACCESSIBILITY.en.md)
+[English](/FCLCQ/craftsman-nostalgia/blob/main/ACCESSIBILITY.en.md)
 
 本仓库是整合包项目，可访问性主要针对文档与发布说明。
 
