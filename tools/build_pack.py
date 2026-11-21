@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """打包工匠怀古整合包为启动器可导入的 mrpack。
 
-结构与启动器导出的 0.6.135 包一致：模组与光影写在 modrinth.index.json 的
+结构与启动器导出的 0.6.136 包一致：模组与光影写在 modrinth.index.json 的
 files 里，用 pack-sources.json 记录的下载地址与哈希；没有公开下载来源的
 模组放进 client-overrides/mods/；配置、脚本与资源包放进 client-overrides/。
 
 用法:
     python3 tools/build_pack.py --out dist
-    python3 tools/build_pack.py --mods /path/to/instance/mods --out dist --version 0.6.135
+    python3 tools/build_pack.py --mods /path/to/instance/mods --out dist --version 0.6.136
     python3 tools/build_pack.py --format zip --out dist
 """
 import argparse
@@ -243,7 +243,7 @@ def main():
     parser.add_argument("--with-offline", action="store_true",
                         help="把没有下载来源的模组嵌入 client-overrides/mods/，默认不打包")
     parser.add_argument("--name", default="craftsman-nostalgia", help="zip 格式的包名前缀")
-    parser.add_argument("--version", default="0.6.135", help="版本号")
+    parser.add_argument("--version", default="0.6.136", help="版本号")
     args = parser.parse_args()
 
     manifest = load_json(os.path.join(ROOT, "mods-manifest.json"))

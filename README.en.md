@@ -11,9 +11,9 @@ The full categorized list is in [MODS.md](docs/MODS.en.md), covering loader and 
 
 ## Repository layout
 
-- `overrides/config/` mod configuration, limited to the 58 files the pack changes; defaults generated at first launch are not stored
+- `overrides/config/` mod configuration, limited to the 52 files the pack changes; defaults generated at first launch are not stored
 - `overrides/groovy/` GroovyScript scripts
-- `overrides/resourcepacks/CraftsmanNostalgia.zip` resource pack
+- `overrides/resourcepacks/CraftsmanNostalgia.zip` legacy merged pack; the instance currently uses `CNFullTextures.zip`, which is not tracked
 - `mods-list.txt`, `mods-manifest.json` mod list and hashes
 - `pack-sources.json` download URLs and hashes for mods and the shader pack
 - `tools/build_pack.py` packaging script
@@ -33,7 +33,7 @@ Supported launchers are listed in [LAUNCHERS.md](docs/LAUNCHERS.en.md).
 ## Local packaging
 
 ```bash
-python3 tools/build_pack.py --mods /path/to/instance/mods --out dist --version 0.6.135
+python3 tools/build_pack.py --mods /path/to/instance/mods --out dist --version 0.6.136
 ```
 
 Produces `dist/CraftsmanNostalgia-<version>.mrpack` with the same layout as the launcher export; the internal name stays `[CRL]工匠怀古` while the file name is ASCII so it can be attached to a Release. Mods and the shader pack go into `files` in `modrinth.index.json`, with URLs and hashes from `pack-sources.json`; mods missing from that file are left out by default; add `--with-offline` to verify them against the manifest SHA-1 in the `--mods` directory and embed them under `client-overrides/mods/`. Configuration, scripts and resource packs come from git-tracked files only, so `splash.properties`, `shaders.properties`, `cleanroom_load_timings.dat` and `*.dat` caches stay out of the archive. Add `--format zip` for a plain archive. The archive places `LICENSE`, both language versions of the third-party notice and the license texts from `docs/licenses/` in the instance root and under `licenses/`.

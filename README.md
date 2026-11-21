@@ -11,9 +11,9 @@
 
 ## 仓库内容
 
-- `overrides/config/` 模组配置，只保留改动过的 58 个文件；首次启动由模组生成的默认配置不入库
+- `overrides/config/` 模组配置，只保留改动过的 52 个文件；首次启动由模组生成的默认配置不入库
 - `overrides/groovy/` GroovyScript 脚本
-- `overrides/resourcepacks/CraftsmanNostalgia.zip` 资源包
+- `overrides/resourcepacks/CraftsmanNostalgia.zip` 旧合并资源包；实例当前使用 `CNFullTextures.zip`，不入库
 - `mods-list.txt`、`mods-manifest.json` 模组清单与哈希
 - `pack-sources.json` 模组与光影的下载地址和哈希
 - `tools/build_pack.py` 打包脚本
@@ -32,7 +32,7 @@
 ## 本地打包
 
 ```bash
-python3 tools/build_pack.py --mods /path/to/instance/mods --out dist --version 0.6.135
+python3 tools/build_pack.py --mods /path/to/instance/mods --out dist --version 0.6.136
 ```
 
 生成 `dist/CraftsmanNostalgia-<版本>.mrpack`，结构与启动器导出的包一致；包内名称仍是 `[CRL]工匠怀古`，文件名用 ASCII 以便作为 Releases 附件。模组与光影写进 `modrinth.index.json` 的 `files`，下载地址与哈希取自 `pack-sources.json`；该文件没有覆盖的模组默认不进入分发包，需要时加 `--with-offline`，脚本会从 `--mods` 指向的实例目录按 `mods-manifest.json` 的 SHA-1 校验后嵌入 `client-overrides/mods/`。配置、脚本与资源包只取 git 跟踪的文件，`splash.properties`、`shaders.properties`、`cleanroom_load_timings.dat` 与 `*.dat` 缓存不进入分发包。需要整体 zip 时加 `--format zip`。分发包把 `LICENSE`、第三方声明中英文两份与 `docs/licenses/` 下的许可原文放在实例根目录与 `licenses/`。
