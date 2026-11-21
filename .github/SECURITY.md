@@ -8,6 +8,4 @@
 
 ## 报告方式
 
-不要在公开 issue 中披露细节。使用仓库 Security 页面的「Report a vulnerability」提交私有报告，或在 issue 中只说明存在安全问题并请求私下联系。
-
-收到报告后会在确认问题后尽快修复，并在发布说明中注明。
+使用仓库 Security 页面的「Report a vulnerability」提交私有报告，或在 issue 中只说明存在安全问题并请求私下联系。
