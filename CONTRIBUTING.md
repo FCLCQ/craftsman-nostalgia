@@ -1,6 +1,6 @@
 # 贡献指南
 
-[English](/FCLCQ/craftsman-nostalgia/blob/main/CONTRIBUTING.en.md)
+[English](https://github.com/FCLCQ/craftsman-nostalgia/blob/main/CONTRIBUTING.en.md)
 
 ## 可以提交的内容
 

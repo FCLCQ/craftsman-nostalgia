@@ -1,6 +1,6 @@
 # 安全政策
 
-[English](/FCLCQ/craftsman-nostalgia/blob/main/.github/SECURITY.en.md)
+[English](https://github.com/FCLCQ/craftsman-nostalgia/blob/main/.github/SECURITY.en.md)
 
 ## 报告范围
 

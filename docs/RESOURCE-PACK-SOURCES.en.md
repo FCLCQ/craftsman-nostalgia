@@ -1,6 +1,6 @@
 # Resource pack source audit
 
-[中文](/FCLCQ/craftsman-nostalgia/blob/main/docs/RESOURCE-PACK-SOURCES.md)
+[中文](https://github.com/FCLCQ/craftsman-nostalgia/blob/main/docs/RESOURCE-PACK-SOURCES.md)
 
 This file audits the legacy merged pack `CraftsmanNostalgia.zip`. The instance currently uses `CNFullTextures.zip`, which extends it with Modernity, Backport Everything, ModernityExtra and the FFD add-on pack, plus Chinese translations and TAIGA name overrides, so its counts differ from the numbers below.
 

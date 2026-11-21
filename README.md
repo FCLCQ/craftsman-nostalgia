@@ -1,6 +1,6 @@
 # 工匠怀古
 
-[English](/FCLCQ/craftsman-nostalgia/blob/main/README.en.md)
+[English](https://github.com/FCLCQ/craftsman-nostalgia/blob/main/README.en.md)
 
 在 Minecraft 1.12.2 上体验高版本内容的 Cleanroom 整合包，匠魂怀古(匠魂2)作为玩法核心。适用于希望继续留在匠魂2、同时想体验高版本方块、生物、村庄与下界内容的玩家。  
 整合包使用维护的分支与新式优化，代替停止维护或已经过时的模组。

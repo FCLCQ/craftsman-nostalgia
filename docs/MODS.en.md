@@ -1,6 +1,6 @@
 # Mod list
 
-[中文](/FCLCQ/craftsman-nostalgia/blob/main/docs/MODS.md)
+[中文](https://github.com/FCLCQ/craftsman-nostalgia/blob/main/docs/MODS.md)
 
 83 mods, loader is Cleanroom 0.6.13-alpha, versions taken from `mods-manifest.json` and each jar.
 

@@ -1,6 +1,6 @@
 # Launcher compatibility
 
-[中文](/FCLCQ/craftsman-nostalgia/blob/main/docs/LAUNCHERS.md)
+[中文](https://github.com/FCLCQ/craftsman-nostalgia/blob/main/docs/LAUNCHERS.md)
 
 The pack uses a custom version JSON with Cleanroom 0.6.13 and requires Java 25 and LWJGL3. A launcher must support importing a custom version with `libraries` and `mainClass`, selecting a Java 25 path, and disabling game file integrity checks.
 
