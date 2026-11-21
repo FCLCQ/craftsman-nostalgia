@@ -11,7 +11,7 @@ The full categorized list is in [MODS.md](docs/MODS.en.md), covering loader and 
 
 ## Repository layout
 
-- `overrides/config/` mod configuration, limited to the 52 files the pack changes; defaults generated at first launch are not stored
+- `overrides/config/` mod configuration, limited to the 50 files the pack changes; defaults generated at first launch are not stored
 - `overrides/groovy/` GroovyScript scripts
 - `overrides/resourcepacks/CraftsmanNostalgia.zip` legacy merged pack; the instance currently uses `CNFullTextures.zip`, which is not tracked
 - `overrides/resourcepacks/CNFullTextures-CC.zip` distributable merged pack; sources and licenses are in `CREDITS.txt` and `LICENSES/` inside the pack

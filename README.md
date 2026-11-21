@@ -11,7 +11,7 @@
 
 ## 仓库内容
 
-- `overrides/config/` 模组配置，只保留改动过的 52 个文件；首次启动由模组生成的默认配置不入库
+- `overrides/config/` 模组配置，只保留改动过的 50 个文件；首次启动由模组生成的默认配置不入库
 - `overrides/groovy/` GroovyScript 脚本
 - `overrides/resourcepacks/CraftsmanNostalgia.zip` 旧合并资源包；实例当前使用 `CNFullTextures.zip`，不入库
 - `overrides/resourcepacks/CNFullTextures-CC.zip` 可分发资源包，来源与许可见包内 `CREDITS.txt` 与 `LICENSES/`
