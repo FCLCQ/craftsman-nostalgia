@@ -1,6 +1,6 @@
 # Contributing
 
-[中文](/FCLCQ/craftsman-nostalgia/blob/main/CONTRIBUTING.md)
+[中文](https://github.com/FCLCQ/craftsman-nostalgia?tab=contributing-ov-file)
 
 ## What to submit
 
