@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest mod additions, removals, config changes or gameplay changes
+name: 功能建议 / Feature request
+about: 模组增减、配置调整或玩法建议 / Suggest mod additions, removals, config changes or gameplay changes
 title: "[Suggestion] "
 labels: enhancement
 ---

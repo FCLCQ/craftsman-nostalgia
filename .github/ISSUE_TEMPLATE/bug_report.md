@@ -1,6 +1,6 @@
 ---
-name: Problem report
-about: Launch, rendering, recipe or script problems in the pack
+name: 问题反馈 / Problem report
+about: 整合包启动、渲染、配方或脚本异常 / Launch, rendering, recipe or script problems in the pack
 title: "[Bug] "
 labels: bug
 ---
