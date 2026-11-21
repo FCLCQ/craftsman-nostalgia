@@ -1,6 +1,6 @@
 # Mod list
 
-94 mods, loader is Cleanroom 0.6.13-alpha, versions taken from `mods-manifest.json` and each jar.
+86 mods, loader is Cleanroom 0.6.13-alpha, versions taken from `mods-manifest.json` and each jar.
 
 ## Loader and libraries
 
@@ -37,19 +37,11 @@
 | Tinkers Sort | 1.0.2 | part and material sorting |
 | Simple Smeltery Accelerator | 1.0.1 | smeltery accelerator |
 
-## Backports
+## Backports (provided by FFD)
 
 | Mod | Version | Ported content |
 |---|---|---|
-| Farmer's Future Delight | 1.6.1 | crops, food, mobs, villages and Nether biomes |
-| Deeper Depths | 1.1.2a | trial chambers, geodes and the mace |
-| Oceanic Expanse | 1.2.3 | ocean mobs and ocean content |
-| Cherry_on | 1.3.35 | cherry groves and cherry wood |
-| Pale Bloom | 1.1.0 | pale garden |
-| Crafter | 1.0.0.1 | Crafter |
-| Bundles | 1.2.3 | bundle item |
-| Discs Backport | 1.0.1 | Music discs |
-| Legacy Textiles | 1.5 | Cushion |
+| Farmer's Future Delight | 1.6.1 | crops, food, mobs, villages and Nether biomes; later versions cover all modern content |
 
 ## Farming and food
 

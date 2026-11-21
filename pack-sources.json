@@ -95,40 +95,6 @@
    ]
   },
   {
-   "path": "mods/Bundles-1.2.3.jar",
-   "fileSize": 208171,
-   "hashes": {
-    "sha1": "984677647178be0f8fe7f826736098599350b90c",
-    "sha512": "7befd2b82ae61c82daf88e738ba65a441fdccf26eabc1a9de19c81b323574b009cd0b8737659a214532e623ddeeefe0e1a6aa5548ce54030dbf0da012bf3e737"
-   },
-   "downloads": [
-    "https://edge.forgecdn.net/files/6339/953/Bundles-1.2.3.jar"
-   ]
-  },
-  {
-   "path": "mods/Cherry_on-1.12.2-1.3.35.jar",
-   "fileSize": 6340868,
-   "hashes": {
-    "sha1": "bd609d50a42d58bb07fe76284d2ac59290ae26d1",
-    "sha512": "44fec7c5f176b16fe309bf0a4dc8d4cf4e2bb0cac02779b85a846601cea5533de043a7a1947641d94a5ce5851e0c676cc512c2e4945f60eb63c30f2f539a71e0"
-   },
-   "downloads": [
-    "https://cdn.modrinth.com/data/UmCzjjmW/versions/Do8vDpiC/Cherry_on-1.12.2-1.3.35.jar",
-    "https://edge.forgecdn.net/files/7760/834/Cherry_on-1.12.2-1.3.35.jar"
-   ]
-  },
-  {
-   "path": "mods/Deeper-Depths-1.12.2-1.1.2a.jar",
-   "fileSize": 18629582,
-   "hashes": {
-    "sha1": "593aaea64fa32403972b848878e8cbe32fd0b822",
-    "sha512": "d7b6cf7e1e060d5b514ba0d1b3c62f706323bb0b2c3539fea23a46f3d29be6e70eadb4136458bbaa774ae4e806290e123b0c4f45e9a489f7ce1e7a3359c0755f"
-   },
-   "downloads": [
-    "https://edge.forgecdn.net/files/8962/580/Deeper-Depths-1.12.2-1.1.2a.jar"
-   ]
-  },
-  {
    "path": "mods/DynamicSurroundings-1.12.2-3.6.3.jar",
    "fileSize": 15778870,
    "hashes": {
@@ -289,17 +255,6 @@
    ]
   },
   {
-   "path": "mods/OceanicExpanse-1.2.3.jar",
-   "fileSize": 6656940,
-   "hashes": {
-    "sha1": "f0155cf5a476c0d0713dc613e07411d1a29612ec",
-    "sha512": "ec2292852c9388a7481eb83013293c7d688bc095a5db8cecc535ea4eb90a97ba59731cdf7c7e89bd850df6adf9103f1d3c99d05b936464ba091cd779bdefb08c"
-   },
-   "downloads": [
-    "https://edge.forgecdn.net/files/9534/566/OceanicExpanse-1.2.3.jar"
-   ]
-  },
-  {
    "path": "mods/OreLib-1.12.2-3.6.0.1.jar",
    "fileSize": 341728,
    "hashes": {
@@ -365,18 +320,6 @@
    },
    "downloads": [
     "https://edge.forgecdn.net/files/9430/934/StellarCore-1.6.8.jar"
-   ]
-  },
-  {
-   "path": "mods/Textiles-1.5.jar",
-   "fileSize": 587552,
-   "hashes": {
-    "sha1": "839292dfba3bc0aa40d8fa9e62489d698b9dac1d",
-    "sha512": "c9876dd3690d1b32ce1270eae26fd18f773a341252498fca22cba5f11e04afc5dd89b9e338c4ed04af2b2f8ac686a3c57fb6a18f16ad36837218bcd2a3ca9dde"
-   },
-   "downloads": [
-    "https://cdn.modrinth.com/data/KYCZowhx/versions/YXJwmApJ/Textiles-1.5.jar",
-    "https://edge.forgecdn.net/files/9076/252/Textiles-1.5.jar"
    ]
   },
   {
@@ -632,17 +575,6 @@
    ]
   },
   {
-   "path": "mods/crafter-1.0.0.1-1.12.2-forge.jar",
-   "fileSize": 87494,
-   "hashes": {
-    "sha1": "99d8aabda404089499be27c7d91212a0036cb61d",
-    "sha512": "ed8ef4a69a0d364293f2623412d4e84401255851a3d1d180eeb09536aaf03647d4ab3e08bc6954068769b8ce943df3fbed42a128bb99f4f108098becc2d97a3e"
-   },
-   "downloads": [
-    "https://edge.forgecdn.net/files/8977/830/crafter-1.0.0.1-1.12.2-forge.jar"
-   ]
-  },
-  {
    "path": "mods/datarium-0.6.1.jar",
    "fileSize": 1137614,
    "hashes": {
@@ -651,17 +583,6 @@
    },
    "downloads": [
     "https://edge.forgecdn.net/files/9110/847/datarium-0.6.1.jar"
-   ]
-  },
-  {
-   "path": "mods/discsbackport-1.0.1.jar",
-   "fileSize": 11262511,
-   "hashes": {
-    "sha1": "e7514302dbedfdbf2a703db7883b04b3159cf897",
-    "sha512": "9ed03d03588a660f5a055a8c28fe21076fe22b2d8a341ce1a9357fbfc369ef542f352dc91793b9a848e1ec34f632c6093d41decce375de1502e6ae5f7c023756"
-   },
-   "downloads": [
-    "https://edge.forgecdn.net/files/8568/316/discsbackport-1.0.1.jar"
    ]
   },
   {
@@ -858,17 +779,6 @@
    "downloads": [
     "https://cdn.modrinth.com/data/SbF4LPIs/versions/FXxWLAno/ourotweaker-1.0.0.jar",
     "https://edge.forgecdn.net/files/7919/550/ourotweaker-1.0.0.jar"
-   ]
-  },
-  {
-   "path": "mods/palebloom-1.1.0.jar",
-   "fileSize": 4152128,
-   "hashes": {
-    "sha1": "8921172849b824f5a0e2c7352176ae19ed325d3b",
-    "sha512": "e1ce7180d8660284caf09669f5558be90f71d47d42b06395e00de06a8ed6bc6242e46742782fd087d1ef7ad36daac8d30ddd9d7c5b1314ea3bf2937ecb7aabb2"
-   },
-   "downloads": [
-    "https://edge.forgecdn.net/files/8916/213/palebloom-1.1.0.jar"
    ]
   },
   {

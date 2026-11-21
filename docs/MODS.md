@@ -1,6 +1,6 @@
 # 模组清单
 
-共 94 个模组，加载器为 Cleanroom 0.6.13-alpha，版本取自 `mods-manifest.json` 与各 jar 元数据。
+共 86 个模组，加载器为 Cleanroom 0.6.13-alpha，版本取自 `mods-manifest.json` 与各 jar 元数据。
 
 ## 加载器与前置库
 
@@ -37,19 +37,11 @@
 | Tinkers Sort | 1.0.2 | 部件与材料排序 |
 | Simple Smeltery Accelerator | 1.0.1 | 冶炼炉加速方块 |
 
-## 向下移植内容
+## 向下移植（FFD 提供）
 
 | 模组 | 版本 | 移植内容 |
 |---|---|---|
-| Farmer's Future Delight | 1.6.1 | 作物、食物、生物、村庄与下界群系 |
-| Deeper Depths | 1.1.2a | 试炼密室、晶洞与重锤 |
-| Oceanic Expanse | 1.2.3 | 海洋生物与海洋内容扩展 |
-| Cherry_on | 1.3.35 | 樱花树林与樱花木 |
-| Pale Bloom | 1.1.0 | 苍白花园 |
-| Crafter | 1.0.0.1 | 合成器 |
-| Bundles | 1.2.3 | 收纳袋 |
-| Discs Backport | 1.0.1 | 唱片 |
-| Legacy Textiles | 1.5 | 坐垫 |
+| Farmer's Future Delight | 1.6.1 | 作物、食物、生物、村庄与下界群系；后续版本覆盖全部高版本内容 |
 
 ## 农业与食物
 
