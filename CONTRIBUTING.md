@@ -1,5 +1,7 @@
 # 贡献指南
 
+**简体中文** | [English](CONTRIBUTING.en.md)
+
 ## 可以提交的内容
 
 - 模组版本更新：附上新版本的文件名、SHA-1 与来源链接，`mods-manifest.json` 与 `pack-sources.json` 会同步更新
@@ -19,27 +21,3 @@
 - 只改文档措辞、不改变信息的批量格式化
 - 未说明来源或许可的素材
 - 与本整合包目标无关的功能扩展
-
----
-
-## English
-
-### What to submit
-
-- Mod updates: include the new file name, SHA-1 and source link; `mods-manifest.json` and `pack-sources.json` are updated together
-- Config fixes: state the changed keys, the in-game behaviour and how it was verified
-- GroovyScript changes: state the recipe or trait involved and the in-game verification result
-- Resource packs and languages: state the source and license; assets under an incompatible license are not accepted
-- Documentation fixes: typos, stale version numbers, dead links
-
-### Flow
-
-1. Open an issue first with environment details and a log excerpt.
-2. In the pull request, list the changed files and how they were verified in game.
-3. When mods are added or removed, update `mods-list.txt`, `mods-manifest.json`, `pack-sources.json` and `docs/MODS.md` together.
-
-### Not accepted
-
-- Bulk formatting that only changes wording
-- Assets without a stated source or license
-- Features unrelated to the pack's goal
