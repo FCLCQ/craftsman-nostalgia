@@ -59,3 +59,18 @@ attachTo(TinkerRegistry.getMaterial('mana_diamond'),
 attachTo(TinkerRegistry.getMaterial('mana_diamond'),
         [TinkerRegistry.getTrait('tconevo.crystalline_armor'),
          TinkerRegistry.getTrait('tconevo.mana_infused_armor')], armorTypes)
+
+// 匠魂把挖掘等级名称作为单独一行追加，这里在提示框生成后合并回同一行
+import net.minecraftforge.event.entity.player.ItemTooltipEvent
+
+event_manager.listen { ItemTooltipEvent event ->
+    def tooltip = event.getToolTip()
+    for (int i = 0; i < tooltip.size() - 1; i++) {
+        String line = tooltip.get(i)
+        if (line != null && line.trim() == '挖掘等级:') {
+            tooltip.set(i, line + ' ' + tooltip.get(i + 1))
+            tooltip.remove(i + 1)
+            break
+        }
+    }
+}
