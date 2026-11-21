@@ -1,5 +1,7 @@
 # Mod list
 
+[简体中文](MODS.md) | **English**
+
 83 mods, loader is Cleanroom 0.6.13-alpha, versions taken from `mods-manifest.json` and each jar.
 
 ## Loader and libraries

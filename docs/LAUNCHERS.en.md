@@ -1,5 +1,7 @@
 # Launcher compatibility
 
+[简体中文](LAUNCHERS.md) | **English**
+
 The pack uses a custom version JSON with Cleanroom 0.6.13 and requires Java 25 and LWJGL3. A launcher must support importing a custom version with `libraries` and `mainClass`, selecting a Java 25 path, and disabling game file integrity checks.
 
 | Launcher | Support | Notes |

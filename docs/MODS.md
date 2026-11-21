@@ -1,5 +1,7 @@
 # 模组清单
 
+**简体中文** | [English](MODS.en.md)
+
 共 83 个模组，加载器为 Cleanroom 0.6.13-alpha，版本取自 `mods-manifest.json` 与各 jar 元数据。
 
 ## 加载器与前置库

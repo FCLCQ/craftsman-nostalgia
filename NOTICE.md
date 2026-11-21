@@ -1,5 +1,7 @@
 # 第三方资源声明
 
+**简体中文** | [English](NOTICE.en.md)
+
 `overrides/resourcepacks/CNFullTextures-CC.zip` 是实例当前使用的可分发合并包，同样以 CC BY-SA 4.0 分发。包内 `CREDITS.txt` 列出署名，`LICENSES/MIT.txt` 与 `LICENSES/CC-BY-SA-4.0.txt` 为许可原文与再分发要求。来源为 Backport Everything 1.12-1.12.2 v1.8（CC BY-SA 4.0）与 ModernityExtra 的 main、addition、fix 子包（MIT），未包含 Modernity、ModernityExtra 的 adjunct 子包与 FFD 附加包。
 
 `overrides/resourcepacks/CraftsmanNostalgia.zip` 是资源包，整体采用 CC BY-SA 4.0 许可，包内 `LICENSE.md` 与 `THIRD-PARTY-NOTICES.md` 为随包声明。

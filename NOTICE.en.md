@@ -1,5 +1,7 @@
 # Third-party asset notice
 
+[简体中文](NOTICE.md) | **English**
+
 `overrides/resourcepacks/CNFullTextures-CC.zip` is the distributable merged pack currently used by the instance, released under CC BY-SA 4.0. Its `CREDITS.txt` lists attribution, and `LICENSES/MIT.txt` plus `LICENSES/CC-BY-SA-4.0.txt` carry the license texts and redistribution terms. Sources are Backport Everything 1.12-1.12.2 v1.8 (CC BY-SA 4.0) and the main, addition and fix subpacks of ModernityExtra (MIT); Modernity, the ModernityExtra adjunct subpack and the FFD add-on pack are not included.
 
 `overrides/resourcepacks/CraftsmanNostalgia.zip` is the resource pack, licensed as a whole under CC BY-SA 4.0. The `LICENSE.md` and `THIRD-PARTY-NOTICES.md` files inside the pack carry the corresponding notices. Assets from the sources below are included only when byte-identical to the source.

@@ -1,5 +1,7 @@
 # Resource pack source audit
 
+[简体中文](RESOURCE-PACK-SOURCES.md) | **English**
+
 This file audits the legacy merged pack `CraftsmanNostalgia.zip`. The instance currently uses `CNFullTextures.zip`, which extends it with Modernity, Backport Everything, ModernityExtra and the FFD add-on pack, plus Chinese translations and TAIGA name overrides, so its counts differ from the numbers below.
 
 `overrides/resourcepacks/CraftsmanNostalgia.zip` includes only assets that are byte-identical to their source files. Counts cover entries under `assets/`.

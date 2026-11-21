@@ -1,5 +1,7 @@
 # 启动器兼容性
 
+**简体中文** | [English](LAUNCHERS.en.md)
+
 整合包使用自定义版本 JSON 与 Cleanroom 0.6.13，运行需要 Java 25 与 LWJGL3。启动器必须支持导入带 `libraries` 与 `mainClass` 的自定义版本、能够指定 Java 25 路径，并且可以关闭游戏文件完整性校验。
 
 | 启动器 | 支持情况 | 说明 |
