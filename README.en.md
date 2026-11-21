@@ -66,6 +66,6 @@ Report problems through the repository issue templates with versions, logs and r
 
 Scripts, tools and documentation written by the author are MIT licensed (see `LICENSE`). The resource pack is CC BY-SA 4.0; see [NOTICE.en.md](NOTICE.en.md) for third-party sources and terms.
 
-Pack author: 枫川瑠初晴/FCLCQ(KH)  
+Pack author: Kaedegawaru Hatsuhare(KH)  
 Development assistance: DeepSeek Harness  
 Mods and resource packs remain the property of their respective authors.
