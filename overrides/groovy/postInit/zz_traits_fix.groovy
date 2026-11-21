@@ -32,11 +32,7 @@ def armorTypes = ['core', 'plates', 'trim']
 attachTo(TinkerRegistry.getMaterial('netherite'),
         [TinkerTraits.hellish], ['head'])
 attachTo(TinkerRegistry.getMaterial('netherite'),
-        [TinkerTraits.heavy, TinkerTraits.dense], toolTypes)
-attachTo(TinkerRegistry.getMaterial('netherite'),
         [ArmorTraits.infernal], armorTypes)
-attachTo(TinkerRegistry.getMaterial('netherite'),
-        [ArmorTraits.heavy, ArmorTraits.dense], armorTypes)
 attachTo(TinkerRegistry.getMaterial('netherite'),
         [TinkerTraits.aridiculous], ['head', 'projectile'])
 attachTo(TinkerRegistry.getMaterial('netherite'),
