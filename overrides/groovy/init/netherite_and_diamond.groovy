@@ -1,20 +1,13 @@
 // 下界合金与钻石材料在 init 阶段注册，材料与配方依赖物品注册完成
-// 部件贴图依赖匠魂资源加载时已存在的材料，注册完成后触发一次客户端资源重载
+// 材质渲染信息与贴图重建由 postInit/zz_material_render_fix.groovy 处理
 
 import com.cleanroommc.groovyscript.helper.ingredient.ItemsIngredient
-import net.minecraft.client.Minecraft
 import net.minecraft.item.Item
 import net.minecraft.item.ItemStack
-import net.minecraft.util.ResourceLocation
-import net.minecraft.client.renderer.texture.TextureAtlasSprite
 import net.minecraft.util.text.TextFormatting
 import net.minecraftforge.fluids.FluidRegistry
 import net.minecraftforge.fluids.FluidStack
-import net.minecraftforge.fml.common.FMLCommonHandler
-import net.minecraftforge.fml.relauncher.Side
 import slimeknights.tconstruct.library.TinkerRegistry
-import slimeknights.tconstruct.library.client.MaterialRenderInfo
-import slimeknights.tconstruct.library.client.texture.TinkerTexture
 import slimeknights.tconstruct.library.fluid.FluidMolten
 import slimeknights.tconstruct.library.materials.MaterialTypes
 import slimeknights.tconstruct.library.modifiers.IToolMod
@@ -53,30 +46,6 @@ class TraitDiamondArmorBuiltin extends AbstractArmorTrait {
             return false
         }
         return super.canApplyTogether(other)
-    }
-}
-
-class VertexColorRenderInfo extends MaterialRenderInfo.AbstractMaterialRenderInfo {
-
-    final int vertexColor
-
-    VertexColorRenderInfo(int vertexColor) {
-        this.vertexColor = vertexColor
-    }
-
-    @Override
-    TextureAtlasSprite getTexture(ResourceLocation baseTexture, String location) {
-        return TinkerTexture.loadManually(baseTexture)
-    }
-
-    @Override
-    boolean useVertexColoring() {
-        return true
-    }
-
-    @Override
-    int getVertexColor() {
-        return vertexColor
     }
 }
 
@@ -144,15 +113,5 @@ def diamond = mods.tconstruct.materials.materialBuilder('diamond')
         .addTrimStats(22)
         .register()
 
-
-if (FMLCommonHandler.instance().getSide() == Side.CLIENT) {
-    if (netherite != null) {
-        netherite.setRenderInfo(new VertexColorRenderInfo(0xFF6B5D5D as int))
-    }
-    if (diamond != null) {
-        diamond.setRenderInfo(new VertexColorRenderInfo(0xFF8CF4E2 as int))
-    }
-    log.info('材料材质：已设置顶点染色渲染')
-}
 
 log.info('材料注册：netherite=' + (netherite != null) + '，diamond=' + (diamond != null))
