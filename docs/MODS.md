@@ -104,7 +104,7 @@
 
 | 模组 | 版本 | 作用 |
 |---|---|---|
-| Actinium | alpha-0.0.13 | Sodium 系渲染器与 Iris 光影兼容 |
+| Actinium | 0.0.13 | Sodium 系渲染器与 Iris 光影兼容 |
 | Celeritas Extra | 0.9.3 | Actinium 的额外渲染选项 |
 | Celeritas Dynamic Lights | 1.2.11 | Celeritas 的动态光源扩展 |
 | Celeritas Leaf Culling | 1.0.2 | Celeritas 的树叶裁剪优化 |
