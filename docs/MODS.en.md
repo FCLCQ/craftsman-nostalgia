@@ -104,7 +104,7 @@
 
 | Mod | Version | Role |
 |---|---|---|
-| Actinium | alpha-0.0.13 | Sodium-style renderer with Iris shader support |
+| Actinium | 0.0.13 | Sodium-style renderer with Iris shader support |
 | Celeritas Extra | 0.9.3 | extra render options for Actinium |
 | Celeritas Dynamic Lights | 1.2.11 | dynamic light addon for Celeritas |
 | Celeritas Leaf Culling | 1.0.2 | leaf culling optimization for Celeritas |
