@@ -1,6 +1,6 @@
 # 模组清单
 
-共 86 个模组，加载器为 Cleanroom 0.6.13-alpha，版本取自 `mods-manifest.json` 与各 jar 元数据。
+共 81 个模组，加载器为 Cleanroom 0.6.13-alpha，版本取自 `mods-manifest.json` 与各 jar 元数据。
 
 ## 加载器与前置库
 
@@ -8,15 +8,10 @@
 |---|---|---|
 | Mantle | 1.3.3.55 | 匠魂前置库 |
 | libnine | 1.2.2 | 匠魂进化前置库 |
-| Atlas Lib | 1.1.12 | 通用前置库 |
 | ModularUI | 3.1.6 | GUI 框架 |
-| Forgelin-Continuous | 2.4.20.0 | Kotlin 运行时前置 |
 | WanionLib | 1.12.2-2.91 | 前置库 |
-| SauriaLib 3 | 3.2.1-beta | GeckoLib 前置 |
-| Scalar | 3.10.0 | 配置与前置库 |
 | UniDict | 3.0.10 | 矿物词典与配方统一 |
 | AssetMover | 2.5 | 资源下载与加载库 |
-| Datarium | 0.6.1 | 数据与资源加载库 |
 | AppleCore | 3.4.0 | 饥饿与食物 API |
 | OreLib | 3.6.0.1 | 前置库 |
 | Bubbles | 2.4.10 | 饰品栏前置 |

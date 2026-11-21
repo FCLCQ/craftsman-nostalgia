@@ -2,7 +2,7 @@
  "minecraft": "1.12.2",
  "loader": "forge",
  "loaderVersion": "14.23.5.2860",
- "count": 86,
+ "count": 81,
  "mods": [
   {
    "file": "+Fugue-0.24.4.jar",
@@ -52,17 +52,6 @@
    "sha256": "9e4980728afb5941bdd67c435d2fddf260d88685563343f32d009bae01b64962"
   },
   {
-   "file": "Atlas-Lib-1.12.2-1.1.12.jar",
-   "size": 1368925,
-   "modid": "atlaslib",
-   "version": "1.1.12",
-   "title": "Atlas Lib",
-   "sha1": "e917cea4dee93b1790e65ee660a945ff3062d577",
-   "sha256": "d891c43aa379ef6569d50ef12e1da19efd282f2a43905e519d8ed309d0afdccb",
-   "modrinth_project_id": "G6VHtQr4",
-   "modrinth_version_id": "5xtQRyL1"
-  },
-  {
    "file": "Baubley-Elytra-v1.3.6-mc1.12.2.jar",
    "size": 37104,
    "modid": "baubleye",
@@ -108,17 +97,6 @@
    "title": "Fixeroo",
    "sha1": "21ccf9a7c549f3992bb72ae35587834496b9144d",
    "sha256": "b538c511fdcb82e46137a8f3e08d26ed7f5228b0bf3ac6cf0614038a9375e3bf"
-  },
-  {
-   "file": "Forgelin-Continuous-2.4.20.0.jar",
-   "size": 8020330,
-   "modid": "forgelin_continuous",
-   "version": "2.4.20.0",
-   "title": "Forgelin-Continuous",
-   "sha1": "0a5deb046838d8af2f37cde0251c77f861801d65",
-   "sha256": "9898d49661eb8f52e8b8ec0d4d8e8fd6ab09c3a068be9425b55260215406794d",
-   "modrinth_project_id": "1mPcAmuy",
-   "modrinth_version_id": "8faHEzO3"
   },
   {
    "file": "Gasts_drop_records-1.12.2-forge-1.0.jar",
@@ -239,17 +217,6 @@
    "sha256": "2f4114f438a4a72278554a41027e69eacab57eaf6515b7c7951b11cc63a817cc",
    "modrinth_project_id": "lX0pPsIX",
    "modrinth_version_id": "yREinuec"
-  },
-  {
-   "file": "SauriaLib 3-3.2.1-beta.jar",
-   "size": 3636663,
-   "modid": "geckolib3",
-   "version": "3.2.1-beta",
-   "title": "SauriaLib 3",
-   "sha1": "4adff0e679c451af8fb7e2d812e2dded3f6b4ff0",
-   "sha256": "f0ba90beaca0b0f2dfe50587784f7a94d1e40fd91f5fe25af14814fb81eee151",
-   "modrinth_project_id": "ceqjuh2v",
-   "modrinth_version_id": "PmBiT5TV"
   },
   {
    "file": "ShulkerTooltip-1.9.2.2.jar",
@@ -515,15 +482,6 @@
    "sha256": "488132c436d14d83a9849f4586fcaa6508042d1ee979f6fd75d1f3cdeb76cf1b"
   },
   {
-   "file": "datarium-0.6.1.jar",
-   "size": 1137614,
-   "modid": "datarium",
-   "version": "0.6.1",
-   "title": "Datarium",
-   "sha1": "6a4d39f2b641713ccaa91e7f55a05f6872302130",
-   "sha256": "09a5699c49d731a278564c808ac4c839593341554e3e1f88b0894641fdd8f6d6"
-  },
-  {
    "file": "ends-delight-legacy-1.1.0.jar",
    "size": 228905,
    "modid": "ends_delight",
@@ -733,15 +691,6 @@
    "title": "RGB Chat",
    "sha1": "23539f2c5f2868696bccb723990767a5018426db",
    "sha256": "8362c800132d31bf6ab526e91f89ef2828be70a9c09559dc37141cecc0b7eaf5"
-  },
-  {
-   "file": "scalar-3.10.0.jar",
-   "size": 9418461,
-   "modid": "scalar",
-   "version": "3.10.0",
-   "title": "Scalar",
-   "sha1": "a5b3fcb7a6f0d1f6da67caec3739a1964a6ded5e",
-   "sha256": "42d2410a268e8d5b520f9fb73ae233b8a4aa61146545f897ac20ca4c5e86305e"
   },
   {
    "file": "solwarly-1.12.2-1.0.1.jar",

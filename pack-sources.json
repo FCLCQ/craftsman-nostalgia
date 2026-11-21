@@ -61,17 +61,6 @@
    ]
   },
   {
-   "path": "mods/Atlas-Lib-1.12.2-1.1.12.jar",
-   "fileSize": 1368925,
-   "hashes": {
-    "sha1": "e917cea4dee93b1790e65ee660a945ff3062d577",
-    "sha512": "d21204f27da6c1f27c8c0d643ca858ac154f07fd045d9adb1595fbd6a0754b75c2c8b85a28b59756610edba8679ccac38b28927bf77a94db46c8a56831ff51b6"
-   },
-   "downloads": [
-    "https://cdn.modrinth.com/data/G6VHtQr4/versions/5xtQRyL1/Atlas-Lib-1.12.2-1.1.12.jar"
-   ]
-  },
-  {
    "path": "mods/Baubley-Elytra-v1.3.6-mc1.12.2.jar",
    "fileSize": 37104,
    "hashes": {
@@ -125,18 +114,6 @@
    },
    "downloads": [
     "https://edge.forgecdn.net/files/8144/778/Fixeroo-2.3.7.jar"
-   ]
-  },
-  {
-   "path": "mods/Forgelin-Continuous-2.4.20.0.jar",
-   "fileSize": 8020330,
-   "hashes": {
-    "sha1": "0a5deb046838d8af2f37cde0251c77f861801d65",
-    "sha512": "7017c3d51eb28cb694da76e44e43c1f9192177baec29c4934b6a071942806696dc26e4d8c87c9de0ba891034ba56e3adade3a36bb296648ec4bcf9dbac4aa3e6"
-   },
-   "downloads": [
-    "https://cdn.modrinth.com/data/1mPcAmuy/versions/8faHEzO3/Forgelin-Continuous-2.4.20.0.jar",
-    "https://edge.forgecdn.net/files/8877/225/Forgelin-Continuous-2.4.20.0.jar"
    ]
   },
   {
@@ -275,18 +252,6 @@
    "downloads": [
     "https://cdn.modrinth.com/data/lX0pPsIX/versions/yREinuec/ReachFix-1.12.2-1.1.3.jar",
     "https://edge.forgecdn.net/files/6327/271/ReachFix-1.12.2-1.1.3.jar"
-   ]
-  },
-  {
-   "path": "mods/SauriaLib 3-3.2.1-beta.jar",
-   "fileSize": 3636663,
-   "hashes": {
-    "sha1": "4adff0e679c451af8fb7e2d812e2dded3f6b4ff0",
-    "sha512": "21c5312d328cdd7381ef382120c195cfafb0064c944a6e14b03fa0e89bc14b4b807fd03a462fcf51cb30e3013244852c2fe0f1aecf3befa57bcf900213be5781"
-   },
-   "downloads": [
-    "https://cdn.modrinth.com/data/ceqjuh2v/versions/PmBiT5TV/SauriaLib%203-3.2.1-beta.jar",
-    "https://edge.forgecdn.net/files/8046/370/SauriaLib%203-3.2.1-beta.jar"
    ]
   },
   {
@@ -575,17 +540,6 @@
    ]
   },
   {
-   "path": "mods/datarium-0.6.1.jar",
-   "fileSize": 1137614,
-   "hashes": {
-    "sha1": "6a4d39f2b641713ccaa91e7f55a05f6872302130",
-    "sha512": "e68f08a7d2f631c0de4d74e310bc22d3842e13e21a51943a127be5fec0c1f369a49222a672a1a3bbfeb866d07e4aea7bdfc8329353d478eaa808cbf7cfd21a5e"
-   },
-   "downloads": [
-    "https://edge.forgecdn.net/files/9110/847/datarium-0.6.1.jar"
-   ]
-  },
-  {
    "path": "mods/ends-delight-legacy-1.1.0.jar",
    "fileSize": 228905,
    "hashes": {
@@ -824,17 +778,6 @@
    },
    "downloads": [
     "https://edge.forgecdn.net/files/8024/238/rgbchat-2.1.jar"
-   ]
-  },
-  {
-   "path": "mods/scalar-3.10.0.jar",
-   "fileSize": 9418461,
-   "hashes": {
-    "sha1": "a5b3fcb7a6f0d1f6da67caec3739a1964a6ded5e",
-    "sha512": "b7c0adb59dddcf576857f1e79e19a42e6b19635873a8a6dc80de90d92140c8c207e093778415206d3ab2707d80c9097f4f9f2b8f38d5f43ee6b6bce4ad55c1d1"
-   },
-   "downloads": [
-    "https://edge.forgecdn.net/files/9145/663/scalar-3.10.0.jar"
    ]
   },
   {

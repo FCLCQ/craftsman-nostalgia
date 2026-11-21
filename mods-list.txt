@@ -3,13 +3,11 @@ actinium                         alpha-0.0.13     Actinium-alpha-0.0.13.jar
 cta                              1.3.0            Advancement Locator-1.3.0.jar
 conarm                           1.3.0            AntiqueArmory-1.12.2-1.3.0.jar
 applecore                        3.4.0            AppleCore-mc1.12.2-3.4.0.jar
-atlaslib                         1.1.12           Atlas-Lib-1.12.2-1.1.12.jar
 baubleye                         v1.3.6-mc1.12.2  Baubley-Elytra-v1.3.6-mc1.12.2.jar
 baubles                          2.4.10           Bubbles-2.4.10.jar
 dsurround                        1.12.2-3.6.3     DynamicSurroundings-1.12.2-3.6.3.jar
 farmersdelight                   1.2.0-beta3      FarmersDelightLegacy-1.2.0-beta3.jar
 xporbclump                       2.3.7            Fixeroo-2.3.7.jar
-forgelin_continuous              2.4.20.0         Forgelin-Continuous-2.4.20.0.jar
 gastsdroprecords                 1.0.0            Gasts_drop_records-1.12.2-forge-1.0.jar
 jei                              4.38.1           HadEnoughItems_1.12.2-4.38.1.jar
 suikehappyghast                  1.0.14           HappyGhast-1.12.2-1.0.14.jar
@@ -22,7 +20,6 @@ jeresources                      0.9.3            JustEnoughResources-1.12.2-0.9
 mantle                           1.3.3.55         Mantle-1.12-1.3.3.55.jar
 orelib                           1.12.2-3.6.0.1   OreLib-1.12.2-3.6.0.1.jar
 reachfix                         1.1.3            ReachFix-1.12.2-1.1.3.jar
-geckolib3                        3.2.1-beta       SauriaLib 3-3.2.1-beta.jar
 shulkertooltip                   1.9.2.2          ShulkerTooltip-1.9.2.2.jar
 simplesmelteryaccelerator        1.0.1            SimpleSmelteryAccelerator-1.0.1.jar
 stellar_core                     1.6.8            StellarCore-1.6.8.jar
@@ -50,7 +47,6 @@ cherishedworlds                  1.12.2-1.0.1     cherishedworlds-1.12.2-1.0.1.j
 loliasm                          5.34             chibi-5.34.jar
 classicbar                       0.6.1            classicbar-0.6.1.jar
 clearmybackground                1.0.4-1.12.2     clearmybackground-1.0.4-1.12.2.jar
-datarium                         0.6.1            datarium-0.6.1.jar
 ends_delight                     1.1.0            ends-delight-legacy-1.1.0.jar
 fallingleaves                    2.1.2.3          fallingleaves-2.1.2.3.jar
 farmers_future_delight           1.6.1            farmers-future-delight-1.6.1.jar
@@ -72,7 +68,6 @@ polymorph_legacy                 1.0.1            polymorph_legacy-1.0.1.jar
 pulsar                           0.6.2            pulsar-0.6.2.jar
 quickcraft                       2.4              quickcraft-2.4-1.12.2.jar
 rgbchat                          2.1              rgbchat-2.1.jar
-scalar                           3.10.0           scalar-3.10.0.jar
 solwarly                         1.0.1            solwarly-1.12.2-1.0.1.jar
 soundphysics                     1.3.2-beta       soundphysics-1.3.2-beta.jar
 tconevo                          1.1.9            tconevo-1.12.2-1.1.9.jar
