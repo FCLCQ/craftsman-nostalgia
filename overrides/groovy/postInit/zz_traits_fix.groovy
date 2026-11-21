@@ -36,6 +36,10 @@ attachTo(TinkerRegistry.getMaterial('netherite'),
 attachTo(TinkerRegistry.getMaterial('netherite'),
         [TinkerTraits.aridiculous], ['head', 'projectile'])
 attachTo(TinkerRegistry.getMaterial('netherite'),
+        [TinkerTraits.heavy], toolTypes)
+attachTo(TinkerRegistry.getMaterial('netherite'),
+        [ArmorTraits.heavy], armorTypes)
+attachTo(TinkerRegistry.getMaterial('netherite'),
         [ArmorTraits.aridiculous], ['core'])
 attachTo(TinkerRegistry.getMaterial('diamond'),
         [TconEvoTraits.TRAIT_CRYSTALLINE], toolTypes)
