@@ -16,7 +16,12 @@ def attachTo = { Material material, List<ITrait> traits, List<String> types ->
     }
     traits.findAll { it != null }.each { ITrait trait ->
         types.each { String type ->
-            boolean present = material.getAllTraits().contains(trait) || material.getAllTraitsForStats(type).contains(trait)
+            // getAllTraitsForStats 在类型没有专属列表时回落到全部词条，
+            // 只有拿到的不是回落列表，才说明该类型已经有这个词条。
+            def all = material.getAllTraits()
+            def forType = material.getAllTraitsForStats(type)
+            boolean fallback = forType.size() == all.size() && forType.containsAll(all)
+            boolean present = !fallback && forType.contains(trait)
             if (!present) {
                 material.addTrait(trait, type)
             }
