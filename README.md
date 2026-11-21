@@ -65,6 +65,6 @@ Fugue 0.24.4、Pulsar 0.6.2、Celeritas Extra 0.9.3
 
 作者编写的脚本、工具与文档采用 MIT 许可证，见 `LICENSE`。资源包采用 CC BY-SA 4.0，第三方材质来源与条款见 [NOTICE.md](NOTICE.md)。
 
-整合包作者：枫川瑠初晴/FCLCQ(KH)  
+整合包作者：枫川瑠初晴(FCLCQ)  
 开发协助：DeepSeek Harness  
 模组与资源包版权归各自作者。
