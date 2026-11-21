@@ -1,6 +1,6 @@
 # Mod list
 
-95 mods, loader is Cleanroom 0.6.13-alpha, versions taken from `mods-manifest.json` and each jar.
+92 mods, loader is Cleanroom 0.6.13-alpha, versions taken from `mods-manifest.json` and each jar.
 
 ## Loader and libraries
 
@@ -8,7 +8,7 @@
 |---|---|---|
 | Mantle | 1.3.3.55 | Tinkers' Construct library |
 | libnine | 1.2.2 | Tinkers' Evolution library |
-| Atlas Lib | 1.1.11 | general purpose library |
+| Atlas Lib | 1.1.12 | general purpose library |
 | ModularUI | 3.1.6 | GUI framework |
 | Forgelin-Continuous | 2.4.20.0 | Kotlin runtime library |
 | WanionLib | 1.12.2-2.91 | library |
@@ -41,7 +41,7 @@
 
 | Mod | Version | Ported content |
 |---|---|---|
-| Farmer's Future Delight | 1.5.3 | crops, food, mobs, villages and Nether biomes |
+| Farmer's Future Delight | 1.6.1 | crops, food, mobs, villages and Nether biomes |
 | Deeper Depths | 1.1.2a | trial chambers, geodes and the mace |
 | Oceanic Expanse | 1.2.3 | ocean mobs and ocean content |
 | Cherry_on | 1.3.35 | cherry groves and cherry wood |
@@ -55,9 +55,9 @@
 
 | Mod | Version | Role |
 |---|---|---|
-| Farmer's Delight Legacy | 1.1.8 | Farmer's Delight core |
-| Twilight Delight Legacy | 1.4.1 | Twilight Delight addon |
-| End's Delight Legacy | 1.0.3 | End's Delight addon |
+| Farmer's Delight Legacy | 1.2.0-beta3 | Farmer's Delight core |
+| Twilight Delight Legacy | 1.4.2 | Twilight Delight addon |
+| End's Delight Legacy | 1.1.0 | End's Delight addon |
 | Spice of Life: Warly Edition | 1.0.1 | flavor experience and recent-diet rewards, spices and lunchboxes |
 
 ## World and adventure
@@ -66,16 +66,15 @@
 |---|---|---|
 | The Twilight Forest | 3.15.1 | Twilight Forest |
 | Botania CEu | r1.10-377 | Botania |
-| Twilight Spark's Delight | 1.0.5 | Twilight food expansion |
+| Twilight Spark's Delight | 1.1.0 | Twilight food expansion |
 | HappyGhast | 1.0.14 | Happy Ghast mob |
-| Hydro Agility | 1.15.4 | Swimming and water movement improvements |
 | Advancement Locator | 1.3.0 | advancement locator |
 
 ## Interface and information
 
 | Mod | Version | Role |
 |---|---|---|
-| Had Enough Items | 4.37.3 | item and recipe viewer |
+| Had Enough Items | 4.38.1 | item and recipe viewer |
 | Waila | 1.8.26 | block and entity info |
 | Jade | 0.1.0 | block info |
 | Just Enough Resources | 0.9.3 | resource and drop viewer |
@@ -90,15 +89,13 @@
 | Baubley Elytra | 1.3.6 | bauble elytra |
 | Cherished Worlds | 1.0.1 | world bookmarking |
 | Polymorph Legacy | 1.0.1 | recipe conflict selection |
-| Quick Craft | 2.3.2 | quick crafting |
-| TeamGlowing | 1.1 | team glowing |
+| Quick Craft | 2.4 | quick crafting |
 | Chat Heads Vintage | 0.1.3 | chat heads |
 | RGB Chat | 2.1 | chat colors |
 | No JB Put | 1.2.0 | disable JEI book crafting |
-| Clear My Background | 1.0.4 | clear GUI background |
 | MiniEffects | 2.3.2 | compact status effects |
 | JEI Area Fixer | 2.4.0 | JEI layout fixes |
-| Just Enough Magiculture | 1.2.2 | JEI magic integration |
+| Just Enough Magiculture | 1.3.0 | JEI magic integration |
 
 ## Visuals and audio
 
@@ -120,7 +117,7 @@
 | Actinium | alpha-0.0.13 | Sodium-style renderer with Iris shader support |
 | Celeritas Extra | 0.9.3 | extra render options for Actinium |
 | Celeritas Dynamic Lights | 1.2.11 | dynamic light addon for Celeritas |
-| Celeritas Leaf Culling | 1.0.1 | leaf culling optimization for Celeritas |
+| Celeritas Leaf Culling | 1.0.2 | leaf culling optimization for Celeritas |
 | Pulsar Lighting Engine | 0.6.2 | Starlight-based lighting engine with RGB colored lighting |
 | VintageFix | 0.7.2 | FerriteCore backport reducing memory use |
 | StellarCore | 1.6.8 | performance and bug-fix collection |

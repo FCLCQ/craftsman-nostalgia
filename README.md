@@ -11,7 +11,7 @@
 
 ## 仓库内容
 
-- `overrides/config/` 模组配置，只保留改动过的 62 个文件；首次启动由模组生成的默认配置不入库
+- `overrides/config/` 模组配置，只保留改动过的 61 个文件；首次启动由模组生成的默认配置不入库
 - `overrides/groovy/` GroovyScript 脚本
 - `overrides/resourcepacks/CraftsmanNostalgia.zip` 资源包
 - `mods-list.txt`、`mods-manifest.json` 模组清单与哈希
@@ -25,7 +25,7 @@
 需要 Minecraft 1.12.2 与 Cleanroom 0.6.13。  
 可用启动器见 [LAUNCHERS.md](docs/LAUNCHERS.md)。
 
-1. 从 [Releases](https://github.com/FCLCQ/craftsman-nostalgia/releases) 下载 `.mrpack` 并导入启动器。`modrinth.index.json` 列出 92 个模组与 Mellow 3.5 的下载地址，`client-overrides/` 内含配置、脚本与资源包；`teamglowing`、`TAIGARR`、`clearmybackground` 不在包内，见下文「不随包分发的模组」。
+1. 从 [Releases](https://github.com/FCLCQ/craftsman-nostalgia/releases) 下载 `.mrpack` 并导入启动器。`modrinth.index.json` 列出 91 个模组与 Mellow 3.5 的下载地址，`client-overrides/` 内含配置、脚本与资源包；`TAIGARR` 不在包内，见下文「不随包分发的模组」。
 2. 导入后把实例版本切到 Cleanroom 0.6.13。mrpack 的 `dependencies` 只能声明 `minecraft`，不会自动安装 Cleanroom。
 3. 手动搭建：新建 1.12.2 Cleanroom 实例，按 `mods-list.txt` 安装模组，把 `overrides/` 下的目录复制到实例根目录。
 
@@ -43,9 +43,7 @@ python3 tools/build_pack.py --mods /path/to/instance/mods --out dist --version 0
 
 | 模组 | 用途 |
 |---|---|
-| teamglowing | 队伍发光显示 |
 | TAIGARR | 匠魂合金扩展 |
-| clearmybackground | 清除界面背景 |
 
 ## 兼容性
 

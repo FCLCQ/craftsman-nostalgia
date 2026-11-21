@@ -61,15 +61,14 @@
    ]
   },
   {
-   "path": "mods/Atlas-Lib-1.12.2-1.1.11.jar",
-   "fileSize": 1365308,
+   "path": "mods/Atlas-Lib-1.12.2-1.1.12.jar",
+   "fileSize": 1368925,
    "hashes": {
-    "sha1": "6d707db466168435050414a2ea65ccd700ec9c3e",
-    "sha512": "9368277aa9c96a24045bf76a83cc1d17a5b6cce0ec7be2bb499d8e2757ea256803de08016008de23c51b155a3c18ea574cc355ceb1ad43ad841a37d2417d73e5"
+    "sha1": "e917cea4dee93b1790e65ee660a945ff3062d577",
+    "sha512": "d21204f27da6c1f27c8c0d643ca858ac154f07fd045d9adb1595fbd6a0754b75c2c8b85a28b59756610edba8679ccac38b28927bf77a94db46c8a56831ff51b6"
    },
    "downloads": [
-    "https://cdn.modrinth.com/data/G6VHtQr4/versions/UekJfJ7l/Atlas-Lib-1.12.2-1.1.11.jar",
-    "https://edge.forgecdn.net/files/8206/890/Atlas-Lib-1.12.2-1.1.11.jar"
+    "https://cdn.modrinth.com/data/G6VHtQr4/versions/5xtQRyL1/Atlas-Lib-1.12.2-1.1.12.jar"
    ]
   },
   {
@@ -141,14 +140,14 @@
    ]
   },
   {
-   "path": "mods/FarmersDelightLegacy-1.1.8.jar",
-   "fileSize": 3241549,
+   "path": "mods/FarmersDelightLegacy-1.2.0-beta3.jar",
+   "fileSize": 3612842,
    "hashes": {
-    "sha1": "81c5a8f4ade2ca9b01d4564a981a8a2762f8c531",
-    "sha512": "4b211893a8c725aeb22ccc1c5bc1ec760f2288a9d1ad4558e4021040cf4772d57f885e65b440dda14d27f196d29874f368a1ef08a98cb0d0e38ee92ee713e37d"
+    "sha1": "cd8c0a4ccad1e107be89a6934e29c6bb8174c041",
+    "sha512": "55c969146efc3a4fa7ab2c74e5fefc57a63e2ab518f0513440f7ced5679aaf6e54058d1c0f4e3cb488eee5c29de538fc6f1988da790198f57c13e23be2405454"
    },
    "downloads": [
-    "https://edge.forgecdn.net/files/9278/76/FarmersDelightLegacy-1.1.8.jar"
+    "https://edge.forgecdn.net/files/9701/5/FarmersDelightLegacy-1.2.0-beta3.jar"
    ]
   },
   {
@@ -186,15 +185,15 @@
    ]
   },
   {
-   "path": "mods/HadEnoughItems_1.12.2-4.37.3.jar",
-   "fileSize": 1052543,
+   "path": "mods/HadEnoughItems_1.12.2-4.38.1.jar",
+   "fileSize": 1056015,
    "hashes": {
-    "sha1": "7a3eb065e8b03e1c48de290087039448a6c5f9d0",
-    "sha512": "5e574041118b7b74cde024cfebbb72b25cf1475556e9f4a23b1cec1701a7346afd38e41bd88871d476d2ec11ac877f3e98a6091f964206c6b4b5a4d8c29c325b"
+    "sha1": "4f4a7271c2c4fde1cf2f6c046a555e48637ee0fb",
+    "sha512": "e5066d1db8705ec75fa8392706debcee96d3668ece09818506834bba052e674ca6b691416a4982dc848adc8eaeadff95c179fad572968344ec9f007e4a6361c6"
    },
    "downloads": [
-    "https://cdn.modrinth.com/data/2iXFLwYO/versions/T4sU7pzK/HadEnoughItems_1.12.2-4.37.3.jar",
-    "https://edge.forgecdn.net/files/9407/198/HadEnoughItems_1.12.2-4.37.3.jar"
+    "https://cdn.modrinth.com/data/2iXFLwYO/versions/8ds96Dv8/HadEnoughItems_1.12.2-4.38.1.jar",
+    "https://edge.forgecdn.net/files/9641/480/HadEnoughItems_1.12.2-4.38.1.jar"
    ]
   },
   {
@@ -219,17 +218,6 @@
    "downloads": [
     "https://cdn.modrinth.com/data/hPtqjFyB/versions/Qnj0hx42/Hwyala-1.8.26-B42_1.12.2.jar",
     "https://edge.forgecdn.net/files/8153/162/Hwyala-1.8.26-B42_1.12.2.jar"
-   ]
-  },
-  {
-   "path": "mods/HydroAgility-1.15.4.jar",
-   "fileSize": 189201,
-   "hashes": {
-    "sha1": "1b5bd3cfa8745acad91e7b1e068ed5067d8dfba8",
-    "sha512": "8442e89f0d29ee3ff054311bbdefaf34707289a96f366a5276ab5bcae48c6d6a9a3ccc76d196b540f62f1ce7b6ab3173046f4b8e2c9b828b4408dbfc5e5e5d8f"
-   },
-   "downloads": [
-    "https://cdn.modrinth.com/data/mFN3HGaY/versions/q1KSo2bj/HydroAgility-1.15.4.jar"
    ]
   },
   {
@@ -448,14 +436,14 @@
    ]
   },
   {
-   "path": "mods/TwilightDelightLegacy-1.4.1.jar",
-   "fileSize": 710436,
+   "path": "mods/TwilightDelightLegacy-1.4.2.jar",
+   "fileSize": 715257,
    "hashes": {
-    "sha1": "564ed6cb973018c1b9a44a8d5b5ce5485cbe206a",
-    "sha512": "74223ea36d113e6562cb63e1d025b1e85c5b89ed7563b243191596c872808051eb117b708a0bf9097bb94f151ca4069867690d5150dca463a957272f9b1efa60"
+    "sha1": "30bad05a8b378780f8fa2e0688bc5fa5de00dd95",
+    "sha512": "74dbbc4c32434a28106700857d172e0cacac25a2bfd997678d63921c356daf30f8f33cadede647f9cdee7be8cddcbcf7705cce26489af1fea0c622fda9c0ebb7"
    },
    "downloads": [
-    "https://edge.forgecdn.net/files/9321/516/TwilightDelightLegacy-1.4.1.jar"
+    "https://edge.forgecdn.net/files/9696/982/TwilightDelightLegacy-1.4.2.jar"
    ]
   },
   {
@@ -587,15 +575,14 @@
    ]
   },
   {
-   "path": "mods/celeritasleafculling-1.0.1.jar",
-   "fileSize": 1251956,
+   "path": "mods/celeritasleafculling-1.0.2.jar",
+   "fileSize": 1251996,
    "hashes": {
-    "sha1": "5b301078556db12a3b00db04a8fe6ca7df23494d",
-    "sha512": "90e2f399ad25e4086256b11455f742fb45057d44b1b5fea4ef67da9b2bdf5a6694200d382ce59d18ec04d3879e2779c78dc7290e159005350bca8ca51fb53ac5"
+    "sha1": "35da44f5f08b05e8a451c102fafa329f328d0357",
+    "sha512": "26d1fbf16ff61482024ae0de6523130f4b3ba860fcae29fdb1bd6fd1914d01258b172dd8039d5b5ac06998b03aaa8f5961975dd83a1f90b4cffc63b24d224860"
    },
    "downloads": [
-    "https://cdn.modrinth.com/data/Ulyqqa6E/versions/U4edX37U/celeritasleafculling-1.0.1.jar",
-    "https://edge.forgecdn.net/files/9099/82/celeritasleafculling-1.0.1.jar"
+    "https://cdn.modrinth.com/data/Ulyqqa6E/versions/my0LTEAN/celeritasleafculling-1.0.2.jar"
    ]
   },
   {
@@ -678,14 +665,14 @@
    ]
   },
   {
-   "path": "mods/ends-delight-legacy-1.0.3.jar",
-   "fileSize": 224328,
+   "path": "mods/ends-delight-legacy-1.1.0.jar",
+   "fileSize": 228905,
    "hashes": {
-    "sha1": "9b03b5fce7cfc70d6afe225654e596e6e36efca7",
-    "sha512": "68b6709f0bb8bb0a43867144a520c4e7960ced5edad931616c734ad32ec6db2c4d363ff3be8a8a64cc30fe6872900370dfd20ab36dbf2a43f4095a2f14a3ef8e"
+    "sha1": "0e61c695010fad07c753fbef9da21abfa44660f0",
+    "sha512": "07b6407aca9afbce1f17a48a30a3f2048861b3ba5a79c28f9f67e6fe82b8190e0a65c1de9173fd5bb0f5b76bb840e6bc7b2d93023291eb155deede635b9c96b0"
    },
    "downloads": [
-    "https://edge.forgecdn.net/files/8483/661/ends-delight-legacy-1.0.3.jar"
+    "https://edge.forgecdn.net/files/9694/854/ends-delight-legacy-1.1.0.jar"
    ]
   },
   {
@@ -701,14 +688,14 @@
    ]
   },
   {
-   "path": "mods/farmers-future-delight-1.5.3.jar",
-   "fileSize": 33531408,
+   "path": "mods/farmers-future-delight-1.6.1.jar",
+   "fileSize": 48680268,
    "hashes": {
-    "sha1": "9849d5935625b9fe0720116ed00ec97aa3b55157",
-    "sha512": "383416ef5832b3b71a1bf675062226fce2d08272ae759adcc169e486ce5bf5fb2852d0657cb0824083f7f2ee26ecbd0213be1ff687d68c9c12511d2fa1da48db"
+    "sha1": "2bde6b6d201f3c69d3d1179d8c50be3d154c61d4",
+    "sha512": "9802322a3a411aa4385abec65ca7ef423c717a10a864cedac4aecc6c209aecd9bc90247b11d807efc44f3025a063b8110cb8e203c9e901a8386e272a0b0e209c"
    },
    "downloads": [
-    "https://edge.forgecdn.net/files/9521/358/farmers-future-delight-1.5.3.jar"
+    "https://edge.forgecdn.net/files/9678/659/farmers-future-delight-1.6.1.jar"
    ]
   },
   {
@@ -997,14 +984,14 @@
    ]
   },
   {
-   "path": "mods/twilight-sparks-delight-1.0.5.jar",
-   "fileSize": 809986,
+   "path": "mods/twilight-sparks-delight-1.1.0.jar",
+   "fileSize": 824809,
    "hashes": {
-    "sha1": "11d0f63eb65ad258dfc9d38e8ee847aed0a51a75",
-    "sha512": "b186df71537cad1f640358373741d2ce12beda55ca7b07ad7d0bc098fa1ca9b60f4223f520c85ee8c5d8c04c665489aa4e223b025183681a1e5a8ad91eeaec9b"
+    "sha1": "89dcf08dcd16a6e5b1e1c9954a22ad352a8857f9",
+    "sha512": "413f90003776bc7e6518effffa1910a3b1f8155f1dfa9f9dd627dfc0aa738f64b3013c653e8f601d0eaa5dd2eb5928bf893186f3ebd8a6df877d7ab206ae39a4"
    },
    "downloads": [
-    "https://edge.forgecdn.net/files/9293/949/twilight-sparks-delight-1.0.5.jar"
+    "https://edge.forgecdn.net/files/9700/335/twilight-sparks-delight-1.1.0.jar"
    ]
   },
   {

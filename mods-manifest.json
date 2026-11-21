@@ -2,7 +2,7 @@
  "minecraft": "1.12.2",
  "loader": "forge",
  "loaderVersion": "14.23.5.2860",
- "count": 95,
+ "count": 92,
  "mods": [
   {
    "file": "+Fugue-0.24.4.jar",
@@ -36,31 +36,31 @@
   {
    "file": "AntiqueArmory-1.12.2-1.3.0.jar",
    "size": 840493,
-   "modid": "",
-   "version": "",
-   "title": "",
+   "modid": "conarm",
+   "version": "1.3.0",
+   "title": "Antique Armory",
    "sha1": "96e8b8adb8a29cc35632050e6ed6321bf676092b",
    "sha256": "22100e6540197e4038a17aecbddb09510a57245b8b56c0b71eeb2345a0dfb0da"
   },
   {
    "file": "AppleCore-mc1.12.2-3.4.0.jar",
    "size": 89615,
-   "modid": "",
-   "version": "",
-   "title": "",
+   "modid": "applecore",
+   "version": "3.4.0",
+   "title": "AppleCore",
    "sha1": "a6a57a76936a559088e9282aacde6f761d7e0b39",
    "sha256": "9e4980728afb5941bdd67c435d2fddf260d88685563343f32d009bae01b64962"
   },
   {
-   "file": "Atlas-Lib-1.12.2-1.1.11.jar",
-   "size": 1365308,
+   "file": "Atlas-Lib-1.12.2-1.1.12.jar",
+   "size": 1368925,
    "modid": "atlaslib",
-   "version": "1.1.11",
+   "version": "1.1.12",
    "title": "Atlas Lib",
-   "sha1": "6d707db466168435050414a2ea65ccd700ec9c3e",
-   "sha256": "94bc409faebc1941486b1cd868be28581c9869c3ecde52f1eec9bb862c285c61",
+   "sha1": "e917cea4dee93b1790e65ee660a945ff3062d577",
+   "sha256": "d891c43aa379ef6569d50ef12e1da19efd282f2a43905e519d8ed309d0afdccb",
    "modrinth_project_id": "G6VHtQr4",
-   "modrinth_version_id": "UekJfJ7l"
+   "modrinth_version_id": "5xtQRyL1"
   },
   {
    "file": "Baubley-Elytra-v1.3.6-mc1.12.2.jar",
@@ -121,13 +121,13 @@
    "sha256": "e5c9fbc101dae923a49800761c901831c1f085685c20a229d7dcf98f37d70b85"
   },
   {
-   "file": "FarmersDelightLegacy-1.1.8.jar",
-   "size": 3241549,
+   "file": "FarmersDelightLegacy-1.2.0-beta3.jar",
+   "size": 3612842,
    "modid": "farmersdelight",
-   "version": "1.1.8",
+   "version": "1.2.0-beta3",
    "title": "Farmer's Delight Legacy",
-   "sha1": "81c5a8f4ade2ca9b01d4564a981a8a2762f8c531",
-   "sha256": "156d2358c1b5bcf63ec8501ab93586469e3521331ecb09256459c26ac8a59e26"
+   "sha1": "cd8c0a4ccad1e107be89a6934e29c6bb8174c041",
+   "sha256": "499cf42357bf26ab0dab7c25c6a71cdefb7aabf46d5bc7334bb3333fe5bebf2d"
   },
   {
    "file": "Fixeroo-2.3.7.jar",
@@ -159,15 +159,15 @@
    "sha256": "695557929d093583efe3c4cd80758faf6b9f53caf650f2769f9e3a190a823217"
   },
   {
-   "file": "HadEnoughItems_1.12.2-4.37.3.jar",
-   "size": 1052543,
+   "file": "HadEnoughItems_1.12.2-4.38.1.jar",
+   "size": 1056015,
    "modid": "jei",
-   "version": "4.37.3",
+   "version": "4.38.1",
    "title": "Had Enough Items",
-   "sha1": "7a3eb065e8b03e1c48de290087039448a6c5f9d0",
-   "sha256": "c8e66805eae1fdecfddec357da6ac72dd781ff51f1496a97e2919393c72146f9",
+   "sha1": "4f4a7271c2c4fde1cf2f6c046a555e48637ee0fb",
+   "sha256": "f61d5387728adfb36b07fd8426ce43d9e0f0926c9412f5740b2b0f3dbb587998",
    "modrinth_project_id": "2iXFLwYO",
-   "modrinth_version_id": "T4sU7pzK"
+   "modrinth_version_id": "8ds96Dv8"
   },
   {
    "file": "HappyGhast-1.12.2-1.0.14.jar",
@@ -192,22 +192,11 @@
    "modrinth_version_id": "Qnj0hx42"
   },
   {
-   "file": "HydroAgility-1.15.4.jar",
-   "size": 189201,
-   "modid": "aquaacrobatics",
-   "version": "1.15.4",
-   "title": "Hydro Agility",
-   "sha1": "1b5bd3cfa8745acad91e7b1e068ed5067d8dfba8",
-   "sha256": "1def562cd8bf52d24e48a47de65dee04838eb137234cd2b2051bffef84fd047d",
-   "modrinth_project_id": "mFN3HGaY",
-   "modrinth_version_id": "q1KSo2bj"
-  },
-  {
    "file": "InventoryHUD-1.12.2.forge-3.4.4.jar",
    "size": 217960,
-   "modid": "",
-   "version": "",
-   "title": "",
+   "modid": "inventoryhud",
+   "version": "3.4.4",
+   "title": "Inventory HUD+",
    "sha1": "b2ce2d6fdb0842139b892b27af08b3aaec7f2d19",
    "sha256": "981d33046ab0ca5f27b156070c3077e35a11ccc9bad5452bfc3a43a6076f7357",
    "modrinth_project_id": "Kp2uclYl",
@@ -225,9 +214,9 @@
   {
    "file": "Jade-0.1.0.jar",
    "size": 28775,
-   "modid": "",
-   "version": "",
-   "title": "",
+   "modid": "jade",
+   "version": "0.1.0",
+   "title": "Jade",
    "sha1": "6876a7399c604169d7acb06d441743eaac5dd615",
    "sha256": "53076b9523f5fd450b8bbadde776546c00565880e3e4ac01f3d01a6471b00b0c"
   },
@@ -312,18 +301,18 @@
   {
    "file": "SimpleSmelteryAccelerator-1.0.1.jar",
    "size": 20379,
-   "modid": "",
-   "version": "",
-   "title": "",
+   "modid": "simplesmelteryaccelerator",
+   "version": "1.0.1",
+   "title": "Simple Smeltery Accelerator",
    "sha1": "e406174a3546d361d405390efe5959b49d1853d1",
    "sha256": "fff8b84bfeb0c50eab6deaf5feebcfc699b0adf2ead94e91ef4ddf093a155724"
   },
   {
    "file": "StellarCore-1.6.8.jar",
    "size": 1576708,
-   "modid": "",
-   "version": "",
-   "title": "",
+   "modid": "stellar_core",
+   "version": "1.6.8",
+   "title": "Stellar Core",
    "sha1": "2bee0c05f44a9553c53d69aee37a8605466e0bf4",
    "sha256": "7ff19753cd7ab135d2fd43c78e471e0abcd87f0ba951749f7380182172750919"
   },
@@ -395,20 +384,20 @@
    "modrinth_version_id": "3JLbcslr"
   },
   {
-   "file": "TwilightDelightLegacy-1.4.1.jar",
-   "size": 710436,
+   "file": "TwilightDelightLegacy-1.4.2.jar",
+   "size": 715257,
    "modid": "twilightdelight",
-   "version": "1.4.1",
+   "version": "1.4.2",
    "title": "Twilight Delight Legacy",
-   "sha1": "564ed6cb973018c1b9a44a8d5b5ce5485cbe206a",
-   "sha256": "0ee8d3f9b64118731659cccda536544fe00cb1058e40b9352aca04f701a98010"
+   "sha1": "30bad05a8b378780f8fa2e0688bc5fa5de00dd95",
+   "sha256": "5e8c2ad1fb0f0f20111aff03869895ba5ea3acb8e302dee69dae4565d0535882"
   },
   {
    "file": "UniDict-1.12.2-3.0.10.jar",
    "size": 225385,
-   "modid": "",
-   "version": "",
-   "title": "",
+   "modid": "unidict",
+   "version": "1.12.2-3.0.10",
+   "title": "UniDict",
    "sha1": "2b72e49682aca50fa55522c5080f2ba20173c565",
    "sha256": "003421fa15bc84733343ad26f8bd9387bbd110df6c7ff860cae87ec11f85399d",
    "modrinth_project_id": "deXLECwV",
@@ -469,7 +458,7 @@
    "file": "assetmover-2.5.jar",
    "size": 42829,
    "modid": "",
-   "version": "",
+   "version": "2.5",
    "title": "",
    "sha1": "b147ada093f5552fdedee9b7ee0de1d99b6f3c06",
    "sha256": "ac73086576901cb0a11a11511a2a903174177b211958d2498e5307d0a91ce35a"
@@ -515,13 +504,15 @@
    "modrinth_version_id": "6E4PKNVD"
   },
   {
-   "file": "celeritasleafculling-1.0.1.jar",
-   "size": 1251956,
+   "file": "celeritasleafculling-1.0.2.jar",
+   "size": 1251996,
    "modid": "celeritasleafculling",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "title": "Celeritas Leaf Culling",
-   "sha1": "5b301078556db12a3b00db04a8fe6ca7df23494d",
-   "sha256": "a48acc42bd5c47b94150804496e7d17e4d6fe9191787ebaffb997c7166fd6711"
+   "sha1": "35da44f5f08b05e8a451c102fafa329f328d0357",
+   "sha256": "cc384657338ab6cf1c8140364e0f9b5a6022909960a69181d4ef88cc6cf94fd3",
+   "modrinth_project_id": "Ulyqqa6E",
+   "modrinth_version_id": "my0LTEAN"
   },
   {
    "file": "chat_heads-0.1.3.jar",
@@ -564,15 +555,6 @@
    "sha256": "ae065cb2aea50519d07c3e1343e663c763885bb2d59387626169fb8d96ed2dd5"
   },
   {
-   "file": "clearmybackground-1.0.4-1.12.2.jar",
-   "size": 22106,
-   "modid": "clearmybackground",
-   "version": "1.0.4-1.12.2",
-   "title": "Clear My Background",
-   "sha1": "1025ebe8ebafd1e91a383b69624c33fd1c7c5de3",
-   "sha256": "488132c436d14d83a9849f4586fcaa6508042d1ee979f6fd75d1f3cdeb76cf1b"
-  },
-  {
    "file": "crafter-1.0.0.1-1.12.2-forge.jar",
    "size": 87494,
    "modid": "crafter",
@@ -584,9 +566,9 @@
   {
    "file": "datarium-0.6.1.jar",
    "size": 1137614,
-   "modid": "",
-   "version": "",
-   "title": "",
+   "modid": "datarium",
+   "version": "0.6.1",
+   "title": "Datarium",
    "sha1": "6a4d39f2b641713ccaa91e7f55a05f6872302130",
    "sha256": "09a5699c49d731a278564c808ac4c839593341554e3e1f88b0894641fdd8f6d6"
   },
@@ -600,13 +582,13 @@
    "sha256": "99556160a3ece0381e30b1507f61b3c8bfad4735ee487d04970ef1cb1aa442bc"
   },
   {
-   "file": "ends-delight-legacy-1.0.3.jar",
-   "size": 224328,
+   "file": "ends-delight-legacy-1.1.0.jar",
+   "size": 228905,
    "modid": "ends_delight",
-   "version": "1.0.3",
+   "version": "1.1.0",
    "title": "End's Delight Legacy",
-   "sha1": "9b03b5fce7cfc70d6afe225654e596e6e36efca7",
-   "sha256": "f862044d5c1e85e38db1995c6fd410cd6f8ef1b60d5e9d5d8c3ae8b8d77c9c80"
+   "sha1": "0e61c695010fad07c753fbef9da21abfa44660f0",
+   "sha256": "e9ecb921d402b1d494682ef962b2f0d8fb9afb98dfa8d49dccb3458ebe0dfd1d"
   },
   {
    "file": "fallingleaves-2.1.2.3.jar",
@@ -620,13 +602,13 @@
    "modrinth_version_id": "IYPcpIY7"
   },
   {
-   "file": "farmers-future-delight-1.5.3.jar",
-   "size": 33531408,
+   "file": "farmers-future-delight-1.6.1.jar",
+   "size": 48680268,
    "modid": "farmers_future_delight",
-   "version": "1.5.3",
+   "version": "1.6.1",
    "title": "Farmer's Future Delight",
-   "sha1": "9849d5935625b9fe0720116ed00ec97aa3b55157",
-   "sha256": "f0be1ee771bc68e0d070aa57c0f2951e164d5bd73a08cae4fb11061caa45d749"
+   "sha1": "2bde6b6d201f3c69d3d1179d8c50be3d154c61d4",
+   "sha256": "3e6c2681c4658adec806bc5f9386f4ec9d89a08de21cb6b8e6ea674383f9cac1"
   },
   {
    "file": "fishtickfix-1.2.0+mc1-12-2-forge-14-23-5-2860.jar",
@@ -662,9 +644,9 @@
   {
    "file": "ironchest-netherite-1.12.2-1.0.2.jar",
    "size": 1326586,
-   "modid": "",
-   "version": "",
-   "title": "",
+   "modid": "ironchest",
+   "version": "1.0.2",
+   "title": "Iron Chest",
    "sha1": "5a0a523ce7357d8a320f6edeb89228218cf06bb8",
    "sha256": "de08013983401710f2d1fdf86ec2a9b2963c0b17e5f557454c513a55dd77512a",
    "modrinth_project_id": "7tPBdiPp",
@@ -684,18 +666,18 @@
   {
    "file": "jei_area_fixer-2.4.0.jar",
    "size": 116549,
-   "modid": "",
-   "version": "",
-   "title": "",
+   "modid": "jei_area_fixer",
+   "version": "2.4.0",
+   "title": "JEI Area Fixer",
    "sha1": "f2f8048c5601113ce6c03685c252698139ad8f40",
    "sha256": "4a0a4cad191c5c05c2ac285eb5a370ab8606569ed3cdac8da5cdd46b75aca570"
   },
   {
    "file": "justenoughmagiculture-1.12.2-1.2.2.jar",
    "size": 537618,
-   "modid": "",
-   "version": "",
-   "title": "",
+   "modid": "justenoughmagiculture",
+   "version": "1.12.2-1.3.0",
+   "title": "Just Enough Magiculture",
    "sha1": "f723a3e0a26881fadfab81aab6a71746f2cbea53",
    "sha256": "b1477c2ff5867fbd4ee97c0a5f387cc628155c03155722fca0b9068d3d5819a0"
   },
@@ -713,9 +695,9 @@
   {
    "file": "minieffects-2.3.2.jar",
    "size": 27102,
-   "modid": "",
-   "version": "",
-   "title": "",
+   "modid": "minieffects",
+   "version": "2.3.2",
+   "title": "Mini Effects - Legacy Extended Life",
    "sha1": "79753fa4c57cc96466fa56d47c00de8a3de2c146",
    "sha256": "d5b11e1fd8cfc3ad9b54e9773f37a41060f5b8e98e12139bb7d97876b21a2fbe"
   },
@@ -764,9 +746,9 @@
   {
    "file": "ourotweaker-1.0.0.jar",
    "size": 137432,
-   "modid": "",
-   "version": "",
-   "title": "",
+   "modid": "ourotweaker",
+   "version": "1.0.0",
+   "title": "OURO Tweaker",
    "sha1": "1627f419ae7d67d7bc0e33f6f24ac869e25d5399",
    "sha256": "0e5d53da1e551480acef46c3132a7013c1ed84ad6497b57609286e9b964a1890",
    "modrinth_project_id": "SbF4LPIs",
@@ -813,9 +795,9 @@
   {
    "file": "rgbchat-2.1.jar",
    "size": 31371,
-   "modid": "",
-   "version": "",
-   "title": "",
+   "modid": "rgbchat",
+   "version": "2.1",
+   "title": "RGB Chat",
    "sha1": "23539f2c5f2868696bccb723990767a5018426db",
    "sha256": "8362c800132d31bf6ab526e91f89ef2828be70a9c09559dc37141cecc0b7eaf5"
   },
@@ -858,15 +840,6 @@
    "modrinth_version_id": "sHMgTKfV"
   },
   {
-   "file": "teamglowing-1.1.jar",
-   "size": 48973,
-   "modid": "teamglowing",
-   "version": "${version}",
-   "title": "TeamGlowing",
-   "sha1": "ee40f38d5d046dddf377d224a36ca51e579b583e",
-   "sha256": "fcd2c4c38551c5e71d8c29f4aefb01e127da837528ebeaddfaba118a0951456c"
-  },
-  {
    "file": "tickmod-1.1.jar",
    "size": 19110,
    "modid": "tickmod",
@@ -887,13 +860,13 @@
    "sha256": "31541b6231b749548b3d47cfcfae3e55df9788001080a6ddf18cb451f71cec0d"
   },
   {
-   "file": "twilight-sparks-delight-1.0.5.jar",
-   "size": 809986,
-   "modid": "",
-   "version": "",
-   "title": "",
-   "sha1": "11d0f63eb65ad258dfc9d38e8ee847aed0a51a75",
-   "sha256": "7bfcb3d8be5bcf78f924a5082e909c1295bc6a2ac5f7a3e13a38f86ccbac3402"
+   "file": "twilight-sparks-delight-1.1.0.jar",
+   "size": 824809,
+   "modid": "twilight_spark_delight",
+   "version": "1.1.0",
+   "title": "Twilight Spark's Delight",
+   "sha1": "89dcf08dcd16a6e5b1e1c9954a22ad352a8857f9",
+   "sha256": "e99b1319aea8b84a4d4e6622434da6adfc35b7f781df5f9c7efebb64087e398d"
   },
   {
    "file": "twilightforest-1.12.2-3.15.1.jar",

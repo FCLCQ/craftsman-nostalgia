@@ -1,6 +1,6 @@
 # 模组清单
 
-共 95 个模组，加载器为 Cleanroom 0.6.13-alpha，版本取自 `mods-manifest.json` 与各 jar 元数据。
+共 92 个模组，加载器为 Cleanroom 0.6.13-alpha，版本取自 `mods-manifest.json` 与各 jar 元数据。
 
 ## 加载器与前置库
 
@@ -8,7 +8,7 @@
 |---|---|---|
 | Mantle | 1.3.3.55 | 匠魂前置库 |
 | libnine | 1.2.2 | 匠魂进化前置库 |
-| Atlas Lib | 1.1.11 | 通用前置库 |
+| Atlas Lib | 1.1.12 | 通用前置库 |
 | ModularUI | 3.1.6 | GUI 框架 |
 | Forgelin-Continuous | 2.4.20.0 | Kotlin 运行时前置 |
 | WanionLib | 1.12.2-2.91 | 前置库 |
@@ -41,7 +41,7 @@
 
 | 模组 | 版本 | 移植内容 |
 |---|---|---|
-| Farmer's Future Delight | 1.5.3 | 作物、食物、生物、村庄与下界群系 |
+| Farmer's Future Delight | 1.6.1 | 作物、食物、生物、村庄与下界群系 |
 | Deeper Depths | 1.1.2a | 试炼密室、晶洞与重锤 |
 | Oceanic Expanse | 1.2.3 | 海洋生物与海洋内容扩展 |
 | Cherry_on | 1.3.35 | 樱花树林与樱花木 |
@@ -55,9 +55,9 @@
 
 | 模组 | 版本 | 作用 |
 |---|---|---|
-| Farmer's Delight Legacy | 1.1.8 | 农夫乐事本体 |
-| Twilight Delight Legacy | 1.4.1 | 暮色乐事附属 |
-| End's Delight Legacy | 1.0.3 | 末地乐事附属 |
+| Farmer's Delight Legacy | 1.2.0-beta3 | 农夫乐事本体 |
+| Twilight Delight Legacy | 1.4.2 | 暮色乐事附属 |
+| End's Delight Legacy | 1.1.0 | 末地乐事附属 |
 | Spice of Life: Warly Edition | 1.0.1 | 风味阅历与近期饮食双线，调味与餐盒 |
 
 ## 世界与冒险
@@ -66,16 +66,15 @@
 |---|---|---|
 | The Twilight Forest | 3.15.1 | 暮色森林 |
 | Botania CEu | r1.10-377 | 植物魔法 |
-| Twilight Spark's Delight | 1.0.5 | 暮色乐事扩展 |
+| Twilight Spark's Delight | 1.1.0 | 暮色乐事扩展 |
 | HappyGhast | 1.0.14 | 快乐恶魂生物 |
-| Hydro Agility | 1.15.4 | 游泳与水体移动改进 |
 | Advancement Locator | 1.3.0 | 进度定位工具 |
 
 ## 界面与信息
 
 | 模组 | 版本 | 作用 |
 |---|---|---|
-| Had Enough Items | 4.37.3 | 物品与配方查看 |
+| Had Enough Items | 4.38.1 | 物品与配方查看 |
 | Waila | 1.8.26 | 方块与实体信息显示 |
 | Jade | 0.1.0 | 方块信息显示 |
 | Just Enough Resources | 0.9.3 | 资源与掉落查看 |
@@ -90,15 +89,13 @@
 | Baubley Elytra | 1.3.6 | 饰品栏鞘翅 |
 | Cherished Worlds | 1.0.1 | 存档收藏 |
 | Polymorph Legacy | 1.0.1 | 配方冲突选择 |
-| Quick Craft | 2.3.2 | 快速合成 |
-| TeamGlowing | 1.1 | 队伍发光显示 |
+| Quick Craft | 2.4 | 快速合成 |
 | Chat Heads Vintage | 0.1.3 | 聊天头像 |
 | RGB Chat | 2.1 | 聊天颜色 |
 | No JB Put | 1.2.0 | 关闭 JEI 书页合成 |
-| Clear My Background | 1.0.4 | 清除界面背景 |
 | MiniEffects | 2.3.2 | 状态效果精简显示 |
 | JEI Area Fixer | 2.4.0 | JEI 界面调整 |
-| Just Enough Magiculture | 1.2.2 | JEI 魔法内容集成 |
+| Just Enough Magiculture | 1.3.0 | JEI 魔法内容集成 |
 
 ## 视觉与音效
 
@@ -120,7 +117,7 @@
 | Actinium | alpha-0.0.13 | Sodium 系渲染器与 Iris 光影兼容 |
 | Celeritas Extra | 0.9.3 | Actinium 的额外渲染选项 |
 | Celeritas Dynamic Lights | 1.2.11 | Celeritas 的动态光源扩展 |
-| Celeritas Leaf Culling | 1.0.1 | Celeritas 的树叶裁剪优化 |
+| Celeritas Leaf Culling | 1.0.2 | Celeritas 的树叶裁剪优化 |
 | Pulsar Lighting Engine | 0.6.2 | 基于 Starlight 的光照引擎，启用 RGB 彩色光照 |
 | VintageFix | 0.7.2 | FerriteCore 移植，降低内存占用 |
 | StellarCore | 1.6.8 | 性能优化与 bug 修复集合 |
