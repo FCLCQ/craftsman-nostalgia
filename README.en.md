@@ -26,7 +26,7 @@ The full categorized list is in [MODS.md](docs/MODS.en.md), covering loader and 
 Requires Minecraft 1.12.2 and Cleanroom 0.6.13.  
 Supported launchers are listed in [LAUNCHERS.md](docs/LAUNCHERS.en.md).
 
-1. Download the `.mrpack` from [Releases](https://github.com/FCLCQ/craftsman-nostalgia/releases) and import it in your launcher. `modrinth.index.json` lists 91 mods plus Mellow 3.5 by URL, and `client-overrides/` holds the configuration, scripts and resource pack; `TAIGARR` is not included, see "Mods not bundled" below.
+1. Download the `.mrpack` from [Releases](https://github.com/FCLCQ/craftsman-nostalgia/releases) and import it in your launcher. `modrinth.index.json` lists 91 mods plus Mellow 3.5 by URL, and `client-overrides/` holds the configuration, scripts and resource pack; `teamglowing`, `TAIGARR` and `clearmybackground` are not included, see "Mods not bundled" below.
 2. Switch the instance to Cleanroom 0.6.13 after import. An mrpack `dependencies` block can only declare `minecraft`, so Cleanroom is not installed automatically.
 3. Build manually: create a 1.12.2 Cleanroom instance, install every mod in `mods-list.txt`, then copy the directories under `overrides/` into the instance root.
 
@@ -44,7 +44,9 @@ The following mods have no CurseForge or Modrinth project page. Obtain them sepa
 
 | Mod | Role |
 |---|---|
+| teamglowing | Team glowing display |
 | TAIGARR | Tinkers alloying addon |
+| clearmybackground | Clear GUI background |
 
 ## Compatibility
 

@@ -2,7 +2,7 @@
  "minecraft": "1.12.2",
  "loader": "forge",
  "loaderVersion": "14.23.5.2860",
- "count": 92,
+ "count": 94,
  "mods": [
   {
    "file": "+Fugue-0.24.4.jar",
@@ -555,6 +555,15 @@
    "sha256": "ae065cb2aea50519d07c3e1343e663c763885bb2d59387626169fb8d96ed2dd5"
   },
   {
+   "file": "clearmybackground-1.0.4-1.12.2.jar",
+   "size": 22106,
+   "modid": "clearmybackground",
+   "version": "1.0.4-1.12.2",
+   "title": "Clear My Background",
+   "sha1": "1025ebe8ebafd1e91a383b69624c33fd1c7c5de3",
+   "sha256": "488132c436d14d83a9849f4586fcaa6508042d1ee979f6fd75d1f3cdeb76cf1b"
+  },
+  {
    "file": "crafter-1.0.0.1-1.12.2-forge.jar",
    "size": 87494,
    "modid": "crafter",
@@ -838,6 +847,15 @@
    "sha256": "22803e2a83e92adb4bd937917ba43f2d3f6fc006d02cdacb2b5bc03ba8b9b431",
    "modrinth_project_id": "IGALuv74",
    "modrinth_version_id": "sHMgTKfV"
+  },
+  {
+   "file": "teamglowing-1.1.jar",
+   "size": 48973,
+   "modid": "teamglowing",
+   "version": "${version}",
+   "title": "TeamGlowing",
+   "sha1": "ee40f38d5d046dddf377d224a36ca51e579b583e",
+   "sha256": "fcd2c4c38551c5e71d8c29f4aefb01e127da837528ebeaddfaba118a0951456c"
   },
   {
    "file": "tickmod-1.1.jar",

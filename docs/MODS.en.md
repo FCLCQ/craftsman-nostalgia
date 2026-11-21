@@ -1,6 +1,6 @@
 # Mod list
 
-92 mods, loader is Cleanroom 0.6.13-alpha, versions taken from `mods-manifest.json` and each jar.
+94 mods, loader is Cleanroom 0.6.13-alpha, versions taken from `mods-manifest.json` and each jar.
 
 ## Loader and libraries
 
@@ -90,9 +90,11 @@
 | Cherished Worlds | 1.0.1 | world bookmarking |
 | Polymorph Legacy | 1.0.1 | recipe conflict selection |
 | Quick Craft | 2.4 | quick crafting |
+| TeamGlowing | 1.1 | team glowing |
 | Chat Heads Vintage | 0.1.3 | chat heads |
 | RGB Chat | 2.1 | chat colors |
 | No JB Put | 1.2.0 | disable JEI book crafting |
+| Clear My Background | 1.0.4 | clear GUI background |
 | MiniEffects | 2.3.2 | compact status effects |
 | JEI Area Fixer | 2.4.0 | JEI layout fixes |
 | Just Enough Magiculture | 1.3.0 | JEI magic integration |

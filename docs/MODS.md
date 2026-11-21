@@ -1,6 +1,6 @@
 # 模组清单
 
-共 92 个模组，加载器为 Cleanroom 0.6.13-alpha，版本取自 `mods-manifest.json` 与各 jar 元数据。
+共 94 个模组，加载器为 Cleanroom 0.6.13-alpha，版本取自 `mods-manifest.json` 与各 jar 元数据。
 
 ## 加载器与前置库
 
@@ -90,9 +90,11 @@
 | Cherished Worlds | 1.0.1 | 存档收藏 |
 | Polymorph Legacy | 1.0.1 | 配方冲突选择 |
 | Quick Craft | 2.4 | 快速合成 |
+| TeamGlowing | 1.1 | 队伍发光显示 |
 | Chat Heads Vintage | 0.1.3 | 聊天头像 |
 | RGB Chat | 2.1 | 聊天颜色 |
 | No JB Put | 1.2.0 | 关闭 JEI 书页合成 |
+| Clear My Background | 1.0.4 | 清除界面背景 |
 | MiniEffects | 2.3.2 | 状态效果精简显示 |
 | JEI Area Fixer | 2.4.0 | JEI 界面调整 |
 | Just Enough Magiculture | 1.3.0 | JEI 魔法内容集成 |

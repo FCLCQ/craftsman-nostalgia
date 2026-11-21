@@ -54,6 +54,7 @@ chat_heads                       0.1.3            chat_heads-0.1.3.jar
 cherishedworlds                  1.12.2-1.0.1     cherishedworlds-1.12.2-1.0.1.jar
 loliasm                          5.34             chibi-5.34.jar
 classicbar                       0.6.1            classicbar-0.6.1.jar
+clearmybackground                1.0.4-1.12.2     clearmybackground-1.0.4-1.12.2.jar
 crafter                          1.0.0.1          crafter-1.0.0.1-1.12.2-forge.jar
 datarium                         0.6.1            datarium-0.6.1.jar
 discsbackport                    1.0.1            discsbackport-1.0.1.jar
@@ -83,6 +84,7 @@ scalar                           3.10.0           scalar-3.10.0.jar
 solwarly                         1.0.1            solwarly-1.12.2-1.0.1.jar
 soundphysics                     1.3.2-beta       soundphysics-1.3.2-beta.jar
 tconevo                          1.1.9            tconevo-1.12.2-1.1.9.jar
+teamglowing                      ${version}       teamglowing-1.1.jar
 tickmod                          1.1              tickmod-1.1.jar
 tinkers_sort                     1.0.2            tinkers_sort-1.0.2.jar
 twilight_spark_delight           1.1.0            twilight-sparks-delight-1.1.0.jar
