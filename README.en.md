@@ -59,7 +59,7 @@ cause a startup crash when updated; keep the current versions.
 
 ## Contributing
 
-Report problems through the repository issue templates with versions, logs and reproduction steps; report security issues privately as described in [SECURITY.md](.github/SECURITY.md); see [CONTRIBUTING.md](docs/community/CONTRIBUTING.md) for the change workflow and requirements.
+Report problems through the repository issue templates with versions, logs and reproduction steps; report security issues privately as described in [SECURITY.md](.github/SECURITY.md); see [CONTRIBUTING.md](docs/community/CONTRIBUTING.md) for the change workflow and requirements, and [CODE_OF_CONDUCT.md](docs/community/CODE_OF_CONDUCT.md) for community guidelines.
 
 ## License
 
