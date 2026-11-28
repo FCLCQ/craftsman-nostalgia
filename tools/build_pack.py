@@ -155,10 +155,8 @@ def collect_embedded(mods_dir, manifest, sources):
 
 
 def _pack_dependencies(manifest, sources):
-    deps = {"minecraft": sources.get("minecraft", "1.12.2")}
-    if manifest.get("loader") == "outlands":
-        deps["forge"] = "Outlands-" + str(manifest.get("loaderVersion", ""))
-    return deps
+    # Outlands 不是 Forge 发布版，写成 forge 依赖会让启动器去 Forge 仓库找不存在的版本。
+    return {"minecraft": sources.get("minecraft", "1.12.2")}
 
 
 def build_mrpack(args, manifest, sources):
