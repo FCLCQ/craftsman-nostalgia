@@ -2,7 +2,7 @@
  "minecraft": "1.12.2",
  "loader": "outlands",
  "loaderVersion": "2026.11.28-4",
- "count": 67,
+ "count": 66,
  "mods": [
   {
    "file": "Actinium-beta-0.1.0.jar",
@@ -219,15 +219,6 @@
    "title": "Tinkers' Tactical Toughness",
    "sha1": "2ec2e620e939e8365cbac3918c5bb917722d29d5",
    "sha256": "cb782e9c70ec717039d4c3ba478a39601e4ed33eff45d013fb7ef80bf28a58ba"
-  },
-  {
-   "file": "Too-Many-Tinkers-1.1.0-alpha.8.jar",
-   "size": 159382,
-   "modid": "toomanytinkers",
-   "version": "1.1.0-alpha.8",
-   "title": "Too Many Tinkers",
-   "sha1": "b2654e77c1b98a7983620a14f7429e8ffaf5aab9",
-   "sha256": "7ab43db70418e8eb27cc57f325416b38fdf3833982b4a93cfe464b21e33986d8"
   },
   {
    "file": "TravelersBackpack-1.12.2-1.0.35.jar",

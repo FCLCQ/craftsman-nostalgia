@@ -674,17 +674,6 @@
    ]
   },
   {
-   "path": "mods/Too-Many-Tinkers-1.1.0-alpha.8.jar",
-   "fileSize": 159382,
-   "hashes": {
-    "sha1": "b2654e77c1b98a7983620a14f7429e8ffaf5aab9",
-    "sha512": "d6bec2367abe515e53c19afa0f8c082d39ce7008859bce8c57aa5792712d39a381548ae853e2dbf7e36a4cf274173882fa77d30c41fa7b6c98ea33eb92ee4294"
-   },
-   "downloads": [
-    "https://edge.forgecdn.net/files/9861/409/Too-Many-Tinkers-1.1.0-alpha.8.jar"
-   ]
-  },
-  {
    "path": "mods/TwilightDelightLegacy-1.5.0.jar",
    "fileSize": 755161,
    "hashes": {
