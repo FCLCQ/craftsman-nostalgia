@@ -16,15 +16,15 @@
 
 MIT assets keep their original license. CC BY-SA 4.0 assets require attribution and share-alike terms on redistribution. License texts are stored under `docs/licenses/`: `ModernityExtra-MIT.txt` and `Backport-Everything-CC-BY-SA-4.0.txt`. Part of Backport Everything comes from Qwuiblington's actually correct 1.14 texture backport. Vanilla Minecraft assets are copyright Mojang Studios and are distributed only for in-game display.
 
-## Planned additions
+## Excluded assets
 
-The following assets are planned for inclusion once permission is granted or a license-compatible replacement is found, to complete the visual, audio and language experience.
+The following assets are not included because of incompatible or missing licenses, and there is no plan to add them; using them would require permission or a license-compatible replacement.
 
-| Resource pack | Author | Status |
+| Resource pack | Author | Reason |
 |---|---|---|
-| FFD Additional Resource Pack 1.1 (mc1.12.2) | xy177 | No license file; permission pending |
-| Modernity Adjunct fork | RuiXuqi and others | LGPL-2.1; permission or a compatible license pending |
-| Fabric Chests textures | anner | GPL-3.0; permission or a compatible license pending |
+| FFD Additional Resource Pack 1.1 (mc1.12.2) | xy177 | No license file |
+| Modernity Adjunct fork | RuiXuqi and others | LGPL-2.1, incompatible with the pack-wide CC BY-SA 4.0 |
+| Fabric Chests textures | anner | GPL-3.0, incompatible with the pack-wide CC BY-SA 4.0 |
 
 Modernity-f3 3.10.3 is licensed LGPL-3.0-only, which is incompatible with the pack-wide CC BY-SA 4.0, so it is not included; Backport Everything provides the corresponding vanilla texture coverage.
 
