@@ -24,11 +24,11 @@ The full categorized list is in [MODS.md](docs/MODS.en.md), covering loader and 
 
 ## Installation
 
-Requires Minecraft 1.12.2 and Outlands 2026.11.27.  
+Requires Minecraft 1.12.2 and Outlands 2026.11.28-4.  
 Supported launchers are listed in [LAUNCHERS.md](docs/LAUNCHERS.en.md).
 
 1. Download the `.mrpack` from [Releases](https://github.com/FCLCQ/craftsman-nostalgia/releases) and import it in your launcher. `modrinth.index.json` lists 77 mods plus Mellow 3.5 by URL, and `client-overrides/` holds the configuration, scripts and resource pack; `TAIGARR` and `clearmybackground` are not included, see "Mods not bundled" below.
-2. Switch the instance to Outlands 2026.11.27 after import. An mrpack `dependencies` block can only declare `minecraft`, so Cleanroom is not installed automatically.
+2. Switch the instance to Outlands 2026.11.28-4 after import. An mrpack `dependencies` block can only declare `minecraft`, so Cleanroom is not installed automatically.
 3. Build manually: create a 1.12.2 Cleanroom instance, install every mod in `mods-list.txt`, then copy the directories under `overrides/` into the instance root.
 
 ## Local packaging
