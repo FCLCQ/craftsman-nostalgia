@@ -34,7 +34,7 @@ Supported launchers are listed in [LAUNCHERS.md](docs/LAUNCHERS.en.md).
 ## Local packaging
 
 ```bash
-python3 tools/build_pack.py --mods /path/to/instance/mods --out dist --version 2026.11.28
+python3 tools/build_pack.py --mods /path/to/instance/mods --out dist --version 26.11.28
 ```
 
 Produces `dist/CraftsmanNostalgia-<version>.mrpack` with the same layout as the launcher export; the internal name stays `[CRL]工匠怀古` while the file name is ASCII so it can be attached to a Release. Mods and the shader pack go into `files` in `modrinth.index.json`, with URLs and hashes from `pack-sources.json`; mods missing from that file are left out by default; add `--with-offline` to verify them against the manifest SHA-1 in the `--mods` directory and embed them under `client-overrides/mods/`. Configuration, scripts and resource packs come from git-tracked files only, so `splash.properties`, `shaders.properties`, `cleanroom_load_timings.dat` and `*.dat` caches stay out of the archive. Add `--format zip` for a plain archive. The archive places `LICENSE`, both language versions of the third-party notice and the license texts from `docs/licenses/` in the instance root and under `licenses/`.

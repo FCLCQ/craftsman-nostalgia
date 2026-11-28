@@ -33,7 +33,7 @@
 ## 本地打包
 
 ```bash
-python3 tools/build_pack.py --mods /path/to/instance/mods --out dist --version 2026.11.28
+python3 tools/build_pack.py --mods /path/to/instance/mods --out dist --version 26.11.28
 ```
 
 生成 `dist/CraftsmanNostalgia-<版本>.mrpack`，结构与启动器导出的包一致；包内名称是 `[OTL]工匠怀古`，文件名用 ASCII 以便作为 Releases 附件。模组与光影写进 `modrinth.index.json` 的 `files`，下载地址与哈希取自 `pack-sources.json`；该文件没有覆盖的模组默认不进入分发包，需要时加 `--with-offline`，脚本会从 `--mods` 指向的实例目录按 `mods-manifest.json` 的 SHA-1 校验后嵌入 `client-overrides/mods/`。配置、脚本与资源包只取 git 跟踪的文件，`splash.properties`、`shaders.properties`、`cleanroom_load_timings.dat` 与 `*.dat` 缓存不进入分发包。需要整体 zip 时加 `--format zip`。分发包把 `LICENSE`、第三方声明中英文两份与 `docs/licenses/` 下的许可原文放在实例根目录与 `licenses/`。
