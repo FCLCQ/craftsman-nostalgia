@@ -25,18 +25,18 @@
   {
    "file": "AntiqueArmory-1.12.2-1.3.0.jar",
    "size": 840493,
-   "modid": "conarm",
-   "version": "1.3.0",
-   "title": "Antique Armory",
+   "modid": "",
+   "version": "",
+   "title": "",
    "sha1": "96e8b8adb8a29cc35632050e6ed6321bf676092b",
    "sha256": "22100e6540197e4038a17aecbddb09510a57245b8b56c0b71eeb2345a0dfb0da"
   },
   {
    "file": "AppleCore-mc1.12.2-3.4.0.jar",
    "size": 89615,
-   "modid": "applecore",
-   "version": "3.4.0",
-   "title": "AppleCore",
+   "modid": "",
+   "version": "",
+   "title": "",
    "sha1": "a6a57a76936a559088e9282aacde6f761d7e0b39",
    "sha256": "9e4980728afb5941bdd67c435d2fddf260d88685563343f32d009bae01b64962"
   },
@@ -47,9 +47,7 @@
    "version": "v1.3.6-mc1.12.2",
    "title": "Baubley Elytra",
    "sha1": "bc5ef8f694d588a650709b9e226782601cc5eaa9",
-   "sha256": "9e62707658a52139ea0802a62b7edca71cb98ef557eae6f4e01eb83f650d21eb",
-   "modrinth_project_id": "6NbRjpb0",
-   "modrinth_version_id": "JwyK9kDk"
+   "sha256": "9e62707658a52139ea0802a62b7edca71cb98ef557eae6f4e01eb83f650d21eb"
   },
   {
    "file": "Bubbles-2.4.10.jar",
@@ -85,9 +83,7 @@
    "version": "4.38.1",
    "title": "Had Enough Items",
    "sha1": "4f4a7271c2c4fde1cf2f6c046a555e48637ee0fb",
-   "sha256": "f61d5387728adfb36b07fd8426ce43d9e0f0926c9412f5740b2b0f3dbb587998",
-   "modrinth_project_id": "2iXFLwYO",
-   "modrinth_version_id": "8ds96Dv8"
+   "sha256": "f61d5387728adfb36b07fd8426ce43d9e0f0926c9412f5740b2b0f3dbb587998"
   },
   {
    "file": "Hwyala-1.8.26-B42_1.12.2.jar",
@@ -96,20 +92,16 @@
    "version": "1.8.26",
    "title": "Waila",
    "sha1": "c1e5baf116be10539bb5f4d5b67be6b2d2a2150c",
-   "sha256": "ffd6188db1e37c0adaa98e3af48955993f5f1d8b795679d0f053baed6d2b9d90",
-   "modrinth_project_id": "hPtqjFyB",
-   "modrinth_version_id": "Qnj0hx42"
+   "sha256": "ffd6188db1e37c0adaa98e3af48955993f5f1d8b795679d0f053baed6d2b9d90"
   },
   {
    "file": "InventoryHUD-1.12.2.forge-3.4.4.jar",
    "size": 217960,
-   "modid": "inventoryhud",
-   "version": "3.4.4",
-   "title": "Inventory HUD+",
+   "modid": "",
+   "version": "",
+   "title": "",
    "sha1": "b2ce2d6fdb0842139b892b27af08b3aaec7f2d19",
-   "sha256": "981d33046ab0ca5f27b156070c3077e35a11ccc9bad5452bfc3a43a6076f7357",
-   "modrinth_project_id": "Kp2uclYl",
-   "modrinth_version_id": "7jtQLO3B"
+   "sha256": "981d33046ab0ca5f27b156070c3077e35a11ccc9bad5452bfc3a43a6076f7357"
   },
   {
    "file": "ItemPhysic Lite 1.3.7 mc1.12.2.jar",
@@ -123,9 +115,9 @@
   {
    "file": "Jade-0.1.0.jar",
    "size": 28775,
-   "modid": "jade",
-   "version": "0.1.0",
-   "title": "Jade",
+   "modid": "",
+   "version": "",
+   "title": "",
    "sha1": "6876a7399c604169d7acb06d441743eaac5dd615",
    "sha256": "53076b9523f5fd450b8bbadde776546c00565880e3e4ac01f3d01a6471b00b0c"
   },
@@ -148,24 +140,13 @@
    "sha256": "dfacf1111862a95ed5803499ce5229a194a2e92be7e308fd5f423b017addbc09"
   },
   {
-   "file": "key-binding-api-shim.jar",
-   "size": 7511,
-   "modid": "key_binding_patch",
-   "version": "1.3.3.3",
-   "title": "Key Binding API Shim",
-   "sha1": "3a2acfea03408b40747a3ccfaf7a9c3480d9be48",
-   "sha256": "6f93fb6c15c7b89dc5f6fa24d4f2412b3c47b049a4eb863d63a7c71535f93c35"
-  },
-  {
    "file": "Mantle-1.12-1.3.3.55.jar",
    "size": 843486,
    "modid": "mantle",
    "version": "1.3.3.55",
    "title": "Mantle",
    "sha1": "a1e5d5c197dae3e92637cafb8cd996185191165b",
-   "sha256": "0975ad3ef3b8b35fe43461feabe44d406b5521b0a2f3d1965c8d2f6a59ad2e65",
-   "modrinth_project_id": "Cg6Uc79H",
-   "modrinth_version_id": "XPQUzjYi"
+   "sha256": "0975ad3ef3b8b35fe43461feabe44d406b5521b0a2f3d1965c8d2f6a59ad2e65"
   },
   {
    "file": "ReachFix-1.12.2-1.1.3.jar",
@@ -174,9 +155,7 @@
    "version": "1.1.3",
    "title": "Reach Fix",
    "sha1": "d9994c089b4f30de9f7be0690624a535716456d1",
-   "sha256": "2f4114f438a4a72278554a41027e69eacab57eaf6515b7c7951b11cc63a817cc",
-   "modrinth_project_id": "lX0pPsIX",
-   "modrinth_version_id": "yREinuec"
+   "sha256": "2f4114f438a4a72278554a41027e69eacab57eaf6515b7c7951b11cc63a817cc"
   },
   {
    "file": "ShulkerTooltip-1.9.2.2.jar",
@@ -190,9 +169,9 @@
   {
    "file": "SimpleSmelteryAccelerator-1.0.1.jar",
    "size": 20379,
-   "modid": "simplesmelteryaccelerator",
-   "version": "1.0.1",
-   "title": "Simple Smeltery Accelerator",
+   "modid": "",
+   "version": "",
+   "title": "",
    "sha1": "e406174a3546d361d405390efe5959b49d1853d1",
    "sha256": "fff8b84bfeb0c50eab6deaf5feebcfc699b0adf2ead94e91ef4ddf093a155724"
   },
@@ -257,9 +236,7 @@
    "version": "1.0.35",
    "title": "Traveler's Backpack",
    "sha1": "5c9157582cc081f0d3b4090f3a2dbc5cfbe70cc6",
-   "sha256": "39a7914b5a55b7d5ad5d1192c38a66b926895317e0426a359a529de2f8028581",
-   "modrinth_project_id": "rlloIFEV",
-   "modrinth_version_id": "3JLbcslr"
+   "sha256": "39a7914b5a55b7d5ad5d1192c38a66b926895317e0426a359a529de2f8028581"
   },
   {
    "file": "TwilightDelightLegacy-1.5.0.jar",
@@ -277,9 +254,7 @@
    "version": "1.21.0",
    "title": "Universal Tweaks",
    "sha1": "2bd0bbf962dcd796917ea9e1c7ac6344b9fe363c",
-   "sha256": "9386ed5a00cc8b86ae5369a8c0d71ae8fa12711ad419767c2a7da1977c7f7870",
-   "modrinth_project_id": "s32LssQX",
-   "modrinth_version_id": "eGtvVjBI"
+   "sha256": "9386ed5a00cc8b86ae5369a8c0d71ae8fa12711ad419767c2a7da1977c7f7870"
   },
   {
    "file": "WailaHarvestability-mc1.12-1.1.12.jar",
@@ -306,9 +281,7 @@
    "version": "1.6.4",
    "title": "Inventory Bogo Sorter",
    "sha1": "f8f1c7da398a48f7d9169381f1d984844056dc64",
-   "sha256": "08286ce5971766c02e7ae522357b5ef4aa35b15bf9ee226053932c34582a8a53",
-   "modrinth_project_id": "CuLATCrJ",
-   "modrinth_version_id": "nD915vxB"
+   "sha256": "08286ce5971766c02e7ae522357b5ef4aa35b15bf9ee226053932c34582a8a53"
   },
   {
    "file": "botania-r1.10-377.jar",
@@ -326,9 +299,7 @@
    "version": "1.0.2",
    "title": "Celeritas Leaf Culling",
    "sha1": "35da44f5f08b05e8a451c102fafa329f328d0357",
-   "sha256": "cc384657338ab6cf1c8140364e0f9b5a6022909960a69181d4ef88cc6cf94fd3",
-   "modrinth_project_id": "Ulyqqa6E",
-   "modrinth_version_id": "my0LTEAN"
+   "sha256": "cc384657338ab6cf1c8140364e0f9b5a6022909960a69181d4ef88cc6cf94fd3"
   },
   {
    "file": "chat_heads-0.1.3.jar",
@@ -337,9 +308,7 @@
    "version": "0.1.3",
    "title": "Chat Heads Vintage",
    "sha1": "cde206816e5bb677085b712d2a5554c0057ed0aa",
-   "sha256": "acd823355971bed6cc5a2b95342b69b65a860f61e98b3f79dac9a2f00fe9d417",
-   "modrinth_project_id": "khN4yZlX",
-   "modrinth_version_id": "Z4UTwIQc"
+   "sha256": "acd823355971bed6cc5a2b95342b69b65a860f61e98b3f79dac9a2f00fe9d417"
   },
   {
    "file": "cherishedworlds-1.12.2-1.0.1.jar",
@@ -348,9 +317,7 @@
    "version": "1.12.2-1.0.1",
    "title": "Cherished Worlds",
    "sha1": "ea5fd7e61fb7c8ab6a546e2a17a6f4929e904ec0",
-   "sha256": "0cee90116c94a6be7dd3a85dc7e634ff369f9bc2e1c4499fcb60ee3bbde7d61b",
-   "modrinth_project_id": "3azQ6p0W",
-   "modrinth_version_id": "NKPlBLC1"
+   "sha256": "0cee90116c94a6be7dd3a85dc7e634ff369f9bc2e1c4499fcb60ee3bbde7d61b"
   },
   {
    "file": "classicbar-0.6.1.jar",
@@ -373,9 +340,9 @@
   {
    "file": "datarium-0.6.1.jar",
    "size": 1137614,
-   "modid": "datarium",
-   "version": "0.6.1",
-   "title": "Datarium",
+   "modid": "",
+   "version": "",
+   "title": "",
    "sha1": "6a4d39f2b641713ccaa91e7f55a05f6872302130",
    "sha256": "09a5699c49d731a278564c808ac4c839593341554e3e1f88b0894641fdd8f6d6"
   },
@@ -413,9 +380,7 @@
    "version": "1.2.0+mc1-12-2-forge-14-23-5-2860",
    "title": "Fishing Tick Fix",
    "sha1": "6349700d04bf24633bd3d1f9b4c4592a8da2526e",
-   "sha256": "bf049f95ed6844cb23c1f911ffeeca8cb3ada5b0532e5f60a4573a092e65f109",
-   "modrinth_project_id": "DHRQXUUz",
-   "modrinth_version_id": "QghlquM3"
+   "sha256": "bf049f95ed6844cb23c1f911ffeeca8cb3ada5b0532e5f60a4573a092e65f109"
   },
   {
    "file": "gnetum-1.4.3.jar",
@@ -424,9 +389,7 @@
    "version": "1.4.3",
    "title": "Gnetum",
    "sha1": "f726eaa6b6a536802ce65cd6b015652456b36c0d",
-   "sha256": "d500681e303ac0a3ae1749ef4921aaddf8a06bd61bf1b1e421806ac38c0fa714",
-   "modrinth_project_id": "7MoE34WK",
-   "modrinth_version_id": "a3gijsQd"
+   "sha256": "d500681e303ac0a3ae1749ef4921aaddf8a06bd61bf1b1e421806ac38c0fa714"
   },
   {
    "file": "groovyscript-1.5.0.jar",
@@ -440,13 +403,11 @@
   {
    "file": "ironchest-netherite-1.12.2-1.0.2.jar",
    "size": 1326586,
-   "modid": "ironchest",
-   "version": "1.0.2",
-   "title": "Iron Chest",
+   "modid": "",
+   "version": "",
+   "title": "",
    "sha1": "5a0a523ce7357d8a320f6edeb89228218cf06bb8",
-   "sha256": "de08013983401710f2d1fdf86ec2a9b2963c0b17e5f557454c513a55dd77512a",
-   "modrinth_project_id": "7tPBdiPp",
-   "modrinth_version_id": "SFHvrX8w"
+   "sha256": "de08013983401710f2d1fdf86ec2a9b2963c0b17e5f557454c513a55dd77512a"
   },
   {
    "file": "ironchestfix-1.0.0.jar",
@@ -455,27 +416,34 @@
    "version": "1.0.0",
    "title": "Iron Chest Fix",
    "sha1": "eed8ab76f40e1ca17436ac9beb0b4e5a0437a96d",
-   "sha256": "416f956acf4b4457d1978cfcb891b5d6814fdfb439a2c5eeaad36759454ebf44",
-   "modrinth_project_id": "cuKnbya3",
-   "modrinth_version_id": "K6gEFIvo"
+   "sha256": "416f956acf4b4457d1978cfcb891b5d6814fdfb439a2c5eeaad36759454ebf44"
   },
   {
    "file": "jei_area_fixer-2.4.0.jar",
    "size": 116549,
-   "modid": "jei_area_fixer",
-   "version": "2.4.0",
-   "title": "JEI Area Fixer",
+   "modid": "",
+   "version": "",
+   "title": "",
    "sha1": "f2f8048c5601113ce6c03685c252698139ad8f40",
    "sha256": "4a0a4cad191c5c05c2ac285eb5a370ab8606569ed3cdac8da5cdd46b75aca570"
   },
   {
    "file": "justenoughmagiculture-1.12.2-1.2.2.jar",
    "size": 537618,
-   "modid": "justenoughmagiculture",
-   "version": "1.12.2-1.3.0",
-   "title": "Just Enough Magiculture",
+   "modid": "",
+   "version": "",
+   "title": "",
    "sha1": "f723a3e0a26881fadfab81aab6a71746f2cbea53",
    "sha256": "b1477c2ff5867fbd4ee97c0a5f387cc628155c03155722fca0b9068d3d5819a0"
+  },
+  {
+   "file": "key-binding-api-shim.jar",
+   "size": 7511,
+   "modid": "key_binding_patch",
+   "version": "1.3.3.3",
+   "title": "Key Binding Patch",
+   "sha1": "3a2acfea03408b40747a3ccfaf7a9c3480d9be48",
+   "sha256": "6f93fb6c15c7b89dc5f6fa24d4f2412b3c47b049a4eb863d63a7c71535f93c35"
   },
   {
    "file": "libnine-1.12.2-1.2.2.jar",
@@ -484,16 +452,14 @@
    "version": "1.2.2",
    "title": "libnine",
    "sha1": "c99daa72265e227875eea94897a9041faceec79a",
-   "sha256": "70db06743282be7e028a6ea725e9c4df19603dc66d7971a3d53e8ae61c3b2716",
-   "modrinth_project_id": "8i88guf3",
-   "modrinth_version_id": "su0Bynd8"
+   "sha256": "70db06743282be7e028a6ea725e9c4df19603dc66d7971a3d53e8ae61c3b2716"
   },
   {
    "file": "minieffects-2.3.2.jar",
    "size": 27102,
-   "modid": "minieffects",
-   "version": "2.3.2",
-   "title": "Mini Effects - Legacy Extended Life",
+   "modid": "",
+   "version": "",
+   "title": "",
    "sha1": "79753fa4c57cc96466fa56d47c00de8a3de2c146",
    "sha256": "d5b11e1fd8cfc3ad9b54e9773f37a41060f5b8e98e12139bb7d97876b21a2fbe"
   },
@@ -504,9 +470,7 @@
    "version": "3.1.6",
    "title": "ModularUI",
    "sha1": "be2d067fe4e8815c5c025416019f9a8037d26be0",
-   "sha256": "4c16829c70b322aab735e73f53608fcabbf1d14956d5365c0c2b911c4d4dca54",
-   "modrinth_project_id": "Ecvd12QC",
-   "modrinth_version_id": "1twp2z8Y"
+   "sha256": "4c16829c70b322aab735e73f53608fcabbf1d14956d5365c0c2b911c4d4dca54"
   },
   {
    "file": "mousetweaks-1.12.2-3.2.1.jar",
@@ -524,9 +488,7 @@
    "version": "1.0.7",
    "title": "NeverEnoughAnimations",
    "sha1": "a26586467433467ba4b1f1bb0acdeabb7ed2fa67",
-   "sha256": "117e0b1076be4965d8962b9fe4a6f6b123e2952457c3190549f119365b57b1e7",
-   "modrinth_project_id": "pLx2zoH8",
-   "modrinth_version_id": "9PLyU0Vk"
+   "sha256": "117e0b1076be4965d8962b9fe4a6f6b123e2952457c3190549f119365b57b1e7"
   },
   {
    "file": "nojbput-1.2.0.jar",
@@ -535,9 +497,7 @@
    "version": "1.2.0",
    "title": "No JB Put",
    "sha1": "a0545b3723ec7e68d25c43891fa54a7ed3e39c32",
-   "sha256": "5efcfde3835e8e6fc193c78908b7da6efe62fbc18150f1268512493150c13a8b",
-   "modrinth_project_id": "nuHHOXC5",
-   "modrinth_version_id": "dVz90chR"
+   "sha256": "5efcfde3835e8e6fc193c78908b7da6efe62fbc18150f1268512493150c13a8b"
   },
   {
    "file": "orelib-forge-1.12.2-3.6.0.2-fix.jar",
@@ -564,9 +524,7 @@
    "version": "0.6.2",
    "title": "Pulsar Lighting Engine",
    "sha1": "c1ebccff229fefcdc11d71838aca5a6048081d07",
-   "sha256": "472b3cb853d0e54b2dfbc71816bea11470a6c8f8a4b18a32cf897c8e84112707",
-   "modrinth_project_id": "gs7RbryI",
-   "modrinth_version_id": "lq6jTrMD"
+   "sha256": "472b3cb853d0e54b2dfbc71816bea11470a6c8f8a4b18a32cf897c8e84112707"
   },
   {
    "file": "quickcraft-2.4-1.12.2.jar",
@@ -580,9 +538,9 @@
   {
    "file": "rgbchat-2.1.jar",
    "size": 31371,
-   "modid": "rgbchat",
-   "version": "2.1",
-   "title": "RGB Chat",
+   "modid": "",
+   "version": "",
+   "title": "",
    "sha1": "23539f2c5f2868696bccb723990767a5018426db",
    "sha256": "8362c800132d31bf6ab526e91f89ef2828be70a9c09559dc37141cecc0b7eaf5"
   },
@@ -611,9 +569,7 @@
    "version": "1.1",
    "title": "TickRate Mod",
    "sha1": "79074487157c77c4b6dc01f62abfa58b1f636fb0",
-   "sha256": "2a4cd65344b6f0b3308af98c0add71d81697e27f5fbfb8c265a2417a983845e6",
-   "modrinth_project_id": "ha2M9BxM",
-   "modrinth_version_id": "QWL8BJKX"
+   "sha256": "2a4cd65344b6f0b3308af98c0add71d81697e27f5fbfb8c265a2417a983845e6"
   },
   {
    "file": "tinkers_sort-1.0.2.jar",
@@ -627,9 +583,9 @@
   {
    "file": "twilight-sparks-delight-1.1.0.jar",
    "size": 824809,
-   "modid": "twilight_spark_delight",
-   "version": "1.1.0",
-   "title": "Twilight Spark's Delight",
+   "modid": "",
+   "version": "",
+   "title": "",
    "sha1": "89dcf08dcd16a6e5b1e1c9954a22ad352a8857f9",
    "sha256": "e99b1319aea8b84a4d4e6622434da6adfc35b7f781df5f9c7efebb64087e398d"
   },
@@ -649,9 +605,7 @@
    "version": "1.1.0",
    "title": "Visuality: Reforged",
    "sha1": "5569afda658cc4b8ad368ea7f17c1c01877bc3cb",
-   "sha256": "b68057286d159a452d22ee9601622c1e946119c1d81c792cc6dddf08c697d6b2",
-   "modrinth_project_id": "RWq91qzQ",
-   "modrinth_version_id": "4HjozL3C"
+   "sha256": "b68057286d159a452d22ee9601622c1e946119c1d81c792cc6dddf08c697d6b2"
   }
  ]
 }

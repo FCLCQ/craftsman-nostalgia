@@ -1,14 +1,14 @@
 {
   "enable_debug_tab": false,
   "quality": {
-    "weather_quality": "DEFAULT",
-    "leaves_quality": "DEFAULT",
+    "weather_quality": "FAST",
+    "leaves_quality": "FAST",
     "enable_vignette": false,
     "circular_fog": false,
     "dynamic_fov": true,
     "use_quad_normals_for_shading_v2": true,
     "chunk_fade_in_duration": 0,
-    "legacy_biome_blend_radius": 0,
+    "legacy_biome_blend_radius": 3,
     "gui_block_supersampling": "OFF",
     "use_biome_color_noise": false,
     "biome_color_noise_grass_intensity": 0.0,
@@ -33,7 +33,7 @@
     "use_model_renderer_display_lists": true,
     "use_fast_lit_item_rendering": false,
     "use_fast_lit_item_display_lists": true,
-    "use_instanced_weather": true,
+    "use_instanced_weather": false,
     "cpu_render_ahead_limit": 0,
     "multi_draw_mode": "INDIRECT",
     "streaming_upload_strategy": "MAP_BUFFER_RANGE"
@@ -57,7 +57,7 @@
     "use_fast_block_renderer": true,
     "deferred_block_ids": [],
     "enable_entity_batching": true,
-    "enable_cube_instancing": true,
+    "enable_cube_instancing": false,
     "enable_entity_texture_atlas": true,
     "enable_entity_shadow_replay": true,
     "entity_shadow_replay_excluded_classes": [
