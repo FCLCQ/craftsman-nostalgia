@@ -652,28 +652,6 @@
    ]
   },
   {
-   "path": "mods/dynamicsurroundings-outlands-4.0.0.jar",
-   "fileSize": 15137107,
-   "hashes": {
-    "sha1": "323ca391bb3bd984264702d66ed972a2a65ca4c4",
-    "sha512": "e14412a75a437c10451d3cecc8e15d0ac5ecb0883252166381b9b290c966d5a11dd80e1e0f4cad1dabd026dac8b20ad43f07c17d51ceb23f458342585d6afa80"
-   },
-   "downloads": [
-    "https://github.com/FCLCQ/DynamicSurroundings/releases/download/v1.12.2-4.0.0/dynamicsurroundings-outlands-4.0.0.jar"
-   ]
-  },
-  {
-   "path": "mods/orelib-forge-1.12.2-3.6.0.2-fix.jar",
-   "fileSize": 320532,
-   "hashes": {
-    "sha1": "d80a587b57cb704d47f711f43e5e923c07267e50",
-    "sha512": "c2157a4c351b2ee0e54938b1dfb03ee1b1a3c6bac2c36c45eb3574058f6a2d732cf71b9eaed6cde9731353f706964e22f1ad4867e70940755edf4b5e7081a18e"
-   },
-   "downloads": [
-    "https://github.com/FCLCQ/OreLib/releases/download/v1.12.2-3.6.0.2-fix/orelib-forge-1.12.2-3.6.0.2-fix.jar"
-   ]
-  },
-  {
    "path": "mods/TinkersAntique-1.12.2-2.13.0.210.jar",
    "fileSize": 4586646,
    "hashes": {
