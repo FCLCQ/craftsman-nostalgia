@@ -58,7 +58,7 @@ Fugue 0.24.4、Pulsar 0.6.2、Celeritas Extra 0.9.3
 
 ## 参与
 
-问题反馈使用仓库的 issue 模板，附版本、日志与复现步骤；安全相关问题按 [SECURITY.md](.github/SECURITY.md) 私下报告；提交改动的流程与要求见 [CONTRIBUTING.md](docs/community/CONTRIBUTING.md)。
+问题反馈使用仓库的 issue 模板，附版本、日志与复现步骤；安全相关问题按 [SECURITY.md](.github/SECURITY.md) 私下报告；提交改动的流程与要求见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## 许可
 
