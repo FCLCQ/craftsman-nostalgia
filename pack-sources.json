@@ -607,18 +607,6 @@
    ]
   },
   {
-   "path": "mods/tconevo-1.12.2-1.1.9.jar",
-   "fileSize": 1384364,
-   "hashes": {
-    "sha1": "3514193ae369407b50af7cc13462348c8e0b52a3",
-    "sha512": "7f5557eae606bad80b78e5ae1000e54d15e3b26af4e5a9f4e69cd44f87aea04a8aea13946e7cf207a5ca26646fd77f97f8d2af84f32584fc810e0894e3a3c66c"
-   },
-   "downloads": [
-    "https://cdn.modrinth.com/data/IGALuv74/versions/sHMgTKfV/tconevo-1.12.2-1.1.9.jar",
-    "https://edge.forgecdn.net/files/9361/61/tconevo-1.12.2-1.1.9.jar"
-   ]
-  },
-  {
    "path": "mods/tickmod-1.1.jar",
    "fileSize": 19110,
    "hashes": {

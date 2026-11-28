@@ -4,7 +4,6 @@
 
 `overrides/resourcepacks/CNFullTextures-CC.zip` 是实例当前使用的可分发合并包，同样以 CC BY-SA 4.0 分发。包内 `CREDITS.txt` 列出署名，`LICENSES/MIT.txt` 与 `LICENSES/CC-BY-SA-4.0.txt` 为许可原文与再分发要求。来源为 Backport Everything 1.12-1.12.2 v1.8（CC BY-SA 4.0）与 ModernityExtra 的 main、addition、fix 子包（MIT），未包含 Modernity、ModernityExtra 的 adjunct 子包与 FFD 附加包。
 
-`overrides/resourcepacks/CraftsmanNostalgia.zip` 是资源包，整体采用 CC BY-SA 4.0 许可，包内 `LICENSE.md` 与 `THIRD-PARTY-NOTICES.md` 为随包声明。
 
 ## 包含来源
 
@@ -28,6 +27,20 @@ MIT 素材保留原始许可；CC BY-SA 4.0 素材再分发时需要署名并以
 | Fabric Chests 材质 | anner | GPL-3.0，待授权或改用兼容许可 |
 
 Modernity-f3 3.10.3 采用 LGPL-3.0-only，与整包 CC BY-SA 4.0 不兼容，未引入；对应的原版贴图覆盖由 Backport Everything 提供。
+
+
+## 随包嵌入的模组
+
+分发包里以下模组以 jar 形式嵌入 `client-overrides/mods/`：
+
+| 模组 | 版本 | 许可 | 来源 |
+|---|---|---|---|
+| Clear My Background | 1.0.4-1.12.2 | MIT | https://github.com/RuiXuqi/ClearMyBackground |
+| Tinkers Alloying Addon Replant (TAIGARR) | beta-1.0.2 | GPL-3.0 | https://gitee.com/peter20050526/taigarr |
+| Key Binding Patch 兼容层 | 1.3.3.3 | MIT（本包自制） | 随包提供 |
+| Tinkers' Evolution 修复版 | 1.1.9 | MIT 变体（Good, not Evil） | 基于 https://github.com/phantamanta44/tinkers-evolution 修改 |
+
+Clear My Background 与 TAIGARR 的许可见 `docs/licenses/ClearMyBackground-MIT.txt` 与 `docs/licenses/TAIGARR-GPL-3.0.txt`。TAIGARR 以 GPL-3.0 分发，对应源码可从 Gitee 仓库取得；jar 未修改。Tinkers' Evolution 的修复仅涉及集成注入与字段引用，修改内容已在项目页说明。
 
 ## 光影包
 

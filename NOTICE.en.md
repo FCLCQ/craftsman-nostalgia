@@ -4,7 +4,6 @@
 
 `overrides/resourcepacks/CNFullTextures-CC.zip` is the distributable merged pack currently used by the instance, released under CC BY-SA 4.0. Its `CREDITS.txt` lists attribution, and `LICENSES/MIT.txt` plus `LICENSES/CC-BY-SA-4.0.txt` carry the license texts and redistribution terms. Sources are Backport Everything 1.12-1.12.2 v1.8 (CC BY-SA 4.0) and the main, addition and fix subpacks of ModernityExtra (MIT); Modernity, the ModernityExtra adjunct subpack and the FFD add-on pack are not included.
 
-`overrides/resourcepacks/CraftsmanNostalgia.zip` is the resource pack, licensed as a whole under CC BY-SA 4.0. The `LICENSE.md` and `THIRD-PARTY-NOTICES.md` files inside the pack carry the corresponding notices. Assets from the sources below are included only when byte-identical to the source.
 
 `assets/futuremc/textures/block/netherite_block.png` is a compatibility texture for `ironchest-netherite`, taken from the same asset in Farmer's Future Delight; it is used only where that mod references `futuremc:block/netherite_block`.
 
@@ -36,3 +35,16 @@ Modernity-f3 3.10.3 is licensed LGPL-3.0-only, which is incompatible with the pa
 | Mellow 3.5 | https://modrinth.com/shader/BUxf36AP | MIT |
 
 Mellow 3.5 is not distributed in the repository; the launcher export includes it from the instance's `shaderpacks/`. SHA-1 `9c309a5170ae555990cf2adfde71c7ac755f560c` identifies that release; it is MIT-licensed, with the license text in `docs/licenses/Mellow-MIT.txt`. It is disabled by default; select it on the shaders page in video settings to enable it. Actinium provides the shader pipeline on the mod side.
+
+## Mods embedded in the pack
+
+The following mods are bundled as jars under `client-overrides/mods/`:
+
+| Mod | Version | License | Source |
+|---|---|---|---|
+| Clear My Background | 1.0.4-1.12.2 | MIT | https://github.com/RuiXuqi/ClearMyBackground |
+| Tinkers Alloying Addon Replant (TAIGARR) | beta-1.0.2 | GPL-3.0 | https://gitee.com/peter20050526/taigarr |
+| Key Binding Patch compat layer | 1.3.3.3 | MIT (built for this pack) | shipped with the pack |
+| Tinkers' Evolution fixed build | 1.1.9 | MIT variant (Good, not Evil) | modified from https://github.com/phantamanta44/tinkers-evolution |
+
+License texts for Clear My Background and TAIGARR are in `docs/licenses/ClearMyBackground-MIT.txt` and `docs/licenses/TAIGARR-GPL-3.0.txt`. TAIGARR is distributed under GPL-3.0; the corresponding source is available from its Gitee repository and the jar is unmodified. The Tinkers' Evolution build only changes integration injection and field references, documented on the project page.
