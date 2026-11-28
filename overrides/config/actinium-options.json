@@ -31,7 +31,7 @@
     "enable_deferred_batching": true,
     "use_model_renderer_batching": true,
     "use_model_renderer_display_lists": true,
-    "use_fast_lit_item_rendering": false,
+    "use_fast_lit_item_rendering": true,
     "use_fast_lit_item_display_lists": true,
     "use_instanced_weather": false,
     "cpu_render_ahead_limit": 0,
