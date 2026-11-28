@@ -429,12 +429,12 @@
   },
   {
    "file": "key-binding-api-shim.jar",
-   "size": 8652,
+   "size": 8683,
    "modid": "key_binding_patch",
    "version": "1.3.3.3",
    "title": "Key Binding Patch",
-   "sha1": "6774cec78555006810218c5fec555762bfee50bf",
-   "sha256": "cf4b4a9b71bf962890424538300c7d79f1a08de4aa4675f82914815a09b66ee2"
+   "sha1": "0293c88e2a94f1b16582bb2cedc338373ed526e1",
+   "sha256": "3247c8e52cde872dc5fb0a2a4138b126b872eaa1a13b210f8b95a09849606312"
   },
   {
    "file": "libnine-1.12.2-1.2.2.jar",
