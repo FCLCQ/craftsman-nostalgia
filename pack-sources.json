@@ -663,17 +663,6 @@
    ]
   },
   {
-   "path": "mods/Actinium-beta-0.1.0.jar",
-   "fileSize": 17005452,
-   "hashes": {
-    "sha1": "b8ed819e6ab66fbdecedf92a792b7ac2b6985ab9",
-    "sha512": "3ea0d318bfcb2efc20faa3495697d59a32057cd34546d09e97b2c8debec34ed7315a470b83d65c681a84cb0029aee861f709da8344e5792d3c391e82d6c4a417"
-   },
-   "downloads": [
-    "https://edge.forgecdn.net/files/9828/866/Actinium-beta-0.1.0.jar"
-   ]
-  },
-  {
    "path": "mods/TwilightDelightLegacy-1.5.0.jar",
    "fileSize": 755161,
    "hashes": {
@@ -682,6 +671,17 @@
    },
    "downloads": [
     "https://edge.forgecdn.net/files/9839/78/TwilightDelightLegacy-1.5.0.jar"
+   ]
+  },
+  {
+   "path": "mods/Actinium-beta-0.1.1.jar",
+   "fileSize": 17834299,
+   "hashes": {
+    "sha1": "e145b04d81d65920ef0121feaf15319ce0c1e5d6",
+    "sha512": "a0723f4e9f13e11b0bfeb24b4f726a157cd93eaef2475c794627839ae809c2d7e2cefe903d88e711890035675014b18f69a33191656864660c193d043f171092"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9871/109/Actinium-beta-0.1.1.jar"
    ]
   }
  ]
