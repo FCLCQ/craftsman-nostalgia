@@ -1,28 +1,17 @@
 {
  "minecraft": "1.12.2",
- "loader": "forge",
- "loaderVersion": "14.23.5.2860",
- "count": 79,
+ "loader": "outlands",
+ "loaderVersion": "2026.11.26-3",
+ "count": 68,
  "mods": [
   {
-   "file": "+Fugue-0.24.4.jar",
-   "size": 309884,
-   "modid": "fugue",
-   "version": "0.24.4",
-   "title": "Fugue",
-   "sha1": "2292c5074314b85904909a45bb3b93a88ed7378c",
-   "sha256": "438248925eb38d16b6b4bcbe6247339b2a745cfe586d4917985f7d925a5d8630",
-   "modrinth_project_id": "vylTACsh",
-   "modrinth_version_id": "Wy9kZZUW"
-  },
-  {
-   "file": "Actinium-alpha-0.0.13.jar",
-   "size": 7486421,
+   "file": "Actinium-beta-0.1.0.jar",
+   "size": 17005452,
    "modid": "actinium",
-   "version": "alpha-0.0.13",
+   "version": "beta-0.1.0",
    "title": "Actinium",
-   "sha1": "8219a15d4a7f27a668c1640bcd1d1b1f8253971e",
-   "sha256": "4e76e4176c24e11d6282d84a5f9032637e74029a2197d29438fafae94ad10da3"
+   "sha1": "b8ed819e6ab66fbdecedf92a792b7ac2b6985ab9",
+   "sha256": "fdaaff1147ad4cd18c710ba76b15b66755b332ebc38a805f7c1eb5c1d716d988"
   },
   {
    "file": "Advancement Locator-1.3.0.jar",
@@ -72,15 +61,6 @@
    "sha256": "8a54cb9abafb14ce66bbc61fbfe5846fdeb3a4cf6ca6ff3bbd6bfe7b16f595f2"
   },
   {
-   "file": "DynamicSurroundings-1.12.2-3.6.3.jar",
-   "size": 15778870,
-   "modid": "dsurround",
-   "version": "1.12.2-3.6.3",
-   "title": "Dynamic Surroundings",
-   "sha1": "62fc23aa49ba392f4bbeb14ff0aae276ff3a27f4",
-   "sha256": "e5c9fbc101dae923a49800761c901831c1f085685c20a229d7dcf98f37d70b85"
-  },
-  {
    "file": "FarmersDelightLegacy-1.2.0-beta3.jar",
    "size": 3612842,
    "modid": "farmersdelight",
@@ -97,15 +77,6 @@
    "title": "Fixeroo",
    "sha1": "21ccf9a7c549f3992bb72ae35587834496b9144d",
    "sha256": "b538c511fdcb82e46137a8f3e08d26ed7f5228b0bf3ac6cf0614038a9375e3bf"
-  },
-  {
-   "file": "Gasts_drop_records-1.12.2-forge-1.0.jar",
-   "size": 3211694,
-   "modid": "gastsdroprecords",
-   "version": "1.0.0",
-   "title": "Gasts drop records",
-   "sha1": "60cb6e143123af79a3504450e1741980e79a96f7",
-   "sha256": "695557929d093583efe3c4cd80758faf6b9f53caf650f2769f9e3a190a823217"
   },
   {
    "file": "HadEnoughItems_1.12.2-4.38.1.jar",
@@ -177,6 +148,15 @@
    "sha256": "dfacf1111862a95ed5803499ce5229a194a2e92be7e308fd5f423b017addbc09"
   },
   {
+   "file": "Key Binding Patch Compat 1.3.3.3.jar",
+   "size": 7511,
+   "modid": "key_binding_patch",
+   "version": "1.3.3.3",
+   "title": "Key Binding Patch",
+   "sha1": "3a2acfea03408b40747a3ccfaf7a9c3480d9be48",
+   "sha256": "6f93fb6c15c7b89dc5f6fa24d4f2412b3c47b049a4eb863d63a7c71535f93c35"
+  },
+  {
    "file": "Mantle-1.12-1.3.3.55.jar",
    "size": 843486,
    "modid": "mantle",
@@ -186,15 +166,6 @@
    "sha256": "0975ad3ef3b8b35fe43461feabe44d406b5521b0a2f3d1965c8d2f6a59ad2e65",
    "modrinth_project_id": "Cg6Uc79H",
    "modrinth_version_id": "XPQUzjYi"
-  },
-  {
-   "file": "OreLib-1.12.2-3.6.0.1.jar",
-   "size": 341728,
-   "modid": "orelib",
-   "version": "1.12.2-3.6.0.1",
-   "title": "OreLib Support Mod",
-   "sha1": "5debb0481552c54bb6ad72d56b05b31d92e2f5d8",
-   "sha256": "4483d8cc2b0334b82b7d0f5bb6354a2020a0e00ce63a48379e8ba5eb7d79eef9"
   },
   {
    "file": "ReachFix-1.12.2-1.1.3.jar",
@@ -226,15 +197,6 @@
    "sha256": "fff8b84bfeb0c50eab6deaf5feebcfc699b0adf2ead94e91ef4ddf093a155724"
   },
   {
-   "file": "StellarCore-1.6.8.jar",
-   "size": 1576708,
-   "modid": "stellar_core",
-   "version": "1.6.8",
-   "title": "Stellar Core",
-   "sha1": "2bee0c05f44a9553c53d69aee37a8605466e0bf4",
-   "sha256": "7ff19753cd7ab135d2fd43c78e471e0abcd87f0ba951749f7380182172750919"
-  },
-  {
    "file": "TAIGARR-beta-1.0.2.jar",
    "size": 1544181,
    "modid": "taiga",
@@ -253,13 +215,13 @@
    "sha256": "87e2702152d795efd8548b3a1ec9471469d7c705db1ec199a465807720ddcdcd"
   },
   {
-   "file": "TinkersAntique-1.12.2-2.13.0.209.jar",
-   "size": 4588755,
+   "file": "TinkersAntique-1.12.2-2.13.0.210.jar",
+   "size": 4586646,
    "modid": "tconstruct",
-   "version": "1.12.2-2.13.0.209",
+   "version": "2.13.0.210",
    "title": "Tinkers' Antique",
-   "sha1": "b6bfc64f316ee2be37be9b78390463263f9c7536",
-   "sha256": "17f2d9423d77b9bf76a0d31a8aad8984950dd5961a59c518d1dc9725412e654b"
+   "sha1": "1ce0156ee09408af579774462e4628f318d334ba",
+   "sha256": "26cd1c518f47cf98884fdc0a5fa18255008dfaf2e7b0c6ce4d0f1f448cd5c221"
   },
   {
    "file": "TinkersPlannerAntique-1.12.2-1.2.0.jar",
@@ -280,6 +242,15 @@
    "sha256": "cb782e9c70ec717039d4c3ba478a39601e4ed33eff45d013fb7ef80bf28a58ba"
   },
   {
+   "file": "Too-Many-Tinkers-1.1.0-alpha.7.jar",
+   "size": 159270,
+   "modid": "toomanytinkers",
+   "version": "1.1.0-alpha.7",
+   "title": "Too Many Tinkers",
+   "sha1": "632c07a5330232402d993b079202cb66de07fa07",
+   "sha256": "03cea511339b2e0bc5154532bf6d71c1ce7b9513d52edce9e2fec8d0a1003ed5"
+  },
+  {
    "file": "TravelersBackpack-1.12.2-1.0.35.jar",
    "size": 397467,
    "modid": "travelersbackpack",
@@ -291,24 +262,13 @@
    "modrinth_version_id": "3JLbcslr"
   },
   {
-   "file": "TwilightDelightLegacy-1.4.2.jar",
-   "size": 715257,
+   "file": "TwilightDelightLegacy-1.5.0.jar",
+   "size": 755161,
    "modid": "twilightdelight",
-   "version": "1.4.2",
+   "version": "1.5.0",
    "title": "Twilight Delight Legacy",
-   "sha1": "30bad05a8b378780f8fa2e0688bc5fa5de00dd95",
-   "sha256": "5e8c2ad1fb0f0f20111aff03869895ba5ea3acb8e302dee69dae4565d0535882"
-  },
-  {
-   "file": "UniDict-1.12.2-3.0.10.jar",
-   "size": 225385,
-   "modid": "unidict",
-   "version": "1.12.2-3.0.10",
-   "title": "UniDict",
-   "sha1": "2b72e49682aca50fa55522c5080f2ba20173c565",
-   "sha256": "003421fa15bc84733343ad26f8bd9387bbd110df6c7ff860cae87ec11f85399d",
-   "modrinth_project_id": "deXLECwV",
-   "modrinth_version_id": "ZSlQ1mMH"
+   "sha1": "57bc2955f21ffe66929b029f4ff2c546dc2ad275",
+   "sha256": "b20b40e43588fd13c8e3ebd782591039e3a39829b2aaebe39381cd6151dbbad4"
   },
   {
    "file": "UniversalTweaks-1.12.2-1.21.0.jar",
@@ -329,28 +289,6 @@
    "title": "Waila Harvestability",
    "sha1": "7e1abc8dd61390285167284a5eb3bf0e57a52760",
    "sha256": "f445cdccfe824a895ace7cb83d29cfb17d5b3c3383949298e44c2da8697237f0"
-  },
-  {
-   "file": "WanionLib-1.12.2-2.91.jar",
-   "size": 223035,
-   "modid": "wanionlib",
-   "version": "1.12.2-2.91",
-   "title": "WanionLib",
-   "sha1": "68196be7d926aee4fe8b5c0d535909c5b2ce3f2c",
-   "sha256": "6dbb4140af8171d07752abfe225d6ad0a6981b4dc143b53d78fed4ea0ea3f00c",
-   "modrinth_project_id": "U90pf4L4",
-   "modrinth_version_id": "3a3PhVbx"
-  },
-  {
-   "file": "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar",
-   "size": 51610,
-   "modid": "key_binding_patch",
-   "version": "1.3.3.3",
-   "title": "Key Binding Patch",
-   "sha1": "9c4f758e158ae780dbf091d7c05e30eb13d8175f",
-   "sha256": "0223a857235e9c0db492f5d885f22b492638208abcc041cf5e229696cb77e26d",
-   "modrinth_project_id": "iWiOURsj",
-   "modrinth_version_id": "bJC5mnH8"
   },
   {
    "file": "armoryexpansion-2.0.0-alpha.jar",
@@ -391,26 +329,6 @@
    "sha256": "a7fd5626638b63a488b12f9518227e6bcffe7373085f8a01284e73978c48fde9"
   },
   {
-   "file": "celeritasdynamiclights-1.2.11.jar",
-   "size": 1068978,
-   "modid": "celeritasdynamiclights",
-   "version": "1.2.11",
-   "title": "Celeritas Dynamic Lights",
-   "sha1": "778f8297cd933d73904cf39206fa88402d9194ee",
-   "sha256": "a5ec2615d924fcea72a208844262efc1bc2fa9b3c0f1596b1ada616cbfb17f05"
-  },
-  {
-   "file": "celeritasextra-0.9.3.jar",
-   "size": 287708,
-   "modid": "celeritasextra",
-   "version": "0.9.3",
-   "title": "Celeritas Extra",
-   "sha1": "48050a58fd42ac637101a667769c8564290565d5",
-   "sha256": "026b46bf91c6ec619485bfb2a3a78f9fe8541c6b57fb0b765db06021f1176ab4",
-   "modrinth_project_id": "LXQekDcE",
-   "modrinth_version_id": "6E4PKNVD"
-  },
-  {
    "file": "celeritasleafculling-1.0.2.jar",
    "size": 1251996,
    "modid": "celeritasleafculling",
@@ -444,15 +362,6 @@
    "modrinth_version_id": "NKPlBLC1"
   },
   {
-   "file": "chibi-5.34.jar",
-   "size": 1750499,
-   "modid": "loliasm",
-   "version": "5.34",
-   "title": "LoliASM",
-   "sha1": "2c02004c36cc1be3647ed22af23a84cfa9bf67bc",
-   "sha256": "b09f8999b71c96c6107e3e53e88a3047f767c50644425a1f24db69b4ac2cc77c"
-  },
-  {
    "file": "classicbar-0.6.1.jar",
    "size": 107129,
    "modid": "classicbar",
@@ -478,6 +387,15 @@
    "title": "Datarium",
    "sha1": "6a4d39f2b641713ccaa91e7f55a05f6872302130",
    "sha256": "09a5699c49d731a278564c808ac4c839593341554e3e1f88b0894641fdd8f6d6"
+  },
+  {
+   "file": "dynamicsurroundings-outlands-4.0.0.jar",
+   "size": 15137107,
+   "modid": "dsurround",
+   "version": "4.0.0",
+   "title": "Dynamic Surroundings",
+   "sha1": "323ca391bb3bd984264702d66ed972a2a65ca4c4",
+   "sha256": "ee9e15123f1bd4d50e3b2cea571149e8909249ea5dae088198ab0212a60da6a2"
   },
   {
    "file": "ends-delight-legacy-1.1.0.jar",
@@ -631,6 +549,15 @@
    "modrinth_version_id": "dVz90chR"
   },
   {
+   "file": "orelib-forge-1.12.2-3.6.0.2-fix.jar",
+   "size": 320532,
+   "modid": "orelib",
+   "version": "3.6.0.2",
+   "title": "OreLib Support Mod",
+   "sha1": "d80a587b57cb704d47f711f43e5e923c07267e50",
+   "sha256": "b587a7f44891ef37b2022a661d272538a9d7cf007536aede66b5e4d710c78613"
+  },
+  {
    "file": "polymorph_legacy-1.0.1.jar",
    "size": 63844,
    "modid": "polymorph_legacy",
@@ -669,15 +596,6 @@
    "sha256": "8362c800132d31bf6ab526e91f89ef2828be70a9c09559dc37141cecc0b7eaf5"
   },
   {
-   "file": "scalar-3.10.0.jar",
-   "size": 9418461,
-   "modid": "scalar",
-   "version": "3.10.0",
-   "title": "Scalar",
-   "sha1": "a5b3fcb7a6f0d1f6da67caec3739a1964a6ded5e",
-   "sha256": "42d2410a268e8d5b520f9fb73ae233b8a4aa61146545f897ac20ca4c5e86305e"
-  },
-  {
    "file": "solwarly-1.12.2-1.0.1.jar",
    "size": 533959,
    "modid": "solwarly",
@@ -687,22 +605,13 @@
    "sha256": "717835b931a27d53139a4a8340c1c0e2980b66a990cb3ee42b821389325d7cce"
   },
   {
-   "file": "soundphysics-1.3.2-beta.jar",
-   "size": 139566,
-   "modid": "soundphysics",
-   "version": "1.3.2-beta",
-   "title": "Sound Physics",
-   "sha1": "7e1cbb21e511bf6f5bdf5acecdb8380ca658e53f",
-   "sha256": "bf0f90a6f3a4193c8251f285bc0804f1be0ccf62c41eb650e218e8702d7a265a"
-  },
-  {
    "file": "tconevo-1.12.2-1.1.9.jar",
-   "size": 1385981,
+   "size": 1384364,
    "modid": "tconevo",
    "version": "1.1.9",
    "title": "Tinkers' Evolution",
-   "sha1": "fa3ffb39ed3dbc68c12a258f8b5bd912e76cb307",
-   "sha256": "22803e2a83e92adb4bd937917ba43f2d3f6fc006d02cdacb2b5bc03ba8b9b431",
+   "sha1": "3514193ae369407b50af7cc13462348c8e0b52a3",
+   "sha256": "f19461b687676e51b432a811acf1ed95c486d4bf65760b450befbbf2366ff3d9",
    "modrinth_project_id": "IGALuv74",
    "modrinth_version_id": "sHMgTKfV"
   },
@@ -745,17 +654,6 @@
    "sha256": "16ebf2da008d3f8351669c19036e5e50a14125f925c3ee194caac0b7edaf2fb2"
   },
   {
-   "file": "vintagefix-0.7.2.jar",
-   "size": 1045123,
-   "modid": "vintagefix",
-   "version": "0.7.2",
-   "title": "VintageFix",
-   "sha1": "16cab7d8e035a69733fe6c620bdd228cfe570fae",
-   "sha256": "33a16df8fe94bb625a41bc20d7d3d4629b63c6a53e95119715db5e969982b65b",
-   "modrinth_project_id": "e6vNsbAm",
-   "modrinth_version_id": "CutuuVKA"
-  },
-  {
    "file": "visuality-1.1.0.jar",
    "size": 58529,
    "modid": "visuality",
@@ -765,15 +663,6 @@
    "sha256": "b68057286d159a452d22ee9601622c1e946119c1d81c792cc6dddf08c697d6b2",
    "modrinth_project_id": "RWq91qzQ",
    "modrinth_version_id": "4HjozL3C"
-  },
-  {
-   "file": "wrapfix-2.0.0.jar",
-   "size": 15942,
-   "modid": "wrapfix",
-   "version": "2.0.0",
-   "title": "WrapFix",
-   "sha1": "aa30f186018e5b86e7ba24995ef6e205dd7574a9",
-   "sha256": "a406dfd2db6a7bf4d940fcb395845c825d2c9f5924e89fe291ebcb9872d671c6"
   }
  ]
 }

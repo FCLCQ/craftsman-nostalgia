@@ -2,7 +2,7 @@
 
 [中文](https://github.com/FCLCQ/craftsman-nostalgia/blob/main/README.md)
 
-A Minecraft 1.12.2 Cleanroom modpack for experiencing high-version content, with Tinkers' Antique (Tinkers' Construct 2) as the core gameplay. Aimed at players who want to stay on Tinkers' Construct 2 while experiencing modern blocks, mobs, villages and Nether content.  
+A Minecraft 1.12.2 Outlands modpack for experiencing high-version content, with Tinkers' Antique (Tinkers' Construct 2) as the core gameplay. Aimed at players who want to stay on Tinkers' Construct 2 while experiencing modern blocks, mobs, villages and Nether content.  
 The pack replaces unmaintained or outdated mods with maintained branches and modern optimizations.
 
 ## Mod list
@@ -24,17 +24,17 @@ The full categorized list is in [MODS.md](docs/MODS.en.md), covering loader and 
 
 ## Installation
 
-Requires Minecraft 1.12.2 and Cleanroom 0.6.13.  
+Requires Minecraft 1.12.2 and Outlands 2026.11.26-3.  
 Supported launchers are listed in [LAUNCHERS.md](docs/LAUNCHERS.en.md).
 
 1. Download the `.mrpack` from [Releases](https://github.com/FCLCQ/craftsman-nostalgia/releases) and import it in your launcher. `modrinth.index.json` lists 77 mods plus Mellow 3.5 by URL, and `client-overrides/` holds the configuration, scripts and resource pack; `TAIGARR` and `clearmybackground` are not included, see "Mods not bundled" below.
-2. Switch the instance to Cleanroom 0.6.13 after import. An mrpack `dependencies` block can only declare `minecraft`, so Cleanroom is not installed automatically.
+2. Switch the instance to Outlands 2026.11.26-3 after import. An mrpack `dependencies` block can only declare `minecraft`, so Cleanroom is not installed automatically.
 3. Build manually: create a 1.12.2 Cleanroom instance, install every mod in `mods-list.txt`, then copy the directories under `overrides/` into the instance root.
 
 ## Local packaging
 
 ```bash
-python3 tools/build_pack.py --mods /path/to/instance/mods --out dist --version 0.6.136
+python3 tools/build_pack.py --mods /path/to/instance/mods --out dist --version 0.6.137
 ```
 
 Produces `dist/CraftsmanNostalgia-<version>.mrpack` with the same layout as the launcher export; the internal name stays `[CRL]工匠怀古` while the file name is ASCII so it can be attached to a Release. Mods and the shader pack go into `files` in `modrinth.index.json`, with URLs and hashes from `pack-sources.json`; mods missing from that file are left out by default; add `--with-offline` to verify them against the manifest SHA-1 in the `--mods` directory and embed them under `client-overrides/mods/`. Configuration, scripts and resource packs come from git-tracked files only, so `splash.properties`, `shaders.properties`, `cleanroom_load_timings.dat` and `*.dat` caches stay out of the archive. Add `--format zip` for a plain archive. The archive places `LICENSE`, both language versions of the third-party notice and the license texts from `docs/licenses/` in the instance root and under `licenses/`.
