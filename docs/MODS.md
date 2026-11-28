@@ -2,7 +2,7 @@
 
 [English](https://github.com/FCLCQ/craftsman-nostalgia/blob/main/docs/MODS.en.md)
 
-共 68 个模组，加载器为 Outlands 2026.11.27，版本取自 `mods-manifest.json` 与各 jar 元数据。
+共 67 个模组，加载器为 Outlands 2026.11.27，版本取自 `mods-manifest.json` 与各 jar 元数据。
 
 ## 加载器与前置库
 
@@ -17,7 +17,6 @@
 | Bubbles | 2.4.10 | 饰品栏前置，供饰品与匠魂进化使用 |
 | GroovyScript | 1.5.0 | 脚本引擎，材料、词条与配方改动 |
 | Pulsar Lighting Engine | 0.6.2 | Tinkers 依赖的性能与光照库 |
-| AssetMover | 2.5 | 模组资源重定向与加载库 |
 
 ## 匠魂体系
 

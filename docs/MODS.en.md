@@ -2,7 +2,7 @@
 
 [中文](https://github.com/FCLCQ/craftsman-nostalgia/blob/main/docs/MODS.md)
 
-68 mods on Outlands 2026.11.27; versions come from `mods-manifest.json` and each jar.
+67 mods on Outlands 2026.11.27; versions come from `mods-manifest.json` and each jar.
 
 ## Loader and prerequisites
 
@@ -17,7 +17,6 @@
 | Bubbles | 2.4.10 | Baubles inventory API used by trinkets and Tinkers' Evolution |
 | GroovyScript | 1.5.0 | Script engine used for material, trait and recipe changes |
 | Pulsar Lighting Engine | 0.6.2 | Performance and lighting library required by Tinkers |
-| AssetMover | 2.5 | Mod resource redirection and loading library |
 
 ## Tinkers system
 

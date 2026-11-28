@@ -29,7 +29,6 @@ twilightdelight                  1.5.0                TwilightDelightLegacy-1.5.
 universaltweaks                  1.21.0               UniversalTweaks-1.12.2-1.21.0.jar
 wailaharvestability              1.1.12               WailaHarvestability-mc1.12-1.1.12.jar
 armoryexpansion                  2.0.0-alpha          armoryexpansion-2.0.0-alpha.jar
--                                2.5                  assetmover-2.5.jar
 bogosorter                       1.6.4                bogosorter-1.6.4.jar
 botania                          r1.10-377            botania-r1.10-377.jar
 celeritasleafculling             1.0.2                celeritasleafculling-1.0.2.jar

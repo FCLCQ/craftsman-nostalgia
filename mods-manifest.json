@@ -2,7 +2,7 @@
  "minecraft": "1.12.2",
  "loader": "outlands",
  "loaderVersion": "2026.11.27",
- "count": 68,
+ "count": 67,
  "mods": [
   {
    "file": "Actinium-beta-0.1.0.jar",
@@ -298,15 +298,6 @@
    "title": "Armory Expansion",
    "sha1": "42fffb0f228fa75588bd4fb91f28b98378b473ce",
    "sha256": "fcc867628e2baea3bff56bc6d1fe8a5d0a6690f46c3822f6d29064e12dc705de"
-  },
-  {
-   "file": "assetmover-2.5.jar",
-   "size": 42829,
-   "modid": "",
-   "version": "2.5",
-   "title": "",
-   "sha1": "b147ada093f5552fdedee9b7ee0de1d99b6f3c06",
-   "sha256": "ac73086576901cb0a11a11511a2a903174177b211958d2498e5307d0a91ce35a"
   },
   {
    "file": "bogosorter-1.6.4.jar",

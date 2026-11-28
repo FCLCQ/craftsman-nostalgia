@@ -288,17 +288,6 @@
    ]
   },
   {
-   "path": "mods/assetmover-2.5.jar",
-   "fileSize": 42829,
-   "hashes": {
-    "sha1": "b147ada093f5552fdedee9b7ee0de1d99b6f3c06",
-    "sha512": "ba0d79120819afe32aef78dea006042a1021da4f7a1225f46988540ee22d9048527b14f39a5f119042d935db3bddace7865fc93ceaf1f16b90a40d16a7922978"
-   },
-   "downloads": [
-    "https://edge.forgecdn.net/files/4430/763/assetmover-2.5.jar"
-   ]
-  },
-  {
    "path": "mods/bogosorter-1.6.4.jar",
    "fileSize": 290821,
    "hashes": {
