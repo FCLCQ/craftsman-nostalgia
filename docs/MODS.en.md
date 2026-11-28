@@ -27,7 +27,7 @@
 | Tinkers' Evolution | 1.1.9 | Tinkers' Evolution with materials, traits and integrations |
 | Tinkers Alloying Addon | 1.12.2-1.3.3-fix-1.0.1-beta | Alloy add-on adding new alloys and materials |
 | Tinkers' Tactical Toughness | 1.9.8 | Tactical add-on with new weapon types |
-| Too Many Tinkers | 1.1.0-alpha.7 | Additional Tinkers parts and recipes |
+| Too Many Tinkers | 1.1.0-alpha.8 | Additional Tinkers parts and recipes |
 | Tinkers Planner Antique | 1.2.0 | Planning UI for tools and materials |
 | Tinkers Tool Leveling | 1.12.2-1.1.0 | Tool leveling and experience system |
 | Armory Expansion | 2.0.0-alpha | Material and trait additions for the armor add-on |

@@ -23,7 +23,7 @@ tinkertoolleveling               1.12.2-1.1.0         TinkerToolLeveling-1.12.2-
 tconstruct                       2.13.0.210           TinkersAntique-1.12.2-2.13.0.210.jar
 tinkersplannerantique            1.2.0                TinkersPlannerAntique-1.12.2-1.2.0.jar
 tt2                              1.9.8                TinkersTacticalToughness-1.9.8.jar
-toomanytinkers                   1.1.0-alpha.7        Too-Many-Tinkers-1.1.0-alpha.7.jar
+toomanytinkers                   1.1.0-alpha.8        Too-Many-Tinkers-1.1.0-alpha.8.jar
 travelersbackpack                1.0.35               TravelersBackpack-1.12.2-1.0.35.jar
 twilightdelight                  1.5.0                TwilightDelightLegacy-1.5.0.jar
 universaltweaks                  1.21.0               UniversalTweaks-1.12.2-1.21.0.jar

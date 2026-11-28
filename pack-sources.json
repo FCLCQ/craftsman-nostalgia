@@ -674,14 +674,14 @@
    ]
   },
   {
-   "path": "mods/Too-Many-Tinkers-1.1.0-alpha.7.jar",
-   "fileSize": 159270,
+   "path": "mods/Too-Many-Tinkers-1.1.0-alpha.8.jar",
+   "fileSize": 159382,
    "hashes": {
-    "sha1": "632c07a5330232402d993b079202cb66de07fa07",
-    "sha512": "21ebb6f64eef5dd3ca048770567774a7cb7bb07ca9876a9e1347f30334d3aac668fd7c4b531b553feeb66201a39133dc73b92934d311da51d1a268db927edb30"
+    "sha1": "b2654e77c1b98a7983620a14f7429e8ffaf5aab9",
+    "sha512": "d6bec2367abe515e53c19afa0f8c082d39ce7008859bce8c57aa5792712d39a381548ae853e2dbf7e36a4cf274173882fa77d30c41fa7b6c98ea33eb92ee4294"
    },
    "downloads": [
-    "https://edge.forgecdn.net/files/9792/797/Too-Many-Tinkers-1.1.0-alpha.7.jar"
+    "https://edge.forgecdn.net/files/9861/409/Too-Many-Tinkers-1.1.0-alpha.8.jar"
    ]
   },
   {

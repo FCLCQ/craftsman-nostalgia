@@ -242,13 +242,13 @@
    "sha256": "cb782e9c70ec717039d4c3ba478a39601e4ed33eff45d013fb7ef80bf28a58ba"
   },
   {
-   "file": "Too-Many-Tinkers-1.1.0-alpha.7.jar",
-   "size": 159270,
+   "file": "Too-Many-Tinkers-1.1.0-alpha.8.jar",
+   "size": 159382,
    "modid": "toomanytinkers",
-   "version": "1.1.0-alpha.7",
+   "version": "1.1.0-alpha.8",
    "title": "Too Many Tinkers",
-   "sha1": "632c07a5330232402d993b079202cb66de07fa07",
-   "sha256": "03cea511339b2e0bc5154532bf6d71c1ce7b9513d52edce9e2fec8d0a1003ed5"
+   "sha1": "b2654e77c1b98a7983620a14f7429e8ffaf5aab9",
+   "sha256": "7ab43db70418e8eb27cc57f325416b38fdf3833982b4a93cfe464b21e33986d8"
   },
   {
    "file": "TravelersBackpack-1.12.2-1.0.35.jar",

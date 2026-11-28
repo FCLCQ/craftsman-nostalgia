@@ -27,7 +27,7 @@
 | Tinkers' Evolution | 1.1.9 | 匠魂进化，材料、词条与多模组集成 |
 | Tinkers Alloying Addon | 1.12.2-1.3.3-fix-1.0.1-beta | 匠魂合金扩展，新增合金与材料 |
 | Tinkers' Tactical Toughness | 1.9.8 | 战术扩展，新增曲刃、长矛、盾牌等武器 |
-| Too Many Tinkers | 1.1.0-alpha.7 | 补充匠魂工具部件与配方 |
+| Too Many Tinkers | 1.1.0-alpha.8 | 补充匠魂工具部件与配方 |
 | Tinkers Planner Antique | 1.2.0 | 工具与材料规划界面 |
 | Tinkers Tool Leveling | 1.12.2-1.1.0 | 工具等级与经验系统 |
 | Armory Expansion | 2.0.0-alpha | 盔甲扩展的材料与词条补充 |
