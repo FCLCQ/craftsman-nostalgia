@@ -44,7 +44,7 @@ The following mods are bundled as jars under `client-overrides/mods/`:
 |---|---|---|---|
 | Clear My Background | 1.0.4-1.12.2 | MIT | https://github.com/RuiXuqi/ClearMyBackground |
 | Tinkers Alloying Addon Replant (TAIGARR) | beta-1.0.2 | GPL-3.0 | https://gitee.com/peter20050526/taigarr |
-| Key Binding Patch compat layer | 1.3.3.3 | MIT (built for this pack) | shipped with the pack |
+| Key Binding API shim | 1.3.3.3 | MIT (built for this pack, no Key Binding Patch code) | shipped with the pack |
 | Tinkers' Evolution fixed build | 1.1.9 | MIT variant (Good, not Evil) | modified from https://github.com/phantamanta44/tinkers-evolution |
 
 License texts for Clear My Background and TAIGARR are in `docs/licenses/ClearMyBackground-MIT.txt` and `docs/licenses/TAIGARR-GPL-3.0.txt`. TAIGARR is distributed under GPL-3.0; the corresponding source is available from its Gitee repository and the jar is unmodified. The Tinkers' Evolution build only changes integration injection and field references, documented on the project page.

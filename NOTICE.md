@@ -37,7 +37,7 @@ Modernity-f3 3.10.3 采用 LGPL-3.0-only，与整包 CC BY-SA 4.0 不兼容，�
 |---|---|---|---|
 | Clear My Background | 1.0.4-1.12.2 | MIT | https://github.com/RuiXuqi/ClearMyBackground |
 | Tinkers Alloying Addon Replant (TAIGARR) | beta-1.0.2 | GPL-3.0 | https://gitee.com/peter20050526/taigarr |
-| Key Binding Patch 兼容层 | 1.3.3.3 | MIT（本包自制） | 随包提供 |
+| Key Binding API shim | 1.3.3.3 | MIT（本包自制，未使用 Key Binding Patch 代码） | 随包提供 |
 | Tinkers' Evolution 修复版 | 1.1.9 | MIT 变体（Good, not Evil） | 基于 https://github.com/phantamanta44/tinkers-evolution 修改 |
 
 Clear My Background 与 TAIGARR 的许可见 `docs/licenses/ClearMyBackground-MIT.txt` 与 `docs/licenses/TAIGARR-GPL-3.0.txt`。TAIGARR 以 GPL-3.0 分发，对应源码可从 Gitee 仓库取得；jar 未修改。Tinkers' Evolution 的修复仅涉及集成注入与字段引用，修改内容已在项目页说明。
