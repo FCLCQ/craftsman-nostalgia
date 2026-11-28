@@ -694,6 +694,39 @@
    "downloads": [
     "https://edge.forgecdn.net/files/9848/101/TinkersAntique-1.12.2-2.13.0.210.jar"
    ]
+  },
+  {
+   "path": "mods/Actinium-beta-0.1.0.jar",
+   "fileSize": 17005452,
+   "hashes": {
+    "sha1": "b8ed819e6ab66fbdecedf92a792b7ac2b6985ab9",
+    "sha512": "3ea0d318bfcb2efc20faa3495697d59a32057cd34546d09e97b2c8debec34ed7315a470b83d65c681a84cb0029aee861f709da8344e5792d3c391e82d6c4a417"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9828/866/Actinium-beta-0.1.0.jar"
+   ]
+  },
+  {
+   "path": "mods/Too-Many-Tinkers-1.1.0-alpha.7.jar",
+   "fileSize": 159270,
+   "hashes": {
+    "sha1": "632c07a5330232402d993b079202cb66de07fa07",
+    "sha512": "21ebb6f64eef5dd3ca048770567774a7cb7bb07ca9876a9e1347f30334d3aac668fd7c4b531b553feeb66201a39133dc73b92934d311da51d1a268db927edb30"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9792/797/Too-Many-Tinkers-1.1.0-alpha.7.jar"
+   ]
+  },
+  {
+   "path": "mods/TwilightDelightLegacy-1.5.0.jar",
+   "fileSize": 755161,
+   "hashes": {
+    "sha1": "57bc2955f21ffe66929b029f4ff2c546dc2ad275",
+    "sha512": "d35f73d97a2fb4bc247a41c36e0cded07e1ca4f13635460a8a79cecdce2ab247327ed739ef105c3d88244077232a855432ec3518e3eb6c15489ad208d9e85a83"
+   },
+   "downloads": [
+    "https://edge.forgecdn.net/files/9839/78/TwilightDelightLegacy-1.5.0.jar"
+   ]
   }
  ]
 }

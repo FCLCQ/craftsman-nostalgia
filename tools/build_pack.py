@@ -154,6 +154,13 @@ def collect_embedded(mods_dir, manifest, sources):
     return entries
 
 
+def _pack_dependencies(manifest, sources):
+    deps = {"minecraft": sources.get("minecraft", "1.12.2")}
+    if manifest.get("loader") == "outlands":
+        deps["forge"] = "Outlands-" + str(manifest.get("loaderVersion", ""))
+    return deps
+
+
 def build_mrpack(args, manifest, sources):
     source_files = sources.get("files", [])
     sourced_mods = {e["path"][len("mods/"):] for e in source_files if e["path"].startswith("mods/")}
@@ -169,7 +176,7 @@ def build_mrpack(args, manifest, sources):
         "versionId": args.version,
         "name": sources.get("name", "[CRL]工匠怀古"),
         "summary": sources.get("summary", ""),
-        "dependencies": {"minecraft": sources.get("minecraft", "1.12.2")},
+        "dependencies": _pack_dependencies(manifest, sources),
         "files": source_files,
     }
 
