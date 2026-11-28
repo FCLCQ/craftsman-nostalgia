@@ -1,0 +1,74 @@
+{
+  "events": [
+    {
+      "id": "example:night_watch",
+      "trigger": {
+        "type": "farmers_future_delight:manual",
+        "dimensions": [
+          0
+        ],
+        "biomes": [],
+        "requiresVillage": false,
+        "minOmenLevel": 0,
+        "maxOmenLevel": 5
+      },
+      "radius": 48,
+      "timing": {
+        "preparationTicks": 100,
+        "waveDelayTicks": 100,
+        "victoryDelayTicks": 20,
+        "celebrationTicks": 100,
+        "timeoutTicks": 12000
+      },
+      "bossBar": {
+        "enabled": true,
+        "title": "example.raid.title",
+        "victoryTitle": "example.raid.victory",
+        "defeatTitle": "example.raid.defeat",
+        "color": "RED",
+        "overlay": "PROGRESS"
+      },
+      "waves": {
+        "normal": [
+          {
+            "participants": [
+              {
+                "entity": "minecraft:zombie",
+                "count": 2,
+                "leader": false,
+                "nbt": "{}",
+                "passengers": []
+              }
+            ]
+          }
+        ]
+      },
+      "bonusWaves": {
+        "normal": [
+          {
+            "participants": [
+              {
+                "entity": "minecraft:zombie",
+                "count": 1
+              }
+            ]
+          }
+        ]
+      },
+      "bonusOmenLevel": 2,
+      "victoryRewards": [
+        {
+          "type": "item",
+          "id": "minecraft:emerald",
+          "amount": 1,
+          "recipient": "heroes"
+        }
+      ],
+      "defeatRewards": []
+    },
+    {
+      "id": "example:removed_event",
+      "remove": true
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "careers": {
+    "farmer": {
+      "enabled": true,
+      "replaceDefaults": false,
+      "remove": [],
+      "replace": [],
+      "add": []
+    },
+    "fisherman": {
+      "enabled": true,
+      "replaceDefaults": false,
+      "remove": [],
+      "replace": [],
+      "add": []
+    },
+    "shepherd": {
+      "enabled": true,
+      "replaceDefaults": false,
+      "remove": [],
+      "replace": [],
+      "add": []
+    },
+    "fletcher": {
+      "enabled": true,
+      "replaceDefaults": false,
+      "remove": [],
+      "replace": [],
+      "add": []
+    }
+  }
+}

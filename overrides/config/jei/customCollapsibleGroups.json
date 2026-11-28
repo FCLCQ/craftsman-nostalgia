@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "custom:3dfb4c21",
+    "displayName": "玻璃板",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:glass_pane",
+      "minecraft:stained_glass_pane:*"
+    ]
+  },
+  {
+    "id": "custom:bd4c8779",
+    "displayName": "床",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:bed:*"
+    ]
+  },
+  {
+    "id": "custom:f372df29",
+    "displayName": "旗帜",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:banner:*"
+    ]
+  },
+  {
+    "id": "custom:0f39aa8c",
+    "displayName": "玻璃",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:stained_glass:*",
+      "minecraft:glass"
+    ]
+  },
+  {
+    "id": "custom:934db0a6",
+    "displayName": "混凝土粉末",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:concrete_powder:*"
+    ]
+  },
+  {
+    "id": "custom:92a7888d",
+    "displayName": "混凝土",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:concrete:*"
+    ]
+  },
+  {
+    "id": "custom:a09e1883",
+    "displayName": "陶瓦",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:stained_hardened_clay:*",
+      "minecraft:hardened_clay"
+    ]
+  },
+  {
+    "id": "custom:394287f5",
+    "displayName": "地毯",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:carpet:*"
+    ]
+  },
+  {
+    "id": "custom:9e5e3d40",
+    "displayName": "羊毛",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:wool:*"
+    ]
+  },
+  {
+    "id": "custom:019201d7",
+    "displayName": "染料",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:dye:5",
+      "minecraft:dye:6",
+      "minecraft:dye:7",
+      "minecraft:dye:14",
+      "minecraft:dye:13",
+      "minecraft:dye:12",
+      "minecraft:dye:11",
+      "minecraft:dye:10",
+      "minecraft:dye:9",
+      "minecraft:dye:8"
+    ]
+  },
+  {
+    "id": "custom:d200f824",
+    "displayName": "唱片",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:record_13",
+      "minecraft:record_cat",
+      "minecraft:record_blocks",
+      "minecraft:record_chirp",
+      "minecraft:record_far",
+      "minecraft:record_mall",
+      "minecraft:record_wait",
+      "minecraft:record_11",
+      "minecraft:record_ward",
+      "minecraft:record_strad",
+      "minecraft:record_stal",
+      "minecraft:record_mellohi",
+      "botania:recordgaia1",
+      "botania:recordgaia2",
+      "discsbackport:record_bounce",
+      "discsbackport:record_creator",
+      "discsbackport:record_creator_music_box",
+      "discsbackport:record_lava_chicken",
+      "discsbackport:record_precipice",
+      "farmers_future_delight:music_disc_otherside",
+      "suikecherry:music_disc_relic",
+      "farmers_future_delight:music_disc_pigstep"
+    ]
+  },
+  {
+    "id": "custom:78065542",
+    "displayName": "头盔基底",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "conarm:helmet_core:*"
+    ]
+  },
+  {
+    "id": "custom:0a69fa65",
+    "displayName": "护甲夹板",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "conarm:armor_trim:*"
+    ]
+  },
+  {
+    "id": "custom:f54d3658",
+    "displayName": "护甲板",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "conarm:armor_plate:*"
+    ]
+  },
+  {
+    "id": "custom:ab6a5093",
+    "displayName": "胸甲基底",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "conarm:chest_core:*"
+    ]
+  },
+  {
+    "id": "custom:5c30c791",
+    "displayName": "护腿基底",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "conarm:leggings_core:*"
+    ]
+  },
+  {
+    "id": "custom:7e09e3b1",
+    "displayName": "靴子基底",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "conarm:boots_core:*"
+    ]
+  },
+  {
+    "id": "custom:41d644f3",
+    "displayName": "头盔",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "conarm:helmet:*"
+    ]
+  },
+  {
+    "id": "custom:0f760bfd",
+    "displayName": "胸甲",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "conarm:chestplate:*"
+    ]
+  },
+  {
+    "id": "custom:cbcce104",
+    "displayName": "护腿",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "conarm:leggings:*"
+    ]
+  },
+  {
+    "id": "custom:9b3f6275",
+    "displayName": "靴子",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "conarm:boots:*"
+    ]
+  },
+  {
+    "id": "custom:d730c8c8",
+    "displayName": "抛光工具",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "conarm:polishing_kit:*"
+    ]
+  },
+  {
+    "id": "custom:5aaaf232",
+    "displayName": "盔甲组装台",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "conarm:armorforge:*"
+    ]
+  },
+  {
+    "id": "custom:e09d0aac",
+    "displayName": "神秘花瓣",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:petal:*"
+    ]
+  },
+  {
+    "id": "custom:2ff1ff80",
+    "displayName": "花粉",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:dye:*"
+    ]
+  },
+  {
+    "id": "custom:c5f0899e",
+    "displayName": "森林法杖",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:twigwand:*"
+    ]
+  },
+  {
+    "id": "custom:aa584237",
+    "displayName": "魔力透镜",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:lens:*"
+    ]
+  },
+  {
+    "id": "custom:ae4ad4ef",
+    "displayName": "符文",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:rune:*"
+    ]
+  },
+  {
+    "id": "custom:71331936",
+    "displayName": "种子",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:grassseeds:*"
+    ]
+  },
+  {
+    "id": "custom:95af4cc4",
+    "displayName": "天翼族之冠",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:flighttiara:*"
+    ]
+  },
+  {
+    "id": "custom:50bd4e24",
+    "displayName": "石英",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:quartz:*"
+    ]
+  },
+  {
+    "id": "custom:dfa32426",
+    "displayName": "拉普达碎片",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:laputashard:*"
+    ]
+  },
+  {
+    "id": "custom:7bfd298c",
+    "displayName": "火花升级",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:sparkupgrade:*"
+    ]
+  },
+  {
+    "id": "custom:47960fa6",
+    "displayName": "魔法玻璃小瓶",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:vial:0",
+      "botania:brewvial:*"
+    ]
+  },
+  {
+    "id": "custom:4a037a5f",
+    "displayName": "精灵玻璃烧瓶",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:vial:1",
+      "botania:brewflask:*"
+    ]
+  },
+  {
+    "id": "custom:45e62988",
+    "displayName": "污血吊坠",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:bloodpendant:*"
+    ]
+  },
+  {
+    "id": "custom:3b638be1",
+    "displayName": "合成模板",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:craftpattern:*"
+    ]
+  },
+  {
+    "id": "custom:c3f3c848",
+    "displayName": "意志",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:ancientwill:*"
+    ]
+  },
+  {
+    "id": "custom:3131933c",
+    "displayName": "熏香",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:incensestick:*"
+    ]
+  },
+  {
+    "id": "custom:2157ae16",
+    "displayName": "神秘花",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:flower:*"
+    ]
+  },
+  {
+    "id": "custom:8d336b6f",
+    "displayName": "魔法花",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:specialflower:*"
+    ]
+  },
+  {
+    "id": "custom:9fbb142d",
+    "displayName": "浮空花",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:miniisland:*"
+    ]
+  },
+  {
+    "id": "custom:cc6ad0dc",
+    "displayName": "荧光花",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:shinyflower:*"
+    ]
+  },
+  {
+    "id": "custom:b9e73400",
+    "displayName": "浮空魔法花",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:floatingspecialflower:*"
+    ]
+  },
+  {
+    "id": "custom:984762a8",
+    "displayName": "花瓣块",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:petalblock:*"
+    ]
+  },
+  {
+    "id": "custom:51ecd7bd",
+    "displayName": "微光蘑菇",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:mushroom:*"
+    ]
+  },
+  {
+    "id": "custom:a065d410",
+    "displayName": "高神秘花",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:doubleflower2:*",
+      "botania:doubleflower1:*"
+    ]
+  },
+  {
+    "id": "custom:f1b73748",
+    "displayName": "微光",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "botania:lightrelay:*"
+    ]
+  },
+  {
+    "id": "custom:529b4a3f",
+    "displayName": "粗布告示牌",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "farmersdelight:canvas_sign",
+      "farmersdelight:white_canvas_sign",
+      "farmersdelight:purple_canvas_sign",
+      "farmersdelight:blue_canvas_sign",
+      "farmersdelight:orange_canvas_sign",
+      "farmersdelight:brown_canvas_sign",
+      "farmersdelight:magenta_canvas_sign",
+      "farmersdelight:green_canvas_sign",
+      "farmersdelight:light_blue_canvas_sign",
+      "farmersdelight:red_canvas_sign",
+      "farmersdelight:yellow_canvas_sign",
+      "farmersdelight:black_canvas_sign",
+      "farmersdelight:lime_canvas_sign",
+      "farmersdelight:pink_canvas_sign",
+      "farmersdelight:gray_canvas_sign",
+      "farmersdelight:light_gray_canvas_sign",
+      "farmersdelight:cyan_canvas_sign"
+    ]
+  },
+  {
+    "id": "custom:e9bb0d3a",
+    "displayName": "悬挂式粗布告示牌",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "farmersdelight:gray_hanging_canvas_sign",
+      "farmersdelight:light_gray_hanging_canvas_sign",
+      "farmersdelight:cyan_hanging_canvas_sign",
+      "farmersdelight:pink_hanging_canvas_sign",
+      "farmersdelight:lime_hanging_canvas_sign",
+      "farmersdelight:black_hanging_canvas_sign",
+      "farmersdelight:yellow_hanging_canvas_sign",
+      "farmersdelight:red_hanging_canvas_sign",
+      "farmersdelight:light_blue_hanging_canvas_sign",
+      "farmersdelight:green_hanging_canvas_sign",
+      "farmersdelight:magenta_hanging_canvas_sign",
+      "farmersdelight:brown_hanging_canvas_sign",
+      "farmersdelight:orange_hanging_canvas_sign",
+      "farmersdelight:blue_hanging_canvas_sign",
+      "farmersdelight:white_hanging_canvas_sign",
+      "farmersdelight:purple_hanging_canvas_sign",
+      "farmersdelight:hanging_canvas_sign"
+    ]
+  },
+  {
+    "id": "custom:0a739a9b",
+    "displayName": "不详之瓶",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "farmers_future_delight:ominous_bottle"
+    ]
+  },
+  {
+    "id": "custom:4b540821",
+    "displayName": "迷之炖菜",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "farmers_future_delight:suspicious_stew"
+    ]
+  },
+  {
+    "id": "custom:798fd647",
+    "displayName": "山羊角",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "farmers_future_delight:goat_horn:*"
+    ]
+  },
+  {
+    "id": "custom:f6b0f347",
+    "displayName": "旗帜图案",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "farmers_future_delight:flower_banner_pattern",
+      "farmers_future_delight:bordure_indented_banner_pattern",
+      "farmers_future_delight:field_masoned_banner_pattern",
+      "farmers_future_delight:piglin_banner_pattern",
+      "farmers_future_delight:globe_banner_pattern",
+      "farmers_future_delight:mojang_banner_pattern",
+      "farmers_future_delight:skull_banner_pattern",
+      "farmers_future_delight:creeper_banner_pattern"
+    ]
+  },
+  {
+    "id": "custom:a182cc96",
+    "displayName": "更多箱子",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "ironchest:iron_chest:*"
+    ]
+  },
+  {
+    "id": "custom:bd8ade42",
+    "displayName": "白色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:white_shulker_box",
+      "ironchest:iron_shulker_box_white:*"
+    ]
+  },
+  {
+    "id": "custom:9ef39848",
+    "displayName": "淡灰色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:silver_shulker_box",
+      "ironchest:iron_shulker_box_silver:*"
+    ]
+  },
+  {
+    "id": "custom:52facb95",
+    "displayName": "灰色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:gray_shulker_box",
+      "ironchest:iron_shulker_box_gray:*"
+    ]
+  },
+  {
+    "id": "custom:706c248e",
+    "displayName": "黑色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:black_shulker_box",
+      "ironchest:iron_shulker_box_black:*"
+    ]
+  },
+  {
+    "id": "custom:ac7c40a2",
+    "displayName": "棕色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:brown_shulker_box",
+      "ironchest:iron_shulker_box_brown:*"
+    ]
+  },
+  {
+    "id": "custom:429506ca",
+    "displayName": "红色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:red_shulker_box",
+      "ironchest:iron_shulker_box_red:*"
+    ]
+  },
+  {
+    "id": "custom:d7a81bfa",
+    "displayName": "橙色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:orange_shulker_box",
+      "ironchest:iron_shulker_box_orange:*"
+    ]
+  },
+  {
+    "id": "custom:773ed8a2",
+    "displayName": "黄色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:yellow_shulker_box",
+      "ironchest:iron_shulker_box_yellow:*"
+    ]
+  },
+  {
+    "id": "custom:d5a8bf17",
+    "displayName": "黄绿色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:lime_shulker_box",
+      "ironchest:iron_shulker_box_lime:*"
+    ]
+  },
+  {
+    "id": "custom:24a98b35",
+    "displayName": "绿色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:green_shulker_box",
+      "ironchest:iron_shulker_box_green:*"
+    ]
+  },
+  {
+    "id": "custom:c64668eb",
+    "displayName": "青色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:cyan_shulker_box",
+      "ironchest:iron_shulker_box_cyan:*"
+    ]
+  },
+  {
+    "id": "custom:e11fc86e",
+    "displayName": "淡蓝色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:light_blue_shulker_box",
+      "ironchest:iron_shulker_box_light_blue:*"
+    ]
+  },
+  {
+    "id": "custom:65fa5ea6",
+    "displayName": "粉色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:pink_shulker_box",
+      "ironchest:iron_shulker_box_pink:*"
+    ]
+  },
+  {
+    "id": "custom:25fa0ca5",
+    "displayName": "蓝色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:blue_shulker_box",
+      "ironchest:iron_shulker_box_blue:*"
+    ]
+  },
+  {
+    "id": "custom:d54e70a4",
+    "displayName": "品红色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:magenta_shulker_box",
+      "ironchest:iron_shulker_box_magenta:*"
+    ]
+  },
+  {
+    "id": "custom:58ba6499",
+    "displayName": "紫色潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "minecraft:purple_shulker_box",
+      "ironchest:iron_shulker_box_purple:*"
+    ]
+  },
+  {
+    "id": "custom:d6a83173",
+    "displayName": "升级：潜影盒",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "ironchest:diamond_obsidian_shulker_upgrade",
+      "ironchest:vanilla_copper_shulker_upgrade",
+      "ironchest:vanilla_iron_shulker_upgrade",
+      "ironchest:diamond_crystal_shulker_upgrade",
+      "ironchest:copper_iron_shulker_upgrade",
+      "ironchest:silver_gold_shulker_upgrade",
+      "ironchest:copper_silver_shulker_upgrade",
+      "ironchest:gold_diamond_shulker_upgrade",
+      "ironchest:iron_gold_shulker_upgrade",
+      "ironchest:diamond_netherite_shulker_upgrade",
+      "ironchest:obsidian_netherite_shulker_upgrade",
+      "ironchest:crystal_netherite_shulker_upgrade"
+    ]
+  },
+  {
+    "id": "custom:894c8236",
+    "displayName": "升级：箱子",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "ironchest:iron_gold_chest_upgrade",
+      "ironchest:gold_diamond_chest_upgrade",
+      "ironchest:copper_silver_chest_upgrade",
+      "ironchest:silver_gold_chest_upgrade",
+      "ironchest:wood_iron_chest_upgrade",
+      "ironchest:copper_iron_chest_upgrade",
+      "ironchest:diamond_crystal_chest_upgrade",
+      "ironchest:crystal_netherite_chest_upgrade",
+      "ironchest:obsidian_netherite_chest_upgrade",
+      "ironchest:diamond_netherite_chest_upgrade",
+      "ironchest:diamond_obsidian_chest_upgrade",
+      "ironchest:wood_copper_chest_upgrade"
+    ]
+  },
+  {
+    "id": "custom:3c91ebb2",
+    "displayName": "熔融物质桶",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "forge:bucketfilled:*"
+    ]
+  },
+  {
+    "id": "custom:ba06e1e0",
+    "displayName": "调味粉",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "solwarly:spice:*"
+    ]
+  },
+  {
+    "id": "custom:6fefa40a",
+    "displayName": "暮色战利品",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "twilightforest:trophy:*"
+    ]
+  },
+  {
+    "id": "custom:7797327c",
+    "displayName": "力场",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "twilightforest:force_field:*"
+    ]
+  },
+  {
+    "id": "custom:2c0c4f78",
+    "displayName": "城堡符文砖",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "twilightforest:castle_rune_brick:*"
+    ]
+  },
+  {
+    "id": "custom:a810f3a7",
+    "displayName": "城堡门",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "twilightforest:castle_door:1",
+      "twilightforest:castle_door:3",
+      "twilightforest:castle_door:2"
+    ]
+  },
+  {
+    "id": "custom:83920fc4",
+    "displayName": "微缩模型",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "twilightforest:miniature_structure:*"
+    ]
+  },
+  {
+    "id": "custom:41208d26",
+    "displayName": "通透玻璃",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:clear_glass:*",
+      "tconstruct:clear_stained_glass:*"
+    ]
+  },
+  {
+    "id": "custom:72433c78",
+    "displayName": "模具",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:pattern:*"
+    ]
+  },
+  {
+    "id": "custom:12b1b929",
+    "displayName": "碎片",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:shard:*"
+    ]
+  },
+  {
+    "id": "custom:e7537661",
+    "displayName": "磨制工具",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:sharpening_kit:*"
+    ]
+  },
+  {
+    "id": "custom:0060a077",
+    "displayName": "镐头",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:pick_head:*"
+    ]
+  },
+  {
+    "id": "custom:b5a2d478",
+    "displayName": "铲头",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:shovel_head:*"
+    ]
+  },
+  {
+    "id": "custom:fa90164f",
+    "displayName": "斧刃",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:axe_head:*"
+    ]
+  },
+  {
+    "id": "custom:2c24be86",
+    "displayName": "宽斧刃",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:broad_axe_head:*"
+    ]
+  },
+  {
+    "id": "custom:d843f6f4",
+    "displayName": "剑刃",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:sword_blade:*"
+    ]
+  },
+  {
+    "id": "custom:9fab3e11",
+    "displayName": "宽剑刃",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:large_sword_blade:*"
+    ]
+  },
+  {
+    "id": "custom:28b03ed4",
+    "displayName": "锤头",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:hammer_head:*"
+    ]
+  },
+  {
+    "id": "custom:527b38f5",
+    "displayName": "开掘铲头",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:excavator_head:*"
+    ]
+  },
+  {
+    "id": "custom:61c5ee00",
+    "displayName": "园艺镰头",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:kama_head:*"
+    ]
+  },
+  {
+    "id": "custom:b6012ae8",
+    "displayName": "镰刀头",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:scythe_head:*"
+    ]
+  },
+  {
+    "id": "custom:8d7823fb",
+    "displayName": "盘",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:pan_head:*"
+    ]
+  },
+  {
+    "id": "custom:9bcfe0d2",
+    "displayName": "牌板",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:sign_head:*"
+    ]
+  },
+  {
+    "id": "custom:6a62b788",
+    "displayName": "手柄",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:tool_rod:*"
+    ]
+  },
+  {
+    "id": "custom:8100d7c5",
+    "displayName": "坚韧手柄",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:tough_tool_rod:*"
+    ]
+  },
+  {
+    "id": "custom:df7a1f37",
+    "displayName": "绑定结",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:binding:*"
+    ]
+  },
+  {
+    "id": "custom:005742bf",
+    "displayName": "坚韧绑定结",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:tough_binding:*"
+    ]
+  },
+  {
+    "id": "custom:70d47ddf",
+    "displayName": "宽护手",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:wide_guard:*"
+    ]
+  },
+  {
+    "id": "custom:c660cc98",
+    "displayName": "护手",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:hand_guard:*"
+    ]
+  },
+  {
+    "id": "custom:4584e83b",
+    "displayName": "十字柄",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:cross_guard:*"
+    ]
+  },
+  {
+    "id": "custom:e0c10a08",
+    "displayName": "大板",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:large_plate:*"
+    ]
+  },
+  {
+    "id": "custom:844118f8",
+    "displayName": "刀刃",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:knife_blade:*"
+    ]
+  },
+  {
+    "id": "custom:94d76fc0",
+    "displayName": "弓臂",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:bow_limb:*"
+    ]
+  },
+  {
+    "id": "custom:3d09c0f5",
+    "displayName": "弓弦",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:bow_string:*"
+    ]
+  },
+  {
+    "id": "custom:fdf5f59d",
+    "displayName": "箭头",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:arrow_head:*"
+    ]
+  },
+  {
+    "id": "custom:f7112c34",
+    "displayName": "箭杆",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:arrow_shaft:*"
+    ]
+  },
+  {
+    "id": "custom:08234a2f",
+    "displayName": "箭羽",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:fletching:*"
+    ]
+  },
+  {
+    "id": "custom:378d3ddf",
+    "displayName": "弩箭核心",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:bolt_core:*"
+    ]
+  },
+  {
+    "id": "custom:f76d254d",
+    "displayName": "模具加工台",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:tooltables:1:twilightforest:twilight_oak_planks:0",
+      "tconstruct:tooltables:1:twilightforest:tower_wood:0",
+      "tconstruct:tooltables:1:minecraft:planks:2",
+      "tconstruct:tooltables:1:oe:palm_planks:0",
+      "tconstruct:tooltables:1:palebloom:pale_oak_planks:0",
+      "tconstruct:tooltables:1:twilightforest:sort_planks:0",
+      "tconstruct:tooltables:1:minecraft:planks:5",
+      "tconstruct:tooltables:1:suikecherry:cherry_planks:0",
+      "tconstruct:tooltables:1:twilightforest:tower_wood:3",
+      "tconstruct:tooltables:1:twilightforest:tower_wood:1",
+      "tconstruct:tooltables:1:twilightforest:mangrove_planks:0",
+      "tconstruct:tooltables:1:farmers_future_delight:crimson_planks:0",
+      "tconstruct:tooltables:1:twilightforest:tower_wood:2",
+      "tconstruct:tooltables:1:minecraft:planks:4",
+      "tconstruct:tooltables:1:twilightforest:mine_planks:0",
+      "tconstruct:tooltables:1:twilightforest:time_planks:0",
+      "tconstruct:tooltables:1:twilightforest:dark_planks:0",
+      "tconstruct:tooltables:1:farmers_future_delight:warped_planks:0",
+      "tconstruct:tooltables:1:minecraft:planks:3",
+      "tconstruct:tooltables:1:twilightforest:tower_wood:4",
+      "tconstruct:tooltables:1:twilightforest:canopy_planks:0",
+      "tconstruct:tooltables:1:twilightforest:trans_planks:0",
+      "tconstruct:tooltables:1:minecraft:planks:1",
+      "tconstruct:tooltables:1:minecraft:planks:0"
+    ]
+  },
+  {
+    "id": "custom:12927273",
+    "displayName": "部件加工台",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:tooltables:2:farmers_future_delight:warped_stem:0",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_dark_oak_log:0",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_acacia_log:0",
+      "tconstruct:tooltables:2:minecraft:log:3",
+      "tconstruct:tooltables:2:twilightforest:twilight_log:3",
+      "tconstruct:tooltables:2:oe:palm_wood:0",
+      "tconstruct:tooltables:2:minecraft:log:1",
+      "tconstruct:tooltables:2:oe:palm_log:0",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_dark_oak_wood:0",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_warped_hyphae:0",
+      "tconstruct:tooltables:2:twilightforest:magic_log:1",
+      "tconstruct:tooltables:2:farmers_future_delight:oak_wood:0",
+      "tconstruct:tooltables:2:minecraft:log2:0",
+      "tconstruct:tooltables:2:farmers_future_delight:jungle_wood:0",
+      "tconstruct:tooltables:2:farmers_future_delight:crimson_stem:0",
+      "tconstruct:tooltables:2:twilightforest:magic_log:0",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_jungle_wood:0",
+      "tconstruct:tooltables:2:twilightdelight:ironwood_log:0",
+      "tconstruct:tooltables:2:twilightforest:magic_log:3",
+      "tconstruct:tooltables:2:twilightforest:magic_log:2",
+      "tconstruct:tooltables:2:oe:palm_log_stripped:0",
+      "tconstruct:tooltables:2:palebloom:peeping_birch_log:0",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_warped_stem:0",
+      "tconstruct:tooltables:2:twilightforest:twilight_log:0",
+      "tconstruct:tooltables:2:suikecherry:cherry_log:0",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_birch_log:0",
+      "tconstruct:tooltables:2:farmers_future_delight:dark_oak_wood:0",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_oak_log:0",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_crimson_hyphae:0",
+      "tconstruct:tooltables:2:twilightforest:twilight_log:1",
+      "tconstruct:tooltables:2:oe:palm_wood_stripped:0",
+      "tconstruct:tooltables:2:minecraft:log2:1",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_spruce_log:0",
+      "tconstruct:tooltables:2:suikecherry:cherry_wood:0",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_oak_wood:0",
+      "tconstruct:tooltables:2:farmers_future_delight:acacia_wood:0",
+      "tconstruct:tooltables:2:farmers_future_delight:spruce_wood:0",
+      "tconstruct:tooltables:2:farmers_future_delight:birch_wood:0",
+      "tconstruct:tooltables:2:farmers_future_delight:crimson_hyphae:0",
+      "tconstruct:tooltables:2:farmers_future_delight:warped_hyphae:0",
+      "tconstruct:tooltables:2:twilightforest:twilight_log:2",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_birch_wood:0",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_jungle_log:0",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_spruce_wood:0",
+      "tconstruct:tooltables:2:minecraft:log:2",
+      "tconstruct:tooltables:2:minecraft:log:0",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_acacia_wood:0",
+      "tconstruct:tooltables:2:farmers_future_delight:stripped_crimson_stem:0",
+      "tconstruct:tooltables:2:palebloom:pale_oak_log:0",
+      "tconstruct:tooltables:2:suikecherry:cherry_stripped_log:0",
+      "tconstruct:tooltables:2:suikecherry:cherry_stripped_wood:0"
+    ]
+  },
+  {
+    "id": "custom:37946129",
+    "displayName": "工具组装台",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:toolforge:*"
+    ]
+  },
+  {
+    "id": "custom:dd6df34d",
+    "displayName": "镐",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:pickaxe:*"
+    ]
+  },
+  {
+    "id": "custom:df7c5277",
+    "displayName": "铲",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:shovel:*"
+    ]
+  },
+  {
+    "id": "custom:8fe7ce13",
+    "displayName": "斧",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:hatchet:*"
+    ]
+  },
+  {
+    "id": "custom:3720aaad",
+    "displayName": "鹤嘴锄",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:mattock:*"
+    ]
+  },
+  {
+    "id": "custom:1f2f54d2",
+    "displayName": "园艺镰",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:kama:*"
+    ]
+  },
+  {
+    "id": "custom:8c7a8c17",
+    "displayName": "锤",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:hammer:*"
+    ]
+  },
+  {
+    "id": "custom:b854d0f1",
+    "displayName": "开掘铲",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:excavator:*"
+    ]
+  },
+  {
+    "id": "custom:51dfc4d8",
+    "displayName": "伐木斧",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:lumberaxe:*"
+    ]
+  },
+  {
+    "id": "custom:67f8ed9d",
+    "displayName": "镰刀",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:scythe:*"
+    ]
+  },
+  {
+    "id": "custom:6d0dbf9f",
+    "displayName": "剑",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:broadsword:*"
+    ]
+  },
+  {
+    "id": "custom:e9f761d8",
+    "displayName": "长剑",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:longsword:*"
+    ]
+  },
+  {
+    "id": "custom:ecf76845",
+    "displayName": "西洋剑",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:rapier:*"
+    ]
+  },
+  {
+    "id": "custom:1609e53f",
+    "displayName": "煎锅",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:frypan:*"
+    ]
+  },
+  {
+    "id": "custom:5825755d",
+    "displayName": "牌子",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:battlesign:*"
+    ]
+  },
+  {
+    "id": "custom:0906b131",
+    "displayName": "劈刀",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:cleaver:*"
+    ]
+  },
+  {
+    "id": "custom:c4d904d8",
+    "displayName": "弓",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:shortbow:*"
+    ]
+  },
+  {
+    "id": "custom:e112b076",
+    "displayName": "长弓",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:longbow:*"
+    ]
+  },
+  {
+    "id": "custom:114fc8df",
+    "displayName": "弩",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:crossbow:*"
+    ]
+  },
+  {
+    "id": "custom:eff237c7",
+    "displayName": "箭",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:arrow:*"
+    ]
+  },
+  {
+    "id": "custom:98b12571",
+    "displayName": "弩箭",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:bolt:*"
+    ]
+  },
+  {
+    "id": "custom:989d8afd",
+    "displayName": "手里剑",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:shuriken:*"
+    ]
+  },
+  {
+    "id": "custom:0e5f5752",
+    "displayName": "铸模",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tconstruct:clay_cast:0:",
+      "tconstruct:cast_custom:*",
+      "tconstruct:cast:*"
+    ]
+  },
+  {
+    "id": "custom:37698325",
+    "displayName": "迅捷盾",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tt2:swift_shield:*"
+    ]
+  },
+  {
+    "id": "custom:1427b5a7",
+    "displayName": "盾牌",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tt2:heavy_shield:*"
+    ]
+  },
+  {
+    "id": "custom:502993fd",
+    "displayName": "矛",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tt2:spear:*"
+    ]
+  },
+  {
+    "id": "custom:57d4cf71",
+    "displayName": "工匠手杖",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tt2:craftsman_staff:*"
+    ]
+  },
+  {
+    "id": "custom:86ee510c",
+    "displayName": "锻造模板",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tt2:forging_template_nature",
+      "tt2:forging_template_shearing",
+      "tt2:forging_template_felling",
+      "tt2:forging_template_excavation",
+      "tt2:forging_template_mining",
+      "tt2:forging_template_combat",
+      "tt2:forging_template_farming"
+    ]
+  },
+  {
+    "id": "custom:e18775f2",
+    "displayName": "斥候头盔",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tt2:scout_helmet:*"
+    ]
+  },
+  {
+    "id": "custom:c6a520db",
+    "displayName": "斥候胸甲",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tt2:scout_chestplate:*"
+    ]
+  },
+  {
+    "id": "custom:a54413ef",
+    "displayName": "斥候护腿",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tt2:scout_leggings:*"
+    ]
+  },
+  {
+    "id": "custom:0a724985",
+    "displayName": "斥候战靴",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "tt2:scout_boots:*"
+    ]
+  },
+  {
+    "id": "custom:718f0bcd",
+    "displayName": "蛋糕",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "twilightdelight:twilight_cake",
+      "twilightdelight:glacier_cake",
+      "twilightdelight:phytochemical_cake",
+      "twilightdelight:torchberry_cake",
+      "twilightdelight:aurora_cake"
+    ]
+  },
+  {
+    "id": "custom:dd045416",
+    "displayName": "冰淇淋方块",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "twilightdelight:aurora_ice_cream_block",
+      "twilightdelight:glacier_ice_cream_block",
+      "twilightdelight:phytochemical_ice_cream_block",
+      "twilightdelight:torchberry_ice_cream_block"
+    ]
+  },
+  {
+    "id": "custom:cdece871",
+    "displayName": "挽具",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "suikehappyghast:black_harness",
+      "suikehappyghast:red_harness",
+      "suikehappyghast:green_harness",
+      "suikehappyghast:brown_harness",
+      "suikehappyghast:blue_harness",
+      "suikehappyghast:purple_harness",
+      "suikehappyghast:cyan_harness",
+      "suikehappyghast:light_gray_harness",
+      "suikehappyghast:gray_harness",
+      "suikehappyghast:pink_harness",
+      "suikehappyghast:lime_harness",
+      "suikehappyghast:yellow_harness",
+      "suikehappyghast:light_blue_harness",
+      "suikehappyghast:magenta_harness",
+      "suikehappyghast:orange_harness",
+      "suikehappyghast:white_harness"
+    ]
+  },
+  {
+    "id": "custom:4aa4e91e",
+    "displayName": "旅行背包",
+    "backgroundColor": 861230421,
+    "borderColor": -863467384,
+    "itemUids": [
+      "travelersbackpack:travelers_backpack:*"
+    ]
+  }
+]

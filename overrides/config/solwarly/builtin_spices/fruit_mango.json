@@ -1,0 +1,34 @@
+{
+  "_instructions": "Edit this file, then restart or use /solwarly reload. JSON overrides the older spice config. null inherits built-in behavior; recipes:[] removes all routes, and an empty array for an effect tier removes that tier\u0027s effects. effects is an object with 1/2/3 copy arrays (potion, level\u003dI:1, duration_seconds, chance\u003d1); later tiers are optional. For accompaniments, tier 1 is per serving. effects_reference provides current examples: copy it to effects to replace inherited behavior. Keep effects\u003dnull for context-aware fruit, ham and Power Battle Mode behavior. powered_effects optionally overrides effects in Power Battle Mode. translations fields accept name, prefix, suffix, food_name (%s is the food), and tooltip; null inherits. material applies only to native ingredients. return\u003dnull returns no container; omitted return uses the material\u0027s container. Files are generated only when absent. Missing optional mods remain optional.",
+  "_说明": "修改后重启或执行/solwarly reload；JSON优先于旧调味配置。null继承原逻辑；recipes的空数组移除全部配方，effects中某一档的空数组移除该档效果。effects按1/2/3份填写药水列表，等级1为Ⅰ、时长为秒、chance为概率；更多档位可选。佐料的第1档为每份效果。将effects_reference复制到effects可替换原效果；保留null可继承果酱概率、火腿延长、超凡模式等动态规则。各语言可编辑名称、前后缀、food_name（%s为食物名）与tooltip。material用于直接使用的佐料，return省略继承容器、null不返还。仅补充缺少的文件，不覆盖已有修改。",
+  "id": "fruit_mango",
+  "enabled": true,
+  "color": "#FFB229",
+  "diversity_multiplier": 1.2,
+  "translations": {
+    "en_us": {
+      "name": "Mango Fruit Seasoning Powder",
+      "prefix": null,
+      "suffix": null,
+      "food_name": null,
+      "tooltip": null,
+      "_food_name_reference": "Mango-flavored %s",
+      "_tooltip_reference": ""
+    },
+    "zh_cn": {
+      "name": "芒果果香调味粉",
+      "prefix": null,
+      "suffix": null,
+      "food_name": null,
+      "tooltip": null,
+      "_food_name_reference": "芒果味 %s",
+      "_tooltip_reference": ""
+    }
+  },
+  "recipes": null,
+  "effects": null,
+  "powered_effects": null,
+  "effects_reference": {},
+  "special_actions": true,
+  "actions": {}
+}

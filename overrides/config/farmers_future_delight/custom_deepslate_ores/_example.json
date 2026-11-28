@@ -1,0 +1,58 @@
+{
+  "material": "example",
+  "ore": "block:examplemod:example_ore@0",
+  "generation": [
+    {
+      "template": "common",
+      "count": 6,
+      "size": 8,
+      "minY": -64,
+      "maxY": -1,
+      "distribution": "uniform",
+      "discardOnAirExposure": 0.0,
+      "plateau": 0
+    }
+  ],
+  "lang": {
+    "zh_cn": "深层示例矿石",
+    "en_us": "Deepslate Example Ore"
+  },
+  "_guide": {
+    "file": {
+      "zh_cn": "文件名以下划线开头时只作为示例，不会加载。复制或重命名为不以下划线开头的 .json 文件后才会生效；每份文件定义一种自定义深层矿石，修改后必须重启游戏。",
+      "en_us": "Files whose names begin with an underscore are examples and are never loaded. Copy or rename this to a .json file without a leading underscore to enable it. Each file defines one custom deepslate ore, and changes require a game restart."
+    },
+    "material": {
+      "zh_cn": "填写材质内部名，只能使用小写字母、数字和下划线，且不能使用 coal、iron、copper、gold、redstone、lapis、diamond 或 emerald。它决定注册名 farmers_future_delight:deepslate_compat_\u003cmaterial\u003e_ore；相同材质始终合并为一个深层矿石对象。",
+      "en_us": "Enter the internal material name using lowercase letters, digits, and underscores. It cannot be coal, iron, copper, gold, redstone, lapis, diamond, or emerald. It determines the registry name farmers_future_delight:deepslate_compat_\u003cmaterial\u003e_ore, and equal materials always merge into one deepslate ore object."
+    },
+    "ore": {
+      "zh_cn": "填写所映射的普通矿石。推荐使用 block:模组ID:方块注册名@metadata；也支持 item:模组ID:物品注册名@metadata 和 oredict:矿物词典名。只有在方块注册阶段能够解析到至少一个普通矿石方块时才会注册对应深层矿石；精确 block 选择器最可靠。",
+      "en_us": "Enter the mapped normal ore. The recommended form is block:modid:block_registry_name@metadata. item:modid:item_registry_name@metadata and oredict:oreDictionaryName are also accepted. The deepslate ore registers only when at least one normal ore block can be resolved during block registration; an exact block selector is the most reliable."
+    },
+    "generation": {
+      "zh_cn": "generation 是非空数组，可为同一种深层矿石定义多段矿脉。每段必须选择模板，并可覆盖该模板的全部生成数值。深层矿石只在洞穴与山崖世界类型中替换深板岩基底。",
+      "en_us": "generation is a non-empty array and may define multiple passes for the same deepslate ore. Every pass selects a template and may override all of its generation values. Deepslate ores replace deepslate base blocks only in the Caves \u0026 Cliffs world type."
+    },
+    "templates": {
+      "zh_cn": "模板默认值：common\u003d6次/大小8/-64至-1/均匀；uncommon\u003d4次/大小6/-64至-1/均匀；rare\u003d2次/大小4/-64至-1/均匀；triangle\u003d6次/大小8/-64至-1/三角；buried\u003d4次/大小8/-64至-8/梯形/空气暴露跳过0.75/平顶16。",
+      "en_us": "Template defaults: common\u003d6 attempts/size 8/-64 to -1/uniform; uncommon\u003d4/6/-64 to -1/uniform; rare\u003d2/4/-64 to -1/uniform; triangle\u003d6/8/-64 to -1/triangle; buried\u003d4/8/-64 to -8/trapezoid/0.75 air-exposure discard/plateau 16."
+    },
+    "generationValues": {
+      "zh_cn": "count 控制每区块尝试次数，size 控制矿脉大小，minY 与 maxY 控制抽样高度，distribution 可填 uniform、triangle 或 trapezoid，discardOnAirExposure 为0至1的空气暴露跳过概率，plateau 为梯形分布平顶宽度。uniform 与 triangle 的 plateau 必须为0。",
+      "en_us": "count controls attempts per chunk, size controls vein size, minY and maxY control sampled heights, distribution accepts uniform, triangle, or trapezoid, discardOnAirExposure is an air-exposure discard chance from 0 to 1, and plateau is the flat width of a trapezoid distribution. uniform and triangle require plateau 0."
+    },
+    "behavior": {
+      "zh_cn": "深层矿石继承普通矿石的硬度、挖掘工具与等级、亮度、掉落、经验和烧制结果，并加入普通矿石已有的矿物词典及兼容机器配方。存在对应粗矿时仍沿用现有粗矿掉落规则。",
+      "en_us": "The deepslate ore inherits the normal ore\u0027s hardness, harvest tool and level, light, drops, experience, and smelting output, and joins the normal ore\u0027s ore-dictionary and compatible machine recipes. Existing raw-ore drop rules still apply when a matching raw ore exists."
+    },
+    "resourcePackTexture": {
+      "zh_cn": "资源包可提供 assets/farmers_future_delight/textures/block/custom_deepslate_ores/\u003cmaterial\u003e.png。存在专用贴图时直接使用完整贴图；未提供时使用深板岩底图，并从普通矿石贴图自动提取颜色。",
+      "en_us": "A resource pack may provide assets/farmers_future_delight/textures/block/custom_deepslate_ores/\u003cmaterial\u003e.png. A supplied texture is used directly as the full texture. Without one, the shared deepslate base is used and a color is derived automatically from the normal ore texture."
+    },
+    "lang": {
+      "zh_cn": "lang 按语言代码填写 JSON 回退名称。资源包可在 assets/farmers_future_delight/lang/\u003c语言代码\u003e.lang 中使用 tile.farmers_future_delight.deepslate_compat_\u003cmaterial\u003e_ore.name\u003d名称覆盖它。",
+      "en_us": "lang maps language codes to JSON fallback names. A resource pack can override them in assets/farmers_future_delight/lang/\u003clanguage_code\u003e.lang with tile.farmers_future_delight.deepslate_compat_\u003cmaterial\u003e_ore.name\u003dName."
+    }
+  }
+}

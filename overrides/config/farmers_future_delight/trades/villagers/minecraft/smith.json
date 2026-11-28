@@ -1,0 +1,25 @@
+{
+  "careers": {
+    "armor": {
+      "enabled": true,
+      "replaceDefaults": false,
+      "remove": [],
+      "replace": [],
+      "add": []
+    },
+    "weapon": {
+      "enabled": true,
+      "replaceDefaults": false,
+      "remove": [],
+      "replace": [],
+      "add": []
+    },
+    "tool": {
+      "enabled": true,
+      "replaceDefaults": false,
+      "remove": [],
+      "replace": [],
+      "add": []
+    }
+  }
+}

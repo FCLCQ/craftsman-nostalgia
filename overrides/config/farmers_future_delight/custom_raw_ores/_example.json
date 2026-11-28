@@ -1,0 +1,63 @@
+{
+  "material": "example",
+  "ores": [
+    "oredict:oreExample",
+    "item:examplemod:example_ore@0"
+  ],
+  "smeltResult": "oredict:ingotExample",
+  "color": "auto",
+  "lang": {
+    "zh_cn": "粗示例矿",
+    "en_us": "Raw Example"
+  },
+  "blockLang": {
+    "zh_cn": "粗示例矿块",
+    "en_us": "Block of Raw Example"
+  },
+  "_guide": {
+    "file": {
+      "zh_cn": "文件名以下划线开头时只作为示例，不会加载。复制或重命名为不以下划线开头的 .json 文件后才会生效；每份文件定义一种自定义粗矿，修改后必须重启游戏。",
+      "en_us": "Files whose names begin with an underscore are examples and are never loaded. Copy or rename this to a .json file without a leading underscore to enable it. Each file defines one custom raw ore, and changes require a game restart."
+    },
+    "material": {
+      "zh_cn": "填写材质内部名，只能使用小写字母 a-z、数字 0-9 和下划线，且不能与内置材质或其他自定义 JSON 重复。它决定物品与方块注册名 farmers_future_delight:raw_\u003cmaterial\u003e、farmers_future_delight:raw_\u003cmaterial\u003e_block，以及矿物词典名 raw\u003cMaterial\u003e、blockRaw\u003cMaterial\u003e。",
+      "en_us": "Enter the internal material name using only lowercase a-z, digits 0-9, and underscores. It must not duplicate a built-in material or another custom JSON. It determines the registry names farmers_future_delight:raw_\u003cmaterial\u003e and farmers_future_delight:raw_\u003cmaterial\u003e_block, plus the ore-dictionary names raw\u003cMaterial\u003e and blockRaw\u003cMaterial\u003e."
+    },
+    "ores": {
+      "zh_cn": "填写至少一个矿石选择器。匹配到的矿石会被识别为该材质的来源，用于挖掘与兼容机器的粗矿掉落转换。可同时填写矿物词典和精确物品，以覆盖多个模组的同类矿石。",
+      "en_us": "Enter at least one ore selector. Matching ores become sources for this material and are used by mining and compatible-machine raw-ore drop conversion. Ore-dictionary and exact-item selectors may be combined to cover equivalent ores from multiple mods."
+    },
+    "selectorFormat": {
+      "zh_cn": "矿物词典格式为 oredict:oreExample。物品格式为 item:modid:registry_name，可追加 @0 等 metadata；省略 metadata 或填写 @* 表示匹配任意 metadata。",
+      "en_us": "Use oredict:oreExample for an ore-dictionary selector. Use item:modid:registry_name for an item selector, optionally followed by metadata such as @0. Omitting metadata or using @* matches any metadata."
+    },
+    "smeltResult": {
+      "zh_cn": "填写一个矿物词典或物品选择器，作为粗矿的烧制产物。矿物词典会使用首个有效物品。该产物还用于自动取色，并帮助机器配方推导对应的锭、宝石、粉或晶体材质后缀；无法解析时相关烧制与联动配方不会添加。",
+      "en_us": "Enter one ore-dictionary or item selector as the smelting output. An ore-dictionary selector uses its first valid stack. This output also supplies automatic coloring and helps machine recipes derive the matching ingot, gem, dust, or crystal suffix. Smelting and related compatibility recipes are skipped when it cannot be resolved."
+    },
+    "color": {
+      "zh_cn": "可填写 #RRGGBB 作为固定染色值。省略 color，或填写 auto（不区分大小写），都会从烧制产物模型所用贴图的第一帧选取四组主要代表色并取平均值，自动为粗矿与粗矿块分配颜色。若资源包提供了该材质的专用贴图，则直接使用专用贴图且不再染色。",
+      "en_us": "Enter #RRGGBB to use a fixed tint. Omitting color or entering auto in any letter case derives a color automatically by selecting four main representative colors from the first frame of textures used by the smelting output model and averaging them. A material-specific resource-pack texture is used directly and disables tinting."
+    },
+    "lang": {
+      "zh_cn": "按语言代码填写粗矿物品的 JSON 回退名称，例如 zh_cn、en_us。当前语言不存在时依次回退到 en_us、首个已填写名称，最后才生成默认英文名。资源包 .lang 中的名称优先于这里。",
+      "en_us": "Map language codes such as zh_cn and en_us to fallback names for the raw-ore item. Missing languages fall back to en_us, then the first supplied name, and finally a generated English name. Resource-pack .lang entries take priority over these values."
+    },
+    "blockLang": {
+      "zh_cn": "按语言代码填写粗矿块的 JSON 回退名称。省略时会根据 lang 生成中文“名称+块”或英文“Block of + 名称”。资源包 .lang 中的名称优先于这里。",
+      "en_us": "Map language codes to fallback names for the raw-ore block. When omitted, the name is derived from lang as Chinese \u0027name + block\u0027 or English \u0027Block of + name\u0027. Resource-pack .lang entries take priority over these values."
+    },
+    "resourcePackTextures": {
+      "zh_cn": "资源包可分别提供 assets/farmers_future_delight/textures/item/custom_raw_ores/\u003cmaterial\u003e.png 和 assets/farmers_future_delight/textures/block/custom_raw_ore_blocks/\u003cmaterial\u003e.png。存在某一专用贴图时，对应物品或方块直接使用该贴图且不应用 color；未提供的一侧仍使用公共灰度底图与染色。",
+      "en_us": "A resource pack may provide assets/farmers_future_delight/textures/item/custom_raw_ores/\u003cmaterial\u003e.png and assets/farmers_future_delight/textures/block/custom_raw_ore_blocks/\u003cmaterial\u003e.png independently. A supplied texture is used directly without color tinting; a missing side still uses the shared grayscale texture and tint."
+    },
+    "resourcePackLang": {
+      "zh_cn": "在资源包 assets/farmers_future_delight/lang/\u003c语言代码\u003e.lang 中使用 item.farmers_future_delight.raw_\u003cmaterial\u003e.name\u003d物品名称，以及 tile.farmers_future_delight.raw_\u003cmaterial\u003e_block.name\u003d方块名称。它们会覆盖 JSON 的 lang 与 blockLang。",
+      "en_us": "In assets/farmers_future_delight/lang/\u003clanguage_code\u003e.lang, use item.farmers_future_delight.raw_\u003cmaterial\u003e.name\u003dItem Name and tile.farmers_future_delight.raw_\u003cmaterial\u003e_block.name\u003dBlock Name. These entries override JSON lang and blockLang values."
+    },
+    "effects": {
+      "zh_cn": "有效定义会注册粗矿物品与粗矿块，并加入熔炉烧制、9:1 压缩与 1:9 解压、矿物词典、矿石掉落转换及可推导的机器联动配方。features.rawOreMode\u003dDISABLED 或 rawOreMaterialToggles 中 \u003cmaterial\u003e\u003dfalse 会关闭该材质；缺少单独开关时默认启用。",
+      "en_us": "A valid definition registers a raw-ore item and storage block, furnace smelting, 9:1 compression and 1:9 decompression, ore-dictionary entries, ore-drop conversion, and machine compatibility recipes that can be derived. features.rawOreMode\u003dDISABLED or \u003cmaterial\u003e\u003dfalse in rawOreMaterialToggles disables it; a missing per-material toggle defaults to enabled."
+    }
+  }
+}

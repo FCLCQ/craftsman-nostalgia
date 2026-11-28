@@ -1,0 +1,18 @@
+{
+  "material": "example",
+  "log": [
+    "block:examplemod:example_log@0"
+  ],
+  "wood": [
+    "block:examplemod:example_wood@0"
+  ],
+  "color": "auto",
+  "lang": {
+    "zh_cn": "示例木",
+    "en_us": "Example Wood"
+  },
+  "_guide": {
+    "zh_cn": "文件名以下划线开头时只作为示例，不会加载。复制或重命名为不以下划线开头的 .json 文件后才会生效；每份文件定义一个木材族，修改后必须重启游戏。log 和 wood 可以填写字符串或字符串数组，使用 block:模组ID:注册名@metadata；省略 @metadata 时按 0 处理，使用 @* 可匹配该方块的所有 metadata。精确 metadata 会忽略原木的轴向位，只匹配其余木材变体。来源必须是 Material.WOOD 的原木/木头类旋转柱方块。color 可填写 #RRGGBB，或省略/填写 auto 从来源木头模型自动取色。生成的注册名为 farmers_future_delight:custom_stripped_\u003cmaterial\u003e_log 和 farmers_future_delight:custom_stripped_\u003cmaterial\u003e_wood。",
+    "en_us": "Files whose names begin with an underscore are examples and are never loaded. Copy or rename this to a .json file without a leading underscore to enable it; each file defines one wood family and changes require a game restart. log and wood accept a string or string array using block:modid:registry_name@metadata; omitted metadata defaults to 0, while @* matches every metadata. Exact metadata ignores the source log axis and matches the remaining wood variant. Sources must be Material.WOOD rotated-pillar log/wood blocks. color may be #RRGGBB, or omitted/auto to derive a tint from the source wood model. The generated registry names are farmers_future_delight:custom_stripped_\u003cmaterial\u003e_log and farmers_future_delight:custom_stripped_\u003cmaterial\u003e_wood."
+  }
+}
