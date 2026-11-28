@@ -20,7 +20,7 @@ overrides/config/shaders.properties
 # 本地构建产物
 dist/
 *.zip
-!overrides/resourcepacks/CraftsmanNostalgia.zip
+!overrides/resourcepacks/CNFullTextures-CC.zip
 !overrides/shaderpacks/*.zip
 
 # 资源包备份与中间材料

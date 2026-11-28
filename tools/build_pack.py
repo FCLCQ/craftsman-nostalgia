@@ -243,7 +243,7 @@ def main():
     parser.add_argument("--with-offline", action="store_true",
                         help="把没有下载来源的模组嵌入 client-overrides/mods/，默认不打包")
     parser.add_argument("--name", default="craftsman-nostalgia", help="zip 格式的包名前缀")
-    parser.add_argument("--version", default="0.6.136", help="版本号")
+    parser.add_argument("--version", default="2026.11.28", help="版本号")
     args = parser.parse_args()
 
     manifest = load_json(os.path.join(ROOT, "mods-manifest.json"))
