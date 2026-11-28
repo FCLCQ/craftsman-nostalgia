@@ -2,128 +2,108 @@
 
 [中文](https://github.com/FCLCQ/craftsman-nostalgia/blob/main/docs/MODS.md)
 
-79 mods, loader is Cleanroom 0.6.13-alpha, versions taken from `mods-manifest.json` and each jar.
+68 mods on Outlands 2026.11.27; versions come from `mods-manifest.json` and each jar.
 
-## Loader and libraries
-
-| Mod | Version | Role |
-|---|---|---|
-| Mantle | 1.3.3.55 | Tinkers' Construct library |
-| libnine | 1.2.2 | Tinkers' Evolution library |
-| ModularUI | 3.1.6 | GUI framework |
-| WanionLib | 1.12.2-2.91 | library |
-| Scalar | 3.10.0 | config and library |
-| UniDict | 3.0.10 | ore dictionary and recipe unification |
-| AssetMover | 2.5 | resource download and loading library |
-| Datarium | 0.6.1 | data and resource loading library |
-| AppleCore | 3.4.0 | hunger and food API |
-| OreLib | 3.6.0.1 | library |
-| Bubbles | 2.4.10 | accessory slots library |
-| GroovyScript | 1.5.0 | scripting engine for materials and recipes |
-
-## Tinkers' Construct
+## Loader and prerequisites
 
 | Mod | Version | Role |
 |---|---|---|
-| Tinkers' Antique | 1.12.2-2.13.0.209 | Tinkers' Construct 2 core |
-| Antique Armory | 1.3.0 | armour addon with armour forge and armour parts |
-| Tinkers' Evolution | 1.1.9 | Tinkers' Evolution, material and trait expansion |
-| Armory Expansion | 2.0.0-alpha | armour material expansion |
-| Tinkers' Tactical Toughness | 1.9.8 | tactical addon with modifier extraction |
-| Tinkers Alloying Addon | 1.12.2-1.3.3-fix-1.0.1-beta | alloying addon |
-| Tinkers Planner Antique | 1.2.0 | tool planner |
-| Tinkers' Tool Leveling | 1.12.2-1.1.0 | tool levelling and experience |
-| Tinkers Sort | 1.0.2 | part and material sorting |
-| Simple Smeltery Accelerator | 1.0.1 | smeltery accelerator |
+| OreLib Support Mod | 3.6.0.2 | Prerequisite library providing config, logging and graphics helpers |
+| Mantle | 1.3.3.55 | Tinkers prerequisite with book and tool model framework |
+| libnine | 1.2.2 | Prerequisite for Tinkers' Evolution |
+| ModularUI | 3.1.6 | GUI framework shared by several mods |
+| Datarium | 0.6.1 | Data and resource loading library |
+| AppleCore | 3.4.0 | Hunger and food API |
+| Bubbles | 2.4.10 | Baubles inventory API used by trinkets and Tinkers' Evolution |
+| GroovyScript | 1.5.0 | Script engine used for material, trait and recipe changes |
+| Pulsar Lighting Engine | 0.6.2 | Performance and lighting library required by Tinkers |
+| AssetMover | 2.5 | Mod resource redirection and loading library |
 
-## Backports (provided by FFD)
-
-| Mod | Version | Ported content |
-|---|---|---|
-| Farmer's Future Delight | 1.6.1 | crops, food, mobs, villages and Nether biomes; later versions cover all modern content |
-
-## Farming and food
+## Tinkers system
 
 | Mod | Version | Role |
 |---|---|---|
-| Farmer's Delight Legacy | 1.2.0-beta3 | Farmer's Delight core |
-| Twilight Delight Legacy | 1.4.2 | Twilight Delight addon |
-| End's Delight Legacy | 1.1.0 | End's Delight addon |
-| Spice of Life: Warly Edition | 1.0.1 | flavor experience and recent-diet rewards, spices and lunchboxes |
+| Tinkers' Antique | 2.13.0.210 | Tinkers' Antique core: tools, weapons and smeltery |
+| Antique Armory | 1.3.0 | Armor add-on with armor station and armor parts |
+| Tinkers' Evolution | 1.1.9 | Tinkers' Evolution with materials, traits and integrations |
+| Tinkers Alloying Addon | 1.12.2-1.3.3-fix-1.0.1-beta | Alloy add-on adding new alloys and materials |
+| Tinkers' Tactical Toughness | 1.9.8 | Tactical add-on with new weapon types |
+| Too Many Tinkers | 1.1.0-alpha.7 | Additional Tinkers parts and recipes |
+| Tinkers Planner Antique | 1.2.0 | Planning UI for tools and materials |
+| Tinkers Tool Leveling | 1.12.2-1.1.0 | Tool leveling and experience system |
+| Armory Expansion | 2.0.0-alpha | Material and trait additions for the armor add-on |
+| Tinkers Sort | 1.0.2 | Sorting helpers for Tinkers parts and materials |
+| Simple Smeltery Accelerator | 1.0.1 | Simplified smeltery acceleration structures |
 
 ## World and adventure
 
 | Mod | Version | Role |
 |---|---|---|
-| The Twilight Forest | 3.15.1 | Twilight Forest |
-| Botania CEu | r1.10-377 | Botania |
-| Twilight Spark's Delight | 1.1.0 | Twilight food expansion |
-| Advancement Locator | 1.3.0 | advancement locator |
+| The Twilight Forest | 3.15.1 | Twilight Forest dimension, mobs and dungeons |
+| Botania CEu | r1.10-377 | Botania flowers and mana system |
+| Traveler's Backpack | 1.0.35 | Upgradable traveler backpack storage |
+| Baubley Elytra | v1.3.6-mc1.12.2 | Elytra as a bauble slot item |
+| Iron Chest | 1.0.2 | Netherite chests and upgrades |
+| Polymorph Legacy | 1.0.1 | Recipe conflict output selection |
 
-## Interface and information
+## Farming and food
 
 | Mod | Version | Role |
 |---|---|---|
-| Had Enough Items | 4.38.1 | item and recipe viewer |
-| Waila | 1.8.26 | block and entity info |
-| Jade | 0.1.0 | block info |
-| Just Enough Resources | 0.9.3 | resource and drop viewer |
-| Just Enough Drops | 1.1.1 | drop viewer |
-| Waila Harvestability | 1.1.12 | harvest level hints |
-| Inventory HUD+ | 3.4.4 | inventory and status HUD |
-| Inventory Bogo Sorter | 1.6.4 | inventory sorting |
-| Mouse Tweaks Unofficial | 3.2.1 | mouse tweaks |
-| Shulker Tooltip | 1.9.2.2 | shulker box preview |
-| ClassicBar Legacy | 0.6.1 | status bars |
-| Traveler's Backpack | 1.0.35 | traveler's backpack |
-| Baubley Elytra | 1.3.6 | bauble elytra |
-| Cherished Worlds | 1.0.1 | world bookmarking |
-| Polymorph Legacy | 1.0.1 | recipe conflict selection |
-| Quick Craft | 2.4 | quick crafting |
-| Chat Heads Vintage | 0.1.3 | chat heads |
-| RGB Chat | 2.1 | chat colors |
-| No JB Put | 1.2.0 | disable JEI book crafting |
-| Clear My Background | 1.0.4 | clear GUI background |
-| MiniEffects | 2.3.2 | compact status effects |
-| JEI Area Fixer | 2.4.0 | JEI layout fixes |
-| Just Enough Magiculture | 1.3.0 | JEI magic integration |
+| Farmer's Delight Legacy | 1.2.0-beta3 | Farmer's Delight cooking, crops and meals |
+| Farmer's Future Delight | 1.6.1 | Future-themed Farmer's Delight expansion |
+| End's Delight Legacy | 1.1.0 | End-themed food expansion |
+| Twilight Delight Legacy | 1.5.0 | Twilight Forest themed food expansion |
+| Twilight Spark's Delight | 1.1.0 | Aquatic compatibility for Twilight Delight |
+| Gnetum | 1.4.3 | Additional plantable trees and crops |
+| Just Enough Magiculture | 1.12.2-1.3.0 | Agriculture and magic recipe integration |
+| Spice of Life Warly Edition | 1.0.1 | Food variety and saturation mechanics |
+
+## UI and information
+
+| Mod | Version | Role |
+|---|---|---|
+| Had Enough Items | 4.38.1 | Item and recipe lookup |
+| JEI Area Fixer | 2.4.0 | Fixes JEI recipe area layout |
+| Just Enough Resources | 0.9.3 | Resource distribution and world generation info |
+| Just Enough Drops | 1.1.1 | Mob drop lookup |
+| Waila | 1.8.26 | Block information overlay |
+| Waila Harvestability | 1.1.12 | Harvest level and tool hints |
+| Jade | 0.1.0 | Block and entity information overlay |
+| Inventory HUD+ | 3.4.4 | Inventory and equipment info panels |
+| ClassicBar Legacy | 0.6.1 | Status bar display |
+| Chat Heads Vintage | 0.1.3 | Chat head icons |
+| Shulker Tooltip | 1.9.2.2 | Shulker box content preview |
+| Advancement Locator | 1.3.0 | Advancement locator |
+| Inventory Bogo Sorter | 1.6.4 | Inventory sorting |
+| Mouse Tweaks Unofficial | 3.2.1 | Mouse-based item moving tweaks |
+| Quick Craft | 2.4 | Quick crafting and restock |
+| No JB Put | 1.2.0 | Prevents putting items into the hotbar |
+| Clear My Background | 1.0.4-1.12.2 | Clears menu background blur |
+| RGB Chat | 2.1 | Colored chat text |
 
 ## Visuals and audio
 
 | Mod | Version | Role |
 |---|---|---|
-| Dynamic Surroundings | 3.6.3 | ambient sound and visuals |
-| Sound Physics | 1.3.2-beta | sound attenuation and reverb |
-| Visuality: Reforged | 1.1.0 | particles and visual effects |
-| NeverEnoughAnimations | 1.0.7 | first person animations |
-| ItemPhysic Lite | 1.3.7 | item drop physics |
-| Gnetum | 1.4.3 | splits HUD updates across frames to reduce stutter |
-| Gast's Drop Records | 1.0 | mob music disc drops |
+| Dynamic Surroundings | 4.0.0 | Dynamic Surroundings audio, weather and fog |
+| Actinium | beta-0.1.0 | Modern rendering and shader compatibility layer |
+| Visuality: Reforged | 1.1.0 | Additional particle effects |
+| Mini Effects - Legacy Extended Life | 2.3.2 | Compact status effect icons |
+| NeverEnoughAnimations | 1.0.7 | First-person animation additions |
+| ItemPhysic | 1.3 | Item drop physics |
+| Celeritas Leaf Culling | 1.0.2 | Leaf culling optimization |
 
-## Optimization and fixes
-
-| Mod | Version | Role |
-|---|---|---|
-| Actinium | 0.0.13 | Sodium-style renderer with Iris shader support |
-| Celeritas Extra | 0.9.3 | extra render options for Actinium |
-| Celeritas Dynamic Lights | 1.2.11 | dynamic light addon for Celeritas |
-| Celeritas Leaf Culling | 1.0.2 | leaf culling optimization for Celeritas |
-| Pulsar Lighting Engine | 0.6.2 | Starlight-based lighting engine with RGB colored lighting |
-| VintageFix | 0.7.2 | FerriteCore backport reducing memory use |
-| StellarCore | 1.6.8 | performance and bug-fix collection |
-| Universal Tweaks | 1.21.0 | centralized bug fixes and tweaks |
-| LoliASM | 5.34 | LoliASM, bytecode loading and runtime optimizations |
-| Fugue | 0.24.4 | patches unmaintained mods for Cleanroom |
-| WrapFix | 2.0.0 | line wrap and text width fixes |
-| Reach Fix | 1.1.3 | reach and interaction distance fix |
-| Fixeroo | 2.3.7 | XP orb merging and performance fix |
-| Iron Chest Fix | 1.0.0 | iron chest rendering and interaction fix |
-| Fishing Tick Fix | 1.2.0 | fishing tick fix |
-| Key Binding Patch | 1.3.3.3 | key binding fix |
-| TickRate Mod | 1.1 | tick rate control |
-
-## Others
+## Optimizations and fixes
 
 | Mod | Version | Role |
 |---|---|---|
-| Iron Chests: Netherite | 1.0.2 | netherite expansion for Iron Chests |
+| Universal Tweaks | 1.21.0 | General performance and behavior tweaks |
+| Fixeroo | 2.3.7 | Experience orb merging |
+| Reach Fix | 1.1.3 | Reach distance synchronization fix |
+| Fishing Tick Fix | 1.2.0+mc1-12-2-forge-14-23-5-2860 | Fishing tick fix |
+| Iron Chest Fix | 1.0.0 | Iron chest compatibility fix |
+| Key Binding API Shim | 1.3.3.3 | Key binding API shim |
+| TickRate Mod | 1.1 | Tick rate control |
+| Cherished Worlds | 1.12.2-1.0.1 | Save protection against accidental world deletion |
+

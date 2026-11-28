@@ -2,125 +2,108 @@
 
 [English](https://github.com/FCLCQ/craftsman-nostalgia/blob/main/docs/MODS.en.md)
 
-共 68 个模组，加载器为 Outlands 2026.11.26-3，版本取自 `mods-manifest.json` 与各 jar 元数据。
+共 68 个模组，加载器为 Outlands 2026.11.27，版本取自 `mods-manifest.json` 与各 jar 元数据。
 
 ## 加载器与前置库
 
 | 模组 | 版本 | 作用 |
 |---|---|---|
-| Mantle | 1.3.3.55 | 匠魂前置库 |
+| OreLib Support Mod | 3.6.0.2 | Outlands 环境下的前置库，提供配置、日志与图形工具 |
+| Mantle | 1.3.3.55 | 匠魂前置库，提供书籍与工具模型框架 |
 | libnine | 1.2.2 | 匠魂进化前置库 |
-| ModularUI | 3.1.6 | GUI 框架 |
-| AssetMover | 2.5 | 资源下载与加载库 |
+| ModularUI | 3.1.6 | GUI 框架，供多个模组复用 |
 | Datarium | 0.6.1 | 数据与资源加载库 |
 | AppleCore | 3.4.0 | 饥饿与食物 API |
-| OreLib | 1.12.2-3.6.0.2 | 前置库 |
-| Bubbles | 2.4.10 | 饰品栏前置 |
-| GroovyScript | 1.5.0 | 脚本引擎，材料与配方改动 |
+| Bubbles | 2.4.10 | 饰品栏前置，供饰品与匠魂进化使用 |
+| GroovyScript | 1.5.0 | 脚本引擎，材料、词条与配方改动 |
+| Pulsar Lighting Engine | 0.6.2 | Tinkers 依赖的性能与光照库 |
+| AssetMover | 2.5 | 模组资源重定向与加载库 |
 
 ## 匠魂体系
 
 | 模组 | 版本 | 作用 |
 |---|---|---|
-| Tinkers' Antique | 1.12.2-2.13.0.210 | 匠魂怀古本体 |
+| Tinkers' Antique | 2.13.0.210 | 匠魂怀古本体，工具、武器与冶炼炉 |
 | Antique Armory | 1.3.0 | 盔甲扩展，盔甲装配台与护甲部件 |
-| Tinkers' Evolution | 1.1.9 | 匠魂进化，材料与特性扩展 |
-| Armory Expansion | 2.0.0-alpha | 盔甲材料扩展 |
-| Tinkers' Tactical Toughness | 1.9.8 | 匠魂战术扩展，强化提取与研磨 |
-| Tinkers Alloying Addon | 1.12.2-1.3.3-fix-1.0.1-beta | 匠魂合金扩展 |
-| Tinkers Planner Antique | 1.2.0 | 匠魂工具规划 |
-| Tinkers' Tool Leveling | 1.12.2-1.1.0 | 工具等级与经验 |
-| Tinkers Sort | 1.0.2 | 部件与材料排序 |
-| Simple Smeltery Accelerator | 1.0.1 | 冶炼炉加速方块 |
-
-## 向下移植（FFD 提供）
-
-| 模组 | 版本 | 移植内容 |
-|---|---|---|
-| Farmer's Future Delight | 1.6.1 | 作物、食物、生物、村庄与下界群系；后续版本覆盖全部高版本内容 |
-
-## 农业与食物
-
-| 模组 | 版本 | 作用 |
-|---|---|---|
-| Farmer's Delight Legacy | 1.2.0-beta3 | 农夫乐事本体 |
-| Twilight Delight Legacy | 1.4.2 | 暮色乐事附属 |
-| End's Delight Legacy | 1.1.0 | 末地乐事附属 |
-| Spice of Life: Warly Edition | 1.0.1 | 风味阅历与近期饮食双线，调味与餐盒 |
+| Tinkers' Evolution | 1.1.9 | 匠魂进化，材料、词条与多模组集成 |
+| Tinkers Alloying Addon | 1.12.2-1.3.3-fix-1.0.1-beta | 匠魂合金扩展，新增合金与材料 |
+| Tinkers' Tactical Toughness | 1.9.8 | 战术扩展，新增曲刃、长矛、盾牌等武器 |
+| Too Many Tinkers | 1.1.0-alpha.7 | 补充匠魂工具部件与配方 |
+| Tinkers Planner Antique | 1.2.0 | 工具与材料规划界面 |
+| Tinkers Tool Leveling | 1.12.2-1.1.0 | 工具等级与经验系统 |
+| Armory Expansion | 2.0.0-alpha | 盔甲扩展的材料与词条补充 |
+| Tinkers Sort | 1.0.2 | 匠魂部件与材料的排序整理 |
+| Simple Smeltery Accelerator | 1.0.1 | 简化冶炼炉的加速结构 |
 
 ## 世界与冒险
 
 | 模组 | 版本 | 作用 |
 |---|---|---|
-| The Twilight Forest | 3.15.1 | 暮色森林 |
-| Botania CEu | r1.10-377 | 植物魔法 |
-| Twilight Spark's Delight | 1.1.0 | 暮色乐事扩展 |
-| Advancement Locator | 1.3.0 | 进度定位工具 |
+| The Twilight Forest | 3.15.1 | 暮色森林，新维度、生物与地牢 |
+| Botania CEu | r1.10-377 | 植物魔法，花与魔力系统 |
+| Traveler's Backpack | 1.0.35 | 旅行者背包，可升级的便携存储 |
+| Baubley Elytra | v1.3.6-mc1.12.2 | 鞘翅饰品化，配合饰品栏使用 |
+| Iron Chest | 1.0.2 | 下界合金箱子与升级 |
+| Polymorph Legacy | 1.0.1 | 配方冲突时选择输出 |
+
+## 农业与食物
+
+| 模组 | 版本 | 作用 |
+|---|---|---|
+| Farmer's Delight Legacy | 1.2.0-beta3 | 农夫乐事，厨具、作物与料理 |
+| Farmer's Future Delight | 1.6.1 | 农夫乐事的未来风格扩展 |
+| End's Delight Legacy | 1.1.0 | 末地主题的料理扩展 |
+| Twilight Delight Legacy | 1.5.0 | 暮色森林主题的料理扩展 |
+| Twilight Spark's Delight | 1.1.0 | 暮色森林料理的水生兼容 |
+| Gnetum | 1.4.3 | 新增可种植的果树与作物 |
+| Just Enough Magiculture | 1.12.2-1.3.0 | 农业与魔法的配方集成 |
+| Spice of Life Warly Edition | 1.0.1 | 食物多样性与饱食机制 |
 
 ## 界面与信息
 
 | 模组 | 版本 | 作用 |
 |---|---|---|
-| Had Enough Items | 4.38.1 | 物品与配方查看 |
-| Waila | 1.8.26 | 方块与实体信息显示 |
-| Jade | 0.1.0 | 方块信息显示 |
-| Just Enough Resources | 0.9.3 | 资源与掉落查看 |
-| Just Enough Drops | 1.1.1 | 掉落物查看 |
-| Waila Harvestability | 1.1.12 | 挖掘等级提示 |
-| Inventory HUD+ | 3.4.4 | 物品栏与状态 HUD |
-| Inventory Bogo Sorter | 1.6.4 | 背包整理与排序 |
-| Mouse Tweaks Unofficial | 3.2.1 | 鼠标批量操作 |
-| Shulker Tooltip | 1.9.2.2 | 潜影盒内容预览 |
+| Had Enough Items | 4.38.1 | 物品与配方查询 |
+| JEI Area Fixer | 2.4.0 | JEI 配方界面布局修复 |
+| Just Enough Resources | 0.9.3 | 资源分布与世界生成信息 |
+| Just Enough Drops | 1.1.1 | 生物掉落物查询 |
+| Waila | 1.8.26 | 方块信息悬浮提示 |
+| Waila Harvestability | 1.1.12 | 采集等级与工具提示 |
+| Jade | 0.1.0 | 方块与实体信息提示 |
+| Inventory HUD+ | 3.4.4 | 背包与装备信息面板 |
 | ClassicBar Legacy | 0.6.1 | 状态条显示 |
-| Traveler's Backpack | 1.0.35 | 旅行背包 |
-| Baubley Elytra | 1.3.6 | 饰品栏鞘翅 |
-| Cherished Worlds | 1.0.1 | 存档收藏 |
-| Polymorph Legacy | 1.0.1 | 配方冲突选择 |
-| Quick Craft | 2.4 | 快速合成 |
 | Chat Heads Vintage | 0.1.3 | 聊天头像 |
-| RGB Chat | 2.1 | 聊天颜色 |
-| No JB Put | 1.2.0 | 关闭 JEI 书页合成 |
-| Clear My Background | 1.0.4 | 清除界面背景 |
-| MiniEffects | 2.3.2 | 状态效果精简显示 |
-| JEI Area Fixer | 2.4.0 | JEI 界面调整 |
-| Just Enough Magiculture | 1.3.0 | JEI 魔法内容集成 |
+| Shulker Tooltip | 1.9.2.2 | 潜影盒内容预览 |
+| Advancement Locator | 1.3.0 | 进度与成就定位 |
+| Inventory Bogo Sorter | 1.6.4 | 背包整理与排序 |
+| Mouse Tweaks Unofficial | 3.2.1 | 鼠标批量移动物品 |
+| Quick Craft | 2.4 | 快速合成与一键补货 |
+| No JB Put | 1.2.0 | 禁止把物品放入快捷栏 |
+| Clear My Background | 1.0.4-1.12.2 | 清除界面背景模糊 |
+| RGB Chat | 2.1 | 彩色聊天文本 |
 
 ## 视觉与音效
 
 | 模组 | 版本 | 作用 |
 |---|---|---|
-| Dynamic Surroundings | 3.6.3 | 环境音效与视觉氛围 |
-| Sound Physics | 1.3.2-beta | 声音衰减与混响 |
-| Visuality: Reforged | 1.1.0 | 粒子与视觉特效 |
-| NeverEnoughAnimations | 1.0.7 | 第一人称动画 |
-| ItemPhysic Lite | 1.3.7 | 物品掉落物理 |
-| Gnetum | 1.4.3 | HUD 更新分帧，减少界面卡顿 |
-| Gast's Drop Records | 1.0 | 生物掉落唱片 |
+| Dynamic Surroundings | 4.0.0 | 动态环境，音效、天气与雾效 |
+| Actinium | beta-0.1.0 | 现代渲染与着色器兼容层 |
+| Visuality: Reforged | 1.1.0 | 粒子效果补充 |
+| Mini Effects - Legacy Extended Life | 2.3.2 | 小图标状态效果 |
+| NeverEnoughAnimations | 1.0.7 | 第一人称动画扩展 |
+| ItemPhysic | 1.3 | 物品掉落物理 |
+| Celeritas Leaf Culling | 1.0.2 | 树叶剔除优化 |
 
 ## 优化与修复
 
 | 模组 | 版本 | 作用 |
 |---|---|---|
-| Actinium | 0.0.13 | Sodium 系渲染器与 Iris 光影兼容 |
-| Celeritas Extra | 0.9.3 | Actinium 的额外渲染选项 |
-| Celeritas Dynamic Lights | 1.2.11 | Celeritas 的动态光源扩展 |
-| Celeritas Leaf Culling | 1.0.2 | Celeritas 的树叶裁剪优化 |
-| Pulsar Lighting Engine | 0.6.2 | 基于 Starlight 的光照引擎，启用 RGB 彩色光照 |
-| VintageFix | 0.7.2 | FerriteCore 移植，降低内存占用 |
-| StellarCore | 1.6.8 | 性能优化与 bug 修复集合 |
-| Universal Tweaks | 1.21.0 | 集中式 bug 修复与行为优化 |
-| LoliASM | 5.34 | LoliASM，字节码加载与运行优化 |
-| Fugue | 0.24.4 | 修补停止维护的模组以适配 Cleanroom |
-| WrapFix | 2.0.0 | 换行与文本宽度修复 |
-| Reach Fix | 1.1.3 | 攻击与交互距离修复 |
-| Fixeroo | 2.3.7 | 经验球合并与性能修复 |
-| Iron Chest Fix | 1.0.0 | 铁箱渲染与交互修复 |
-| Fishing Tick Fix | 1.2.0 | 钓鱼 tick 修复 |
-| Key Binding Patch | 1.3.3.3 | 按键绑定修复 |
-| TickRate Mod | 1.1 | Tick 速率调整 |
+| Universal Tweaks | 1.21.0 | 综合性能与行为调整 |
+| Fixeroo | 2.3.7 | 经验球合并 |
+| Reach Fix | 1.1.3 | 攻击距离同步修复 |
+| Fishing Tick Fix | 1.2.0+mc1-12-2-forge-14-23-5-2860 | 钓鱼刻修复 |
+| Iron Chest Fix | 1.0.0 | 铁箱兼容修复 |
+| Key Binding API Shim | 1.3.3.3 | 按键组合 API 兼容层 |
+| TickRate Mod | 1.1 | 刻率控制 |
+| Cherished Worlds | 1.12.2-1.0.1 | 存档保护，防止误删世界 |
 
-## 其他
-
-| 模组 | 版本 | 作用 |
-|---|---|---|
-| Iron Chests: Netherite | 1.0.2 | 铁箱的下界合金扩展 |
